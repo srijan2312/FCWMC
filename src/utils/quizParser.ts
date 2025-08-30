@@ -18,9 +18,9 @@ export function parseQuizText(raw: string): QuizQuestion[] {
     const lines = block.split(/\r?\n/).map(l => l.trim()).filter(Boolean);
     if (lines.length < 6) continue;
     // Question line (allow Q1. or no prefix)
-    let question = lines[0].replace(/^Q\d+\.\s*/, '');
+  const question = lines[0].replace(/^Q\d+\.\s*/, '');
     // Options: match a), b), c), d) or A), B), C), D)
-    let options: string[] = [];
+  const options: string[] = [];
     for (let j = 1; j <= 4; j++) {
       const optMatch = lines[j].match(/^[a-dA-D][).]\s*(.*)$/);
       if (optMatch) {

@@ -19,9 +19,9 @@ const OptionButton: React.FC<OptionButtonProps> = ({
 	showFeedback,
 	theme,
 }) => {
-					let base = 'w-full py-3 px-6 rounded-full text-base font-semibold transition-all duration-200 cursor-pointer border';
-					let bg = 'bg-white text-gray-800 border-gray-300';
-					let hover = 'hover:bg-gray-100';
+					const base = 'w-full py-3 px-6 rounded-full text-base font-semibold transition-all duration-200 cursor-pointer border';
+					const bg = 'bg-white text-gray-800 border-gray-300';
+					const hover = 'hover:bg-gray-100';
 		let selected = '';
 		let feedback = '';
 					// Highlight correct option in green when locked

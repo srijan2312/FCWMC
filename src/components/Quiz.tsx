@@ -1,11 +1,7 @@
 "use client";
 import React, { useEffect } from 'react';
-import GlassCard from './GlassCard';
 import OptionButton from './OptionButton';
 import { useRef } from 'react';
-import SidebarNav from './SidebarNav';
-import ProgressBar from './ProgressBar';
-import DarkModeToggle from './DarkModeToggle';
 // import Timer from './Timer';
 import EndScreen from './EndScreen';
 import { useQuizStore } from '../store/quizStore';
@@ -42,12 +38,10 @@ const Quiz: React.FC = () => {
     selectOption,
     next,
     prev,
-    reset,
     reattempt,
     setCurrentQuestion,
   } = useQuizStore();
   const [showEndScreen, setShowEndScreen] = React.useState(false);
-  const numberPanelRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const saved = localStorage.getItem('quiz-progress');
@@ -69,7 +63,7 @@ const Quiz: React.FC = () => {
         if (typeof data.progress === 'number') {
           useQuizStore.setState({ progress: data.progress });
         }
-      } catch (e) {
+  } catch {
         fetchQuizData().then((parsed) => {
           setQuestions(parsed);
         });
