@@ -1,0 +1,2099 @@
+Q1. Which of the following is the main purpose of a communication system?
+A) To increase power of a signal
+B) To enable transmission of information from one point to another
+C) To store signals for later use
+D) To reduce the size of data
+Answer: B
+
+Q2. Which block of a communication system is responsible for converting information into electrical signals?
+A) Receiver
+B) Channel
+C) Transmitter
+D) Input transducer
+Answer: D
+
+Q3. Which of the following is NOT a component of a basic communication system?
+A) Transmitter
+B) Channel
+C) Receiver
+D) Multiplier
+Answer: D
+
+Q4. In a communication system, noise is generally introduced at:
+A) Transmitter
+B) Channel
+C) Receiver
+D) Input transducer
+Answer: B
+
+Q5. Which type of communication uses physical mediums like cables and optical fibers?
+A) Wireless communication
+B) Guided communication
+C) Satellite communication
+D) Digital communication
+Answer: B
+
+Q6. The main disadvantage of unguided (wireless) communication is:
+A) High cost of maintenance
+B) High susceptibility to noise and interference
+C) Requirement of physical medium
+D) Very short range
+Answer: B
+
+Q7. Which one of the following is an example of guided communication?
+A) Radio broadcasting
+B) Microwave link
+C) Optical fiber communication
+D) Satellite TV
+Answer: C
+
+Q8. In digital communication, the main information is represented in:
+A) Analog waveforms
+B) Discrete symbols (bits)
+C) Continuous voltage levels
+D) Carrier amplitude only
+Answer: B
+
+Q9. Which type of communication is more immune to noise?
+A) Analog
+B) Digital
+C) Both equally
+D) Neither
+Answer: B
+
+Q10. Which of the following is an advantage of analog communication?
+A) High noise immunity
+B) Better sound quality
+C) Simpler and cheaper implementation
+D) Error detection and correction
+Answer: C
+
+Q11. Which of the following is an advantage of digital communication?
+A) Cheaper design
+B) Simpler circuits
+C) High noise immunity and easy error detection
+D) Requires less bandwidth
+Answer: C
+
+Q12. In which generation of communication did cellular systems (like 2G GSM) appear?
+A) 1G
+B) 2G
+C) 3G
+D) 4G
+Answer: B
+
+Q13. Which of the following is NOT true about 4G LTE?
+A) Provides high-speed internet
+B) Uses OFDMA
+C) Operates only on analog signals
+D) Supports multimedia services
+Answer: C
+
+Q14. The process of varying a carrier signal in order to transmit information is called:
+A) Demodulation
+B) Modulation
+C) Sampling
+D) Quantization
+Answer: B
+
+Q15. Which of the following properties of a carrier can be varied for modulation?
+A) Amplitude only
+B) Frequency only
+C) Phase only
+D) Amplitude, Frequency, or Phase
+Answer: D
+
+Q16. Which modulation technique varies the amplitude of the carrier according to the message signal?
+A) Frequency modulation
+B) Amplitude modulation
+C) Phase modulation
+D) Pulse modulation
+Answer: B
+
+Q17. In amplitude modulation (AM), the bandwidth required is:
+A) Equal to the highest modulating frequency
+B) Twice the highest modulating frequency
+C) Half the carrier frequency
+D) Equal to carrier frequency
+Answer: B
+
+Q18. Which of the following is used for demodulation of AM signals?
+A) Envelope detector
+B) Frequency discriminator
+C) Phase locked loop
+D) Band-pass filter only
+Answer: A
+
+Q19. Which frequency range is typically used for AM radio broadcasting?
+A) 535–1705 kHz
+B) 88–108 MHz
+C) 3–30 GHz
+D) 2.4–2.5 GHz
+Answer: A
+
+Q20. Which of the following is NOT an advantage of AM?
+A) Simple receiver design
+B) Long-distance coverage
+C) High fidelity audio quality
+D) Can reflect off the ionosphere
+Answer: C
+
+Q21. AM is most susceptible to:
+A) Multipath fading
+B) Frequency deviation
+C) Noise and interference
+D) Quantization errors
+Answer: C
+
+Q22. In frequency modulation (FM), the property varied according to the message is:
+A) Amplitude
+B) Frequency
+C) Phase
+D) Pulse width
+Answer: B
+
+Q23. Which formula is used to approximate FM bandwidth?
+A) Nyquist rule
+B) Carson’s rule
+C) Shannon capacity theorem
+D) Friis equation
+Answer: B
+
+Q24. Which device is commonly used to demodulate FM signals?
+A) Envelope detector
+B) Ratio detector
+C) Low-pass filter
+D) Rectifier
+Answer: B
+
+Q25. The frequency range of commercial FM broadcasting is:
+A) 535–1705 kHz
+B) 3–30 MHz
+C) 88–108 MHz
+D) 2.4–2.5 GHz
+Answer: C
+
+Q26. Which of the following is a disadvantage of FM?
+A) Better sound quality
+B) More susceptible to noise
+C) Requires wider bandwidth
+D) Can support stereo transmission
+Answer: C
+
+Q27. FM provides better sound quality because:
+A) It reduces amplitude variations caused by noise
+B) It requires very narrow bandwidth
+C) It uses low frequencies only
+D) It eliminates carrier signals
+Answer: A
+
+Q28. Which of the following supports stereo transmission?
+A) AM
+B) FM
+C) Both AM and FM
+D) Neither
+Answer: B
+
+Q29. FM signals are primarily limited in range because:
+A) They cannot pass through vacuum
+B) They require large power
+C) They travel only line-of-sight
+D) They use very low frequency
+Answer: C
+
+Q30. Which is NOT a feature of AM broadcasting?
+A) Low sound quality
+B) High coverage area
+C) Simple circuit implementation
+D) High noise immunity
+Answer: D
+
+Q31. A key difference between AM and FM receivers is:
+A) AM requires envelope detectors, FM requires discriminators
+B) AM requires PLLs, FM requires rectifiers
+C) AM uses phase detectors, FM uses envelope detectors
+D) AM does not require antennas, FM does
+Answer: A
+
+Q32. Which of the following communication types is MOST immune to noise?
+A) AM
+B) FM
+C) Both equally
+D) None
+Answer: B
+
+Q33. For long-distance broadcasting where coverage is more important than sound quality, which modulation is preferred?
+A) FM
+B) AM
+C) PM
+D) QAM
+Answer: B
+
+Q34. FM radio is generally chosen over AM for music broadcasting because:
+A) Narrow bandwidth is sufficient
+B) It has better noise immunity and higher fidelity
+C) It requires cheaper transmitters
+D) It uses no carrier frequency
+Answer: B
+
+Q35. What is the typical bandwidth of a standard FM broadcast channel?
+A) 5 kHz
+B) 10 kHz
+C) 100 kHz – 200 kHz
+D) 5 MHz
+Answer: C
+
+Q36. In amplitude modulation, which parameters remain constant?
+A) Frequency and Phase
+B) Frequency and Amplitude
+C) Phase and Amplitude
+D) Frequency only
+Answer: A
+
+Q37. Which is more complex in design?
+A) AM receiver
+B) FM receiver
+C) Both equally
+D) Neither
+Answer: B
+
+Q38. Which modulation can travel farther distances, especially at night due to ionospheric reflection?
+A) AM
+B) FM
+C) PM
+D) PCM
+Answer: A
+
+Q39. Which modulation is used in aviation radio communication for its simplicity?
+A) AM
+B) FM
+C) CDMA
+D) OFDM
+Answer: A
+
+Q40. Which has higher spectral efficiency (more data per Hz)?
+A) AM
+B) FM
+C) Both equally
+D) None
+Answer: B
+
+Q41. A major limitation of AM radio is:
+A) Requires synchronization
+B) High susceptibility to noise
+C) Cannot reflect off ionosphere
+D) No commercial use
+Answer: B
+
+Q42. What does an envelope detector extract from the AM wave?
+A) Carrier frequency
+B) Modulating signal
+C) Phase information
+D) Frequency deviation
+Answer: B
+
+Q43. FM requires which type of bandwidth compared to AM?
+A) Narrower
+B) Wider
+C) Equal
+D) Bandwidth independent
+Answer: B
+
+Q44. What kind of modulation is primarily used for two-way radio communication?
+A) AM
+B) FM
+C) CDMA
+D) OFDMA
+Answer: B
+
+Q45. Which modulation scheme is simpler to implement?
+A) AM
+B) FM
+C) PM
+D) QAM
+Answer: A
+
+Q46. In FM, the frequency deviation depends on:
+A) Carrier amplitude
+B) Amplitude of modulating signal
+C) Frequency of carrier
+D) Phase of modulating signal
+Answer: B
+
+Q47. What is the main limitation of FM broadcasting?
+A) Narrow bandwidth
+B) Limited coverage area
+C) Low sound quality
+D) Simple receivers
+Answer: B
+
+Q48. FM is less affected by:
+A) Amplitude noise
+B) Frequency noise
+C) Both equally
+D) None
+Answer: A
+
+Q49. For emergency broadcasting systems where range is critical, which modulation is used?
+A) FM
+B) AM
+C) QAM
+D) PSK
+Answer: B
+
+Q50. Which modulation is mainly used in TV sound transmission?
+A) AM
+B) FM
+C) CDMA
+D) OFDM
+Answer: B
+
+Q51. Digital modulation differs from analog modulation mainly because:
+A) Only frequency is varied
+B) Carrier is modified according to discrete digital data
+C) It uses only amplitude variation
+D) It cannot be used in wireless systems
+Answer: B
+
+Q52. Which of the following is NOT a digital modulation technique?
+A) ASK
+B) FSK
+C) PSK
+D) AM
+Answer: D
+
+Q53. In Amplitude Shift Keying (ASK), the parameter varied is:
+A) Frequency
+B) Phase
+C) Amplitude
+D) Time duration
+Answer: C
+
+Q54. A major drawback of ASK is:
+A) High noise susceptibility
+B) Complex receiver
+C) Wide bandwidth requirement
+D) Requires expensive transmitters
+Answer: A
+
+Q55. In Frequency Shift Keying (FSK), binary 1 and 0 are represented by:
+A) Two different amplitudes
+B) Two different frequencies
+C) Two different phases
+D) Two different time delays
+Answer: B
+
+Q56. FSK has better noise immunity compared to:
+A) ASK
+B) PSK
+C) QAM
+D) OFDM
+Answer: A
+
+Q57. The main disadvantage of FSK is:
+A) Poor noise immunity
+B) Requires larger bandwidth
+C) Complex demodulation
+D) Limited to analog systems
+Answer: B
+
+Q58. In Phase Shift Keying (PSK), the information is conveyed by:
+A) Amplitude changes
+B) Frequency changes
+C) Phase changes
+D) Pulse width changes
+Answer: C
+
+Q59. Binary PSK (BPSK) uses:
+A) Two distinct amplitude levels
+B) Two distinct phase states
+C) Two distinct frequency levels
+D) Two distinct time slots
+Answer: B
+
+Q60. BPSK provides:
+A) Low noise immunity
+B) High noise immunity but low data rate
+C) High bandwidth efficiency with low reliability
+D) Unlimited bandwidth
+Answer: B
+
+Q61. Quadrature Phase Shift Keying (QPSK) transmits:
+A) 1 bit per symbol
+B) 2 bits per symbol
+C) 3 bits per symbol
+D) 4 bits per symbol
+Answer: B
+
+Q62. QPSK achieves higher data rates than BPSK because:
+A) It uses higher frequencies
+B) It transmits 2 bits per symbol
+C) It requires less bandwidth
+D) It eliminates noise completely
+Answer: B
+
+Q63. Which digital modulation is more bandwidth efficient?
+A) BPSK
+B) QPSK
+C) Both equal
+D) ASK
+Answer: B
+
+Q64. Differential PSK (DPSK) avoids:
+A) Carrier synchronization
+B) Bandwidth usage
+C) Frequency errors
+D) Amplitude variation
+Answer: A
+
+Q65. In DPSK, information is transmitted by:
+A) Absolute phase of carrier
+B) Change in phase relative to previous symbol
+C) Frequency deviation
+D) Amplitude difference
+Answer: B
+
+Q66. A key advantage of DPSK is:
+A) Higher noise immunity than BPSK
+B) No need for a coherent carrier reference
+C) Unlimited range
+D) Zero bandwidth requirement
+Answer: B
+
+Q67. Quadrature Amplitude Modulation (QAM) combines:
+A) Amplitude and frequency variations
+B) Amplitude and phase variations
+C) Frequency and phase variations
+D) Amplitude only
+Answer: B
+
+Q68. Which modulation is widely used in 4G LTE and Wi-Fi?
+A) AM
+B) FM
+C) QAM
+D) ASK
+Answer: C
+
+Q69. 16-QAM transmits:
+A) 2 bits per symbol
+B) 4 bits per symbol
+C) 8 bits per symbol
+D) 16 bits per symbol
+Answer: B
+
+Q70. 64-QAM transmits:
+A) 4 bits per symbol
+B) 6 bits per symbol
+C) 8 bits per symbol
+D) 64 bits per symbol
+Answer: B
+
+Q71. The main advantage of QAM is:
+A) Simple hardware
+B) Very high spectral efficiency
+C) High noise immunity
+D) Requires narrow bandwidth
+Answer: B
+
+Q72. The main disadvantage of QAM is:
+A) Very poor noise immunity
+B) Complex receiver and requires high SNR
+C) Cannot be used in wireless channels
+D) It is only theoretical
+Answer: B
+
+Q73. In constellation diagrams, each symbol corresponds to:
+A) A unique frequency
+B) A unique phase-amplitude combination
+C) A unique bandwidth
+D) A unique time delay
+Answer: B
+
+Q74. Which digital modulation has the lowest bandwidth efficiency?
+A) BPSK
+B) QPSK
+C) ASK
+D) FSK
+Answer: D
+
+Q75. Which digital modulation has the best noise performance?
+A) ASK
+B) FSK
+C) BPSK
+D) 16-QAM
+Answer: C
+
+Q76. Why is BPSK preferred in deep-space communication?
+A) It requires narrow bandwidth
+B) It has high noise immunity
+C) It is very simple to implement
+D) All of the above
+Answer: D
+
+Q77. Which modulation scheme is used in GSM mobile communication?
+A) BPSK
+B) GMSK (Gaussian Minimum Shift Keying)
+C) 16-QAM
+D) AM
+Answer: B
+
+Q78. Minimum Shift Keying (MSK) is a form of:
+A) ASK
+B) FSK
+C) PSK
+D) QAM
+Answer: B
+
+Q79. MSK is preferred over FSK because:
+A) It requires more power
+B) It has better spectral efficiency and lower side lobes
+C) It uses higher frequencies
+D) It eliminates modulation
+Answer: B
+
+Q80. Which modulation scheme is used in Wi-Fi (IEEE 802.11)?
+A) BPSK, QPSK, and QAM
+B) Only FM
+C) Only AM
+D) Only FSK
+Answer: A
+
+Q81. Which of the following is NOT true about QPSK?
+A) It transmits 2 bits per symbol
+B) It has higher data rate than BPSK
+C) It requires more bandwidth than BPSK
+D) It uses four phase states
+Answer: C
+
+Q82. In higher-order QAM (like 64-QAM), the minimum distance between constellation points:
+A) Increases
+B) Decreases
+C) Remains constant
+D) Irrelevant
+Answer: B
+
+Q83. Higher-order QAM requires:
+A) Higher SNR for reliable detection
+B) Lower bandwidth
+C) Narrower channel
+D) No synchronization
+Answer: A
+
+Q84. Which of the following is a disadvantage of higher-order QAM?
+A) Low data rates
+B) High error probability in noisy channels
+C) Inefficient use of spectrum
+D) Cannot be implemented
+Answer: B
+
+Q85. Which digital modulation is the most bandwidth efficient among these?
+A) BPSK
+B) QPSK
+C) 16-QAM
+D) 64-QAM
+Answer: D
+
+Q86. Which is the simplest form of digital modulation?
+A) ASK
+B) PSK
+C) FSK
+D) QAM
+Answer: A
+
+Q87. Which modulation is used in Bluetooth technology?
+A) BPSK
+B) GFSK (Gaussian Frequency Shift Keying)
+C) 16-QAM
+D) DPSK
+Answer: B
+
+Q88. A main advantage of PSK over ASK is:
+A) Higher power efficiency and better noise immunity
+B) Simpler detection
+C) Narrower bandwidth
+D) Lower implementation cost
+Answer: A
+
+Q89. Which modulation is preferred for high-speed broadband communication?
+A) BPSK
+B) FSK
+C) QAM
+D) ASK
+Answer: C
+
+Q90. What is the bit rate of a QPSK system transmitting at a symbol rate of 1 Msps?
+A) 0.5 Mbps
+B) 1 Mbps
+C) 2 Mbps
+D) 4 Mbps
+Answer: C
+
+Q91. If a 16-QAM system has a symbol rate of 1 Msps, the bit rate is:
+A) 1 Mbps
+B) 2 Mbps
+C) 4 Mbps
+D) 16 Mbps
+Answer: C
+
+Q92. Which modulation is most sensitive to amplitude distortion?
+A) PSK
+B) QAM
+C) FSK
+D) DPSK
+Answer: B
+
+Q93. Which is more robust against phase noise?
+A) QPSK
+B) BPSK
+C) 16-QAM
+D) 64-QAM
+Answer: B
+
+Q94. Which of the following modulations has the best trade-off between bandwidth efficiency and error performance?
+A) BPSK
+B) QPSK
+C) 16-QAM
+D) 64-QAM
+Answer: C
+
+Q95. Which digital modulation is used in DVB-T (Digital TV broadcasting)?
+A) AM
+B) FM
+C) OFDM with QAM
+D) BPSK
+Answer: C
+
+Q96. Orthogonal Frequency Division Multiplexing (OFDM) is mainly combined with:
+A) ASK
+B) QAM and PSK
+C) AM
+D) FM
+Answer: B
+
+Q97. Which is a key advantage of OFDM?
+A) High immunity to multipath fading
+B) Narrow bandwidth usage
+C) Simple synchronization
+D) No need for error correction
+Answer: A
+
+Q98. LTE mobile networks mainly use:
+A) FM
+B) QAM + OFDM
+C) AM
+D) FSK
+Answer: B
+
+Q99. The BER (Bit Error Rate) performance of BPSK compared to QPSK is:
+A) Worse
+B) Better
+C) Equal
+D) Unrelated
+Answer: C
+
+Q100. The number of symbols in M-ary modulation is:
+A) 2M
+B) M
+C) log2(M)
+D) M²
+Answer: B
+
+Q101. The process of converting a continuous-time signal into discrete-time by taking samples is called:
+A) Quantization
+B) Sampling
+C) Modulation
+D) Coding
+Answer: B
+
+Q102. The minimum sampling frequency to avoid aliasing is given by:
+A) Shannon-Hartley theorem
+B) Nyquist theorem
+C) Laplace theorem
+D) Fourier theorem
+Answer: B
+
+Q103. According to the Nyquist theorem, the sampling rate must be at least:
+A) Equal to signal frequency
+B) Twice the maximum signal frequency
+C) Half the maximum signal frequency
+D) Any random frequency
+Answer: B
+
+Q104. Aliasing occurs when:
+A) Sampling frequency is too high
+B) Sampling frequency is too low
+C) Quantization error is large
+D) Signal is analog
+Answer: B
+
+Q105. To avoid aliasing, we use:
+A) Low-pass anti-aliasing filter
+B) High-pass filter
+C) Band-stop filter
+D) Notch filter
+Answer: A
+
+Q106. The process of mapping sampled values into a finite number of levels is:
+A) Sampling
+B) Quantization
+C) Modulation
+D) Encoding
+Answer: B
+
+Q107. Quantization error is defined as:
+A) The difference between actual sample and quantized value
+B) The loss of bandwidth
+C) The noise introduced by channel
+D) The difference between input and output frequencies
+Answer: A
+
+Q108. Increasing the number of quantization levels results in:
+A) Higher quantization error
+B) Lower quantization error
+C) No effect
+D) Higher aliasing
+Answer: B
+
+Q109. Quantization noise is modeled as:
+A) Gaussian noise
+B) Uniform random noise
+C) Impulse noise
+D) Burst noise
+Answer: B
+
+Q110. Signal-to-Quantization Noise Ratio (SQNR) improves with:
+A) Fewer quantization levels
+B) More quantization levels
+C) Lower sampling rate
+D) Higher aliasing
+Answer: B
+
+Q111. Pulse Code Modulation (PCM) involves:
+A) Sampling, quantization, and encoding
+B) Amplitude variation only
+C) Frequency shifting
+D) Phase modulation
+Answer: A
+
+Q112. The first step in PCM is:
+A) Quantization
+B) Sampling
+C) Encoding
+D) Demodulation
+Answer: B
+
+Q113. In PCM, each quantized sample is represented by:
+A) Analog pulses
+B) Binary digits
+C) Amplitude levels
+D) Frequency shifts
+Answer: B
+
+Q114. The bit rate of a PCM system is equal to:
+A) Sampling rate × Number of quantization levels
+B) Sampling rate × Bits per sample
+C) Bandwidth × 2
+D) Sampling rate / 2
+Answer: B
+
+Q115. A 4-bit PCM system has how many quantization levels?
+A) 2
+B) 4
+C) 8
+D) 16
+Answer: D
+
+Q116. A 3-bit PCM system can represent how many levels?
+A) 4
+B) 6
+C) 8
+D) 16
+Answer: C
+
+Q117. Increasing the number of bits per PCM sample:
+A) Increases quantization noise
+B) Decreases quantization noise
+C) Increases aliasing
+D) Reduces bandwidth
+Answer: B
+
+Q118. The bandwidth requirement of PCM increases with:
+A) Sampling rate only
+B) Number of quantization levels only
+C) Both sampling rate and number of bits per sample
+D) Only with signal frequency
+Answer: C
+
+Q119. Which of the following is NOT an advantage of PCM?
+A) High noise immunity
+B) Easy error detection and correction
+C) Requires less bandwidth than analog signals
+D) Efficient storage
+Answer: C
+
+Q120. In Differential PCM (DPCM), instead of coding the sample value, we encode:
+A) The quantization error
+B) The difference between successive samples
+C) The absolute amplitude
+D) The phase variation
+Answer: B
+
+Q121. A major advantage of DPCM over PCM is:
+A) Lower bandwidth requirement
+B) Higher quantization noise
+C) More complex design
+D) Requires larger sampling rate
+Answer: A
+
+Q122. Adaptive Differential PCM (ADPCM) improves DPCM by:
+A) Using fixed quantization step
+B) Using adaptive quantization step
+C) Reducing sampling rate
+D) Using fewer bits
+Answer: B
+
+Q123. ADPCM is commonly used in:
+A) HDTV
+B) Telephony and speech compression
+C) Satellite communication
+D) Morse code
+Answer: B
+
+Q124. Delta Modulation (DM) encodes:
+A) Only amplitude levels
+B) Only frequency shifts
+C) Only phase shifts
+D) One-bit difference between successive samples
+Answer: D
+
+Q125. The major drawback of Delta Modulation is:
+A) Quantization noise
+B) Slope overload distortion and granular noise
+C) Aliasing
+D) Bandwidth inefficiency
+Answer: B
+
+Q126. Slope overload distortion in DM occurs when:
+A) Step size is too small
+B) Step size is too large
+C) Sampling rate is too low
+D) Quantization levels are infinite
+Answer: A
+
+Q127. Granular noise in DM occurs when:
+A) Step size is too small for slow variations
+B) Step size is too large for slow variations
+C) Sampling rate is too high
+D) Quantization levels are too low
+Answer: B
+
+Q128. Adaptive Delta Modulation (ADM) helps reduce:
+A) Bandwidth usage
+B) Quantization noise only
+C) Both slope overload and granular noise
+D) Aliasing only
+Answer: C
+
+Q129. Line coding refers to:
+A) Modulation of carrier
+B) Conversion of digital data into suitable waveform for transmission
+C) Amplification of signals
+D) Synchronization of clocks
+Answer: B
+
+Q130. Unipolar line coding represents binary 1 with:
+A) Positive voltage
+B) Negative voltage
+C) Zero voltage
+D) Alternating values
+Answer: A
+
+Q131. In unipolar line coding, binary 0 is represented by:
+A) Positive voltage
+B) Negative voltage
+C) Zero voltage
+D) Alternating values
+Answer: C
+
+Q132. A disadvantage of unipolar coding is:
+A) Requires more bandwidth
+B) No DC component
+C) Synchronization is difficult due to long strings of 0s
+D) Noise immunity is very high
+Answer: C
+
+Q133. In Polar NRZ line coding:
+A) Binary 1 is +V and binary 0 is −V
+B) Binary 1 is +V and binary 0 is 0
+C) Binary 1 is 0 and binary 0 is −V
+D) Binary 1 is +2V and binary 0 is −2V
+Answer: A
+
+Q134. In Polar RZ line coding:
+A) Each bit occupies full time slot
+B) Each bit returns to zero in middle of time slot
+C) Uses alternating pulses
+D) No DC component
+Answer: B
+
+Q135. Bipolar line coding represents binary digits by:
+A) Alternating positive and negative voltages for 1s, 0 is zero voltage
+B) Positive voltage for 1, negative voltage for 0
+C) Zero voltage for both 0 and 1
+D) Only positive voltages
+Answer: A
+
+Q136. A key advantage of bipolar line coding is:
+A) DC component is eliminated
+B) Bandwidth is reduced
+C) Noise immunity is very high
+D) Sampling is unnecessary
+Answer: A
+
+Q137. Manchester coding is a combination of:
+A) Amplitude and frequency modulation
+B) NRZ and clock signal
+C) ASK and FSK
+D) Two polar RZ signals
+Answer: B
+
+Q138. In Manchester coding, a binary 1 is represented by:
+A) High-to-low transition
+B) Low-to-high transition
+C) No transition
+D) Alternating levels
+Answer: B
+
+Q139. The main disadvantage of Manchester coding is:
+A) Difficult synchronization
+B) Requires higher bandwidth
+C) High error probability
+D) Presence of DC component
+Answer: B
+
+Q140. Scrambling in line coding is used to:
+A) Increase noise immunity
+B) Avoid long runs of 0s
+C) Reduce quantization noise
+D) Eliminate aliasing
+Answer: B
+
+Q141. Pulse stuffing in TDM is used to:
+A) Add synchronization bits
+B) Adjust data rate mismatch
+C) Eliminate quantization noise
+D) Reduce bandwidth
+Answer: B
+
+Q142. In Time Division Multiplexing (TDM), multiple signals share:
+A) Different frequencies
+B) Different phases
+C) Different time slots
+D) Different quantization levels
+Answer: C
+
+Q143. In Frequency Division Multiplexing (FDM), multiple signals share:
+A) Different frequencies
+B) Different time slots
+C) Different amplitude levels
+D) Different phases
+Answer: A
+
+Q144. A major drawback of FDM compared to TDM is:
+A) Noise susceptibility
+B) Bandwidth wastage due to guard bands
+C) Complexity of synchronization
+D) Quantization error
+Answer: B
+
+Q145. Synchronous TDM differs from statistical TDM because:
+A) It assigns fixed slots to each user
+B) It uses dynamic allocation
+C) It requires fewer slots
+D) It eliminates idle channels
+Answer: A
+
+Q146. Statistical TDM is more efficient because:
+A) It assigns fixed slots
+B) It assigns slots dynamically depending on demand
+C) It eliminates quantization
+D) It uses higher bandwidth
+Answer: B
+
+Q147. Code Division Multiple Access (CDMA) allows multiple users by:
+A) Assigning different time slots
+B) Assigning different frequencies
+C) Assigning unique spreading codes
+D) Using different quantization levels
+Answer: C
+
+Q148. In CDMA, signals are separated by:
+A) Frequency separation
+B) Time separation
+C) Code orthogonality
+D) Amplitude difference
+Answer: C
+
+Q149. A major advantage of CDMA is:
+A) High noise susceptibility
+B) High spectral efficiency and user capacity
+C) Simple receiver design
+D) Requires large guard bands
+Answer: B
+
+Q150. The process of assigning bandwidth dynamically to multiple users is:
+A) Multiplexing
+B) Modulation
+C) Demodulation
+D) Quantization
+Answer: A
+
+Q151. Error detection ensures:
+A) Errors never occur
+B) Errors can be detected at receiver
+C) Errors are automatically corrected
+D) Noise is eliminated
+Answer: B
+
+Q152. Error correction ensures:
+A) Errors are detected
+B) Errors are corrected without retransmission
+C) Errors never occur
+D) Bandwidth is reduced
+Answer: B
+
+Q153. Single-bit errors occur when:
+A) Only one bit is changed
+B) Two bits are swapped
+C) Multiple bits are changed
+D) Bit is deleted
+Answer: A
+
+Q154. Burst error occurs when:
+A) One bit is corrupted
+B) Several consecutive bits are corrupted
+C) Only the last bit is changed
+D) Bits are interchanged
+Answer: B
+
+Q155. Parity check is mainly used for:
+A) Error correction
+B) Error detection
+C) Multiplexing
+D) Synchronization
+Answer: B
+
+Q156. In even parity, the number of 1s in the codeword is:
+A) Always odd
+B) Always even
+C) Always zero
+D) Random
+Answer: B
+
+Q157. In odd parity, the number of 1s in the codeword is:
+A) Always even
+B) Always odd
+C) Always prime
+D) Always zero
+Answer: B
+
+Q158. Limitation of single parity bit is:
+A) Cannot detect odd errors
+B) Cannot detect even number of bit errors
+C) Requires high bandwidth
+D) Cannot be implemented
+Answer: B
+
+Q159. Longitudinal Redundancy Check (LRC) is also called:
+A) Vertical parity
+B) Horizontal parity
+C) Two-dimensional parity
+D) Checksum
+Answer: C
+
+Q160. Cyclic Redundancy Check (CRC) is based on:
+A) Matrix multiplication
+B) Polynomial division
+C) Prime numbers
+D) Parity check
+Answer: B
+
+Q161. The polynomial used in CRC is called:
+A) Generator polynomial
+B) Coding polynomial
+C) Error polynomial
+D) Redundancy polynomial
+Answer: A
+
+Q162. In CRC, the remainder after polynomial division is called:
+A) Message
+B) Checksum
+C) Redundancy bits
+D) Parity
+Answer: C
+
+Q163. CRC is very effective in detecting:
+A) Single-bit and burst errors
+B) Only single-bit errors
+C) Only burst errors
+D) No errors
+Answer: A
+
+Q164. The minimum Hamming distance needed to detect ‘d’ errors is:
+A) d + 1
+B) d
+C) d − 1
+D) 2d
+Answer: A
+
+Q165. The minimum Hamming distance needed to correct ‘d’ errors is:
+A) d
+B) d + 1
+C) 2d + 1
+D) d − 1
+Answer: C
+
+Q166. A code with Hamming distance 3 can:
+A) Detect 1 error only
+B) Detect up to 2 errors and correct 1 error
+C) Detect 3 errors
+D) Correct 2 errors
+Answer: B
+
+Q167. Hamming code is an example of:
+A) Block code
+B) Convolutional code
+C) Parity code
+D) Cyclic code
+Answer: A
+
+Q168. Redundancy bits in Hamming code are placed at positions:
+A) Powers of 2
+B) Prime numbers
+C) Random positions
+D) End of message
+Answer: A
+
+Q169. The number of redundancy bits (r) needed for m data bits is:
+A) 2^r ≥ m + r + 1
+B) 2^r ≤ m + r + 1
+C) 2r ≥ m
+D) r = m/2
+Answer: A
+
+Q170. A 7,4 Hamming code means:
+A) 7 data bits, 4 check bits
+B) 4 data bits, 7 check bits
+C) 4 data bits, 3 check bits, total 7 bits
+D) 7 parity bits, 4 data bits
+Answer: C
+
+Q171. Which ARQ method retransmits only the specific erroneous frame?
+A) Stop-and-Wait ARQ
+B) Go-Back-N ARQ
+C) Selective Repeat ARQ
+D) None
+Answer: C
+
+Q172. In Stop-and-Wait ARQ, sender:
+A) Sends multiple frames before acknowledgment
+B) Waits for acknowledgment after every frame
+C) Never waits for acknowledgment
+D) Retransmits immediately
+Answer: B
+
+Q173. A drawback of Stop-and-Wait ARQ is:
+A) Very high throughput
+B) Channel utilization is low for long propagation delays
+C) High error probability
+D) Large buffer requirement
+Answer: B
+
+Q174. In Go-Back-N ARQ, if one frame is lost:
+A) Only that frame is resent
+B) All frames from that one onward are resent
+C) No frame is resent
+D) Random frames are resent
+Answer: B
+
+Q175. In Selective Repeat ARQ, if one frame is lost:
+A) Only that frame is resent
+B) All frames are resent
+C) No frame is resent
+D) Random frame is resent
+Answer: A
+
+Q176. The sliding window protocol is used in:
+A) Multiplexing
+B) Error control
+C) Flow control
+D) Both error and flow control
+Answer: D
+
+Q177. Flow control is required to:
+A) Control frequency
+B) Match sender speed to receiver speed
+C) Increase bandwidth
+D) Avoid quantization error
+Answer: B
+
+Q178. Piggybacking in data link layer means:
+A) Adding parity bits
+B) Sending ACK along with data frame
+C) Attaching CRC with frame
+D) Adding time slots
+Answer: B
+
+Q179. Framing in data link layer is used for:
+A) Error detection
+B) Identifying frame boundaries
+C) Flow control
+D) Modulation
+Answer: B
+
+Q180. Bit stuffing is used in:
+A) Character-oriented framing
+B) Bit-oriented framing
+C) Parity checking
+D) Hamming coding
+Answer: B
+
+Q181. In bit stuffing, extra bits are inserted to:
+A) Maintain synchronization and avoid flag imitation
+B) Correct burst errors
+C) Increase bandwidth
+D) Reduce jitter
+Answer: A
+
+Q182. The standard flag used in HDLC bit-oriented framing is:
+A) 111111
+B) 01111110
+C) 000000
+D) 10101010
+Answer: B
+
+Q183. In character stuffing, a special character used as a delimiter is called:
+A) Flag byte
+B) Error byte
+C) Escape sequence
+D) Sync byte
+Answer: A
+
+Q184. Cyclic Redundancy Check belongs to which error detection method?
+A) Linear block codes
+B) Polynomial codes
+C) Convolutional codes
+D) Hamming codes
+Answer: B
+
+Q185. Error control techniques at Data Link Layer include:
+A) ARQ and FEC
+B) Multiplexing and Demultiplexing
+C) Sampling and Quantization
+D) Encoding and Decoding
+Answer: A
+
+Q186. Forward Error Correction (FEC) differs from ARQ because:
+A) FEC retransmits data
+B) FEC corrects errors without retransmission
+C) FEC detects but doesn’t correct
+D) FEC is slower
+Answer: B
+
+Q187. The main advantage of FEC is:
+A) Low bandwidth usage
+B) Useful in real-time communication where retransmission is not possible
+C) Always error-free
+D) High throughput
+Answer: B
+
+Q188. Hamming(7,4) code adds how many redundancy bits?
+A) 2
+B) 3
+C) 4
+D) 7
+Answer: B
+
+Q189. Burst errors are best handled using:
+A) Hamming codes
+B) CRC
+C) Single parity
+D) Block parity only
+Answer: B
+
+Q190. Checksum method is mainly used in:
+A) Data Link Layer
+B) Transport Layer
+C) Application Layer
+D) Physical Layer
+Answer: B
+
+Q191. TCP uses which error detection method?
+A) Hamming code
+B) CRC
+C) Checksum
+D) Parity bit
+Answer: C
+
+Q192. UDP uses:
+A) No error control
+B) CRC
+C) Checksum
+D) Hamming code
+Answer: C
+
+Q193. Which is more reliable for error control?
+A) TCP
+B) UDP
+C) ICMP
+D) IP
+Answer: A
+
+Q194. Which protocol is connection-oriented?
+A) UDP
+B) TCP
+C) IP
+D) ARP
+Answer: B
+
+Q195. Which protocol is connectionless?
+A) TCP
+B) UDP
+C) SCTP
+D) FTP
+Answer: B
+
+Q196. Sliding window size in Stop-and-Wait ARQ is:
+A) 1
+B) 2
+C) 3
+D) N
+Answer: A
+
+Q197. In Go-Back-N ARQ, the sender window size is:
+A) 1
+B) N
+C) N+1
+D) Any random value
+Answer: B
+
+Q198. In Selective Repeat ARQ, maximum sender window size is:
+A) N
+B) (N+1)/2
+C) N/2
+D) 2N
+Answer: C
+
+Q199. Protocols like HDLC and PPP operate at:
+A) Physical Layer
+B) Data Link Layer
+C) Network Layer
+D) Transport Layer
+Answer: B
+
+Q200. Which of the following is not an error detection technique?
+A) CRC
+B) Hamming code
+C) Parity check
+D) Go-Back-N ARQ
+Answer: D
+
+Q201. The main function of the Network Layer is:
+A) Error detection
+B) Routing of packets from source to destination
+C) Flow control
+D) Encryption
+Answer: B
+
+Q202. The Network Layer provides:
+A) Process-to-process delivery
+B) Node-to-node delivery
+C) Host-to-host delivery
+D) Frame-to-frame delivery
+Answer: C
+
+Q203. Which protocol is used for logical addressing at the Network Layer?
+A) MAC
+B) IP
+C) TCP
+D) ARP
+Answer: B
+
+Q204. An IPv4 address is:
+A) 16-bit
+B) 32-bit
+C) 64-bit
+D) 128-bit
+Answer: B
+
+Q205. An IPv6 address is:
+A) 32-bit
+B) 64-bit
+C) 128-bit
+D) 256-bit
+Answer: C
+
+Q206. The maximum number of addresses possible in IPv4 is:
+A) 2^16
+B) 2^32
+C) 2^64
+D) 2^128
+Answer: B
+
+Q207. The maximum number of addresses possible in IPv6 is:
+A) 2^64
+B) 2^96
+C) 2^128
+D) 2^256
+Answer: C
+
+Q208. IP is a:
+A) Reliable, connection-oriented protocol
+B) Unreliable, connectionless protocol
+C) Reliable, connectionless protocol
+D) Error-correcting protocol
+Answer: B
+
+Q209. In classful IPv4 addressing, Class A networks start with:
+A) 0xxxxxxx
+B) 10xxxxxx
+C) 110xxxxx
+D) 1110xxxx
+Answer: A
+
+Q210. In classful addressing, Class B networks start with:
+A) 0xxxxxxx
+B) 10xxxxxx
+C) 110xxxxx
+D) 1110xxxx
+Answer: B
+
+Q211. In classful addressing, Class C networks start with:
+A) 0xxxxxxx
+B) 10xxxxxx
+C) 110xxxxx
+D) 1110xxxx
+Answer: C
+
+Q212. In classful addressing, Class D is reserved for:
+A) Multicasting
+B) Broadcasting
+C) Unicasting
+D) Routing
+Answer: A
+
+Q213. Class E addresses are reserved for:
+A) Multicasting
+B) Experimental purposes
+C) Broadcasting
+D) Private networks
+Answer: B
+
+Q214. CIDR stands for:
+A) Classless Inter-Domain Routing
+B) Common Internet Data Routing
+C) Connectionless IP Data Routing
+D) Coded Internet Data Rules
+Answer: A
+
+Q215. Subnetting is used to:
+A) Increase broadcast domain
+B) Divide network into smaller networks
+C) Increase IP version
+D) Remove routing
+Answer: B
+
+Q216. Supernetting is also called:
+A) CIDR
+B) NAT
+C) ARP
+D) IPv6 tunneling
+Answer: A
+
+Q217. NAT stands for:
+A) Network Access Translation
+B) Network Address Translation
+C) Node Access Technique
+D) Network Authentication Type
+Answer: B
+
+Q218. NAT is used to:
+A) Map private IP addresses to public IP addresses
+B) Encrypt data
+C) Subnet networks
+D) Resolve hostnames
+Answer: A
+
+Q219. ARP stands for:
+A) Address Resolution Protocol
+B) Automatic Routing Protocol
+C) Access Routing Protocol
+D) Address Registration Protocol
+Answer: A
+
+Q220. ARP is used to:
+A) Map MAC to IP
+B) Map IP to MAC
+C) Map IP to hostname
+D) Encrypt IP
+Answer: B
+
+Q221. RARP stands for:
+A) Reverse Address Resolution Protocol
+B) Random Address Routing Protocol
+C) Routing Address Resolution Protocol
+D) Reverse Authentication Routing Protocol
+Answer: A
+
+Q222. RARP is used to:
+A) Map IP to MAC
+B) Map MAC to IP
+C) Encrypt MAC
+D) Encrypt IP
+Answer: B
+
+Q223. ICMP is primarily used for:
+A) Error reporting and diagnostics
+B) Encryption
+C) Congestion control
+D) Multiplexing
+Answer: A
+
+Q224. Which command uses ICMP?
+A) telnet
+B) ping
+C) ftp
+D) ssh
+Answer: B
+
+Q225. Traceroute works by using:
+A) ICMP echo reply
+B) TTL field in IP header
+C) TCP ACK
+D) ARP requests
+Answer: B
+
+Q226. The TTL field in an IP packet stands for:
+A) Time-to-Live
+B) Transmission-to-Loss
+C) Total Transmission Length
+D) Transport Time Limit
+Answer: A
+
+Q227. The primary job of routing is to:
+A) Identify physical addresses
+B) Forward packets based on destination IP
+C) Provide error correction
+D) Perform multiplexing
+Answer: B
+
+Q228. A routing table contains:
+A) List of MAC addresses
+B) List of IP routes and next hops
+C) DNS names
+D) ARP entries
+Answer: B
+
+Q229. Distance Vector Routing is based on:
+A) Hop count
+B) Bandwidth
+C) Delay
+D) Cost
+Answer: A
+
+Q230. Link State Routing is based on:
+A) Flooding link information
+B) Hop count only
+C) Random forwarding
+D) ARP requests
+Answer: A
+
+Q231. RIP uses which metric?
+A) Bandwidth
+B) Delay
+C) Hop count
+D) Reliability
+Answer: C
+
+Q232. RIP allows maximum hop count of:
+A) 8
+B) 15
+C) 30
+D) 255
+Answer: B
+
+Q233. OSPF stands for:
+A) Open Shortest Path First
+B) Open Source Path Forwarding
+C) Optical Shortest Path Forwarding
+D) Open Simple Path First
+Answer: A
+
+Q234. OSPF uses which algorithm?
+A) Distance Vector
+B) Dijkstra’s shortest path algorithm
+C) Bellman-Ford
+D) Random walk
+Answer: B
+
+Q235. BGP stands for:
+A) Basic Gateway Protocol
+B) Border Gateway Protocol
+C) Binary Gateway Protocol
+D) Bandwidth Gateway Protocol
+Answer: B
+
+Q236. BGP is a:
+A) Distance vector protocol
+B) Link state protocol
+C) Path vector protocol
+D) Flooding protocol
+Answer: C
+
+Q237. Static routing requires:
+A) Manual configuration
+B) Automatic updates
+C) Flooding
+D) Randomized forwarding
+Answer: A
+
+Q238. Dynamic routing requires:
+A) Manual setup
+B) Routing algorithms
+C) Predefined paths only
+D) MAC addresses
+Answer: B
+
+Q239. Default routing is used when:
+A) A specific route exists
+B) No specific route is found in table
+C) Multiple routes exist
+D) Routing table is empty
+Answer: B
+
+Q240. The main disadvantage of flooding routing is:
+A) High reliability
+B) Duplicate packets and congestion
+C) Always shortest path
+D) No delay
+Answer: B
+
+Q241. Congestion in a network means:
+A) Noisy channel
+B) Too many packets in the network
+C) Transmission errors
+D) Low bandwidth
+Answer: B
+
+Q242. Congestion control aims to:
+A) Avoid packet drops
+B) Manage network traffic to avoid overload
+C) Eliminate noise
+D) Encrypt packets
+Answer: B
+
+Q243. Open-loop congestion control is:
+A) Preventive
+B) Reactive
+C) Error correction
+D) Encryption
+Answer: A
+
+Q244. Closed-loop congestion control is:
+A) Preventive
+B) Reactive
+C) Encryption
+D) Multiplexing
+Answer: B
+
+Q245. Example of open-loop congestion control:
+A) Retransmission
+B) Window resizing
+C) Admission control
+D) Feedback from receiver
+Answer: C
+
+Q246. Example of closed-loop congestion control:
+A) Retransmission timeout
+B) Admission control
+C) Traffic shaping
+D) Scheduling
+Answer: A
+
+Q247. Random Early Detection (RED) is a technique for:
+A) Error detection
+B) Congestion avoidance
+C) Encryption
+D) Address translation
+Answer: B
+
+Q248. The choke packet technique is used for:
+A) Flow control
+B) Congestion control
+C) Error correction
+D) Multiplexing
+Answer: B
+
+Q249. Leaky bucket and token bucket are algorithms for:
+A) Encryption
+B) Congestion and traffic shaping
+C) Routing
+D) ARP resolution
+Answer: B
+
+Q250. MPLS stands for:
+A) Multi-Protocol Label Switching
+B) Multi-Path Label System
+C) Multiple Packet Line Switching
+D) Multi-Protocol LAN System
+Answer: A
+
+Q251. The Transport Layer is responsible for:
+A) Logical addressing
+B) End-to-end delivery of messages
+C) Error detection on physical link
+D) Routing
+Answer: B
+
+Q252. The two main transport layer protocols are:
+A) IP and ICMP
+B) TCP and UDP
+C) ARP and RARP
+D) HTTP and FTP
+Answer: B
+
+Q253. TCP stands for:
+A) Transmission Control Protocol
+B) Transfer Connection Protocol
+C) Transport Channel Protocol
+D) Trusted Communication Protocol
+Answer: A
+
+Q254. UDP stands for:
+A) User Datagram Protocol
+B) Universal Data Packet
+C) Unreliable Datagram Protocol
+D) User Data Protocol
+Answer: A
+
+Q255. TCP is:
+A) Connection-oriented and reliable
+B) Connectionless and unreliable
+C) Connectionless and reliable
+D) Connection-oriented and unreliable
+Answer: A
+
+Q256. UDP is:
+A) Connection-oriented and reliable
+B) Connectionless and unreliable
+C) Connectionless and faster than TCP
+D) Error correcting
+Answer: C
+
+Q257. TCP uses which technique for reliability?
+A) Checksum only
+B) Sequence numbers and acknowledgments
+C) Random retransmission
+D) Flowcharts
+Answer: B
+
+Q258. Flow control in TCP is managed using:
+A) Window size
+B) IP addressing
+C) Hop count
+D) Routing tables
+Answer: A
+
+Q259. TCP three-way handshake is used for:
+A) Error correction
+B) Connection establishment
+C) Flow control
+D) Congestion avoidance
+Answer: B
+
+Q260. The steps of TCP three-way handshake are:
+A) ACK, NACK, FIN
+B) SYN, SYN-ACK, ACK
+C) GET, POST, PUT
+D) REQ, RES, END
+Answer: B
+
+Q261. The protocol used for error reporting at transport layer is:
+A) ICMP
+B) TCP
+C) UDP
+D) ARP
+Answer: B
+
+Q262. Port numbers are used for:
+A) Logical addressing
+B) Process-to-process communication
+C) Encryption
+D) Physical addressing
+Answer: B
+
+Q263. The port number range is:
+A) 0–63
+B) 0–255
+C) 0–1023
+D) 0–65535
+Answer: D
+
+Q264. Well-known ports are in the range:
+A) 0–255
+B) 0–1023
+C) 1024–49151
+D) 49152–65535
+Answer: B
+
+Q265. The port number for HTTP is:
+A) 20
+B) 21
+C) 80
+D) 25
+Answer: C
+
+Q266. The port number for HTTPS is:
+A) 110
+B) 143
+C) 443
+D) 23
+Answer: C
+
+Q267. The port number for FTP data transfer is:
+A) 20
+B) 21
+C) 23
+D) 25
+Answer: A
+
+Q268. The port number for FTP control is:
+A) 20
+B) 21
+C) 23
+D) 25
+Answer: B
+
+Q269. The port number for Telnet is:
+A) 20
+B) 21
+C) 23
+D) 25
+Answer: C
+
+Q270. The port number for SMTP is:
+A) 23
+B) 25
+C) 53
+D) 110
+Answer: B
+
+Q271. The port number for DNS is:
+A) 25
+B) 53
+C) 67
+D) 143
+Answer: B
+
+Q272. The port number for POP3 is:
+A) 23
+B) 25
+C) 110
+D) 143
+Answer: C
+
+Q273. The port number for IMAP is:
+A) 110
+B) 143
+C) 443
+D) 53
+Answer: B
+
+Q274. The port number for SNMP is:
+A) 23
+B) 25
+C) 53
+D) 161
+Answer: D
+
+Q275. DNS stands for:
+A) Domain Naming Service
+B) Domain Name System
+C) Data Network Service
+D) Direct Naming System
+Answer: B
+
+Q276. DNS translates:
+A) IP to MAC
+B) MAC to IP
+C) Domain names to IP addresses
+D) IP to domain names only
+Answer: C
+
+Q277. The hierarchy of DNS includes:
+A) Root, Top-Level, Second-Level, Subdomain
+B) Transport, Network, Data Link
+C) Sender, Receiver, Medium
+D) Application, Session, Presentation
+Answer: A
+
+Q278. The port number for DHCP is:
+A) 53
+B) 67/68
+C) 80
+D) 110
+Answer: B
+
+Q279. DHCP stands for:
+A) Dynamic Host Control Protocol
+B) Dynamic Host Configuration Protocol
+C) Distributed Host Configuration Protocol
+D) Dynamic Host Connection Protocol
+Answer: B
+
+Q280. DHCP is used for:
+A) Encryption
+B) Automatic IP address assignment
+C) Error correction
+D) Subnetting
+Answer: B
+
+Q281. HTTP stands for:
+A) Hyper Transfer Text Protocol
+B) Hyper Text Transfer Protocol
+C) Host Text Transfer Protocol
+D) High Transmission Transfer Protocol
+Answer: B
+
+Q282. HTTPS uses:
+A) SSL/TLS for encryption
+B) IP for addressing
+C) ARP for mapping
+D) FTP for transfers
+Answer: A
+
+Q283. FTP stands for:
+A) File Transfer Protocol
+B) Fast Transfer Process
+C) File Translation Protocol
+D) Frame Transfer Protocol
+Answer: A
+
+Q284. SMTP is mainly used for:
+A) Receiving emails
+B) Sending emails
+C) Encrypting emails
+D) Forwarding files
+Answer: B
+
+Q285. POP3 is used for:
+A) Sending emails
+B) Receiving emails
+C) Domain translation
+D) File sharing
+Answer: B
+
+Q286. IMAP allows:
+A) Downloading and deleting emails only
+B) Synchronizing email across devices
+C) Only sending emails
+D) Only DNS lookups
+Answer: B
+
+Q287. SNMP is used for:
+A) File transfer
+B) Network management and monitoring
+C) Congestion control
+D) Error detection
+Answer: B
+
+Q288. The port number for SSH is:
+A) 20
+B) 22
+C) 23
+D) 25
+Answer: B
+
+Q289. The application protocol for web browsing is:
+A) FTP
+B) HTTP
+C) DNS
+D) SMTP
+Answer: B
+
+Q290. The main function of the Application Layer is:
+A) Error correction
+B) Providing services to end-users
+C) Logical addressing
+D) Routing
+Answer: B
+
+Q291. Which protocol is used for secure remote login?
+A) Telnet
+B) SSH
+C) FTP
+D) DNS
+Answer: B
+
+Q292. SSL stands for:
+A) Secure Sockets Layer
+B) Secure System Link
+C) System Socket Layer
+D) Secure Switching Link
+Answer: A
+
+Q293. TLS stands for:
+A) Transmission Layer Security
+B) Transport Layer Security
+C) Trusted Layer Security
+D) Transfer Link Security
+Answer: B
+
+Q294. Cryptography provides:
+A) Routing
+B) Error detection
+C) Confidentiality, integrity, authentication
+D) Subnetting
+Answer: C
+
+Q295. Symmetric encryption uses:
+A) Same key for encryption and decryption
+B) Different keys for encryption and decryption
+C) No key
+D) Only public key
+Answer: A
+
+Q296. Asymmetric encryption uses:
+A) Same key for both encryption and decryption
+B) Public and private key pair
+C) No key at all
+D) Shared secret only
+Answer: B
+
+Q297. The RSA algorithm is:
+A) Symmetric key encryption
+B) Asymmetric key encryption
+C) Hashing algorithm
+D) Compression algorithm
+Answer: B
+
+Q298. A digital signature is used for:
+A) Encryption only
+B) Authentication and integrity
+C) Addressing
+D) Flow control
+Answer: B
+
+Q299. A hash function produces:
+A) Variable-length ciphertext
+B) Fixed-length digest
+C) Encrypted message
+D) Plaintext
+Answer: B
+
+Q300. The main goal of network security is:
+A) Only encryption
+B) Confidentiality, integrity, availability (CIA triad)
+C) Routing packets
+D) Increasing bandwidth
+Answer: B
