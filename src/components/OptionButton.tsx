@@ -22,8 +22,8 @@ const OptionButton: React.FC<OptionButtonProps> = ({
 					let base = 'w-full py-3 px-6 rounded-full text-base font-semibold transition-all duration-200 cursor-pointer border';
 					let bg = 'bg-white text-gray-800 border-gray-300';
 					let hover = 'hover:bg-gray-100';
-					let selected = '';
-					let feedback = '';
+		let selected = '';
+		let feedback = '';
 					// Highlight correct option in green when locked
 					if (showFeedback && isLocked && isCorrect) {
 						feedback = 'bg-green-100 border-green-400 text-green-700';
@@ -32,15 +32,15 @@ const OptionButton: React.FC<OptionButtonProps> = ({
 					} else if (isSelected) {
 						selected = 'bg-blue-50 border-blue-400 text-blue-700';
 					}
-					let classes = `${base} ${bg} ${hover} ${selected} ${feedback} flex items-center gap-4 w-full`;
+		const classes = `${base} ${bg} ${hover} ${selected} ${feedback} flex items-center gap-4 w-full`;
 
 				// Always show A/B/C/D in the pill based on index
 				const labels = ['A', 'B', 'C', 'D'];
 					// Remove only the label and separator (A), A., A ) etc.)
 						// Only remove label if followed by separator (A), A., A:, A-) but NOT just a space
-						let text = option.replace(/^([A-Da-d])\s*[).:,-]\s*/, '');
-				let idx = typeof theme === 'number' ? theme : undefined;
-				let displayLabel = labels[idx ?? 0];
+				const text = option.replace(/^([A-Da-d])\s*[).:,-]\s*/, '');
+				const idx = typeof theme === 'number' ? theme : undefined;
+				const displayLabel = labels[idx ?? 0];
 
 				return (
 					<button

@@ -103,7 +103,7 @@ const Quiz: React.FC = () => {
   const q = questions[current];
   const selectedIdx = selected[current];
   const isLocked = locked[current];
-  const completed = progress === questions.length;
+  // Removed unused variable 'completed' for ESLint compliance
 
   const handleSelect = (idx: number) => {
     if (!isLocked) {
