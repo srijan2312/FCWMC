@@ -42,6 +42,7 @@ const Quiz: React.FC = () => {
     setCurrentQuestion,
   } = useQuizStore();
   const [showEndScreen, setShowEndScreen] = React.useState(false);
+  const [_, setRerender] = React.useState(0);
 
   useEffect(() => {
     const saved = localStorage.getItem('quiz-progress');
@@ -65,7 +66,7 @@ const Quiz: React.FC = () => {
         }
   } catch {
         fetchQuizData().then((parsed) => {
-          setQuestions(parsed);
+          setQuestions(parsed || []);
         });
       }
     } else {
@@ -102,6 +103,7 @@ const Quiz: React.FC = () => {
   const handleSelect = (idx: number) => {
     if (!isLocked) {
       selectOption(idx);
+      setRerender((v) => v + 1); // force re-render
       if (idx === q.answer) {
         confetti({ particleCount: 60, spread: 70, origin: { y: 0.7 } });
       }
@@ -110,12 +112,13 @@ const Quiz: React.FC = () => {
 
   const handleRetry = () => {
     localStorage.removeItem('quiz-progress');
-    // Randomize questions
-    const shuffled = [...questions].sort(() => Math.random() - 0.5);
-    setQuestions(shuffled);
-    setShowEndScreen(false);
-    reattempt();
-    setCurrentQuestion(0);
+    // Fetch new questions from quiz.txt
+    fetchQuizData().then((parsed) => {
+      setQuestions(parsed || []);
+      setShowEndScreen(false);
+      reattempt();
+      setCurrentQuestion(0);
+    });
   };
 
   return (
@@ -158,6 +161,12 @@ const Quiz: React.FC = () => {
               />
             ))}
           </div>
+          {/* Show correct answer below options when locked */}
+          {isLocked && (
+            <div className="mt-6 mb-2 text-green-700 text-lg font-semibold text-center">
+              Correct Answer: <span className="font-bold">{String.fromCharCode(65 + q.answer)}) {q.options[q.answer]}</span>
+            </div>
+          )}
           {/* Navigation buttons */}
           <div className="w-full flex items-center justify-between mt-8">
             <button

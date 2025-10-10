@@ -34,19 +34,19 @@ export const useQuizStore = create<QuizState>((set, get) => ({
 		current: 0,
 		progress: 0,
 	}),
-	selectOption: (optionIdx: number) => {
-		const { current, selected, locked } = get();
-		if (locked[current]) return;
-		const newSelected = [...selected];
-		newSelected[current] = optionIdx;
-		const newLocked = [...locked];
-		newLocked[current] = true;
-		set({
-			selected: newSelected,
-			locked: newLocked,
-			progress: newSelected.filter((v) => v !== null).length,
-		});
-	},
+		selectOption: (optionIdx: number) => {
+			const { current, selected, locked } = get();
+			if (locked[current]) return;
+			const newSelected = [...selected];
+			newSelected[current] = optionIdx;
+			const newLocked = [...locked];
+			newLocked[current] = true;
+			set({
+				selected: newSelected,
+				locked: newLocked,
+				progress: newSelected.filter((v) => v !== null).length,
+			});
+		},
 	next: (): void => {
 		const { current, questions } = get();
 		if (current < questions.length - 1) set({ current: current + 1 });

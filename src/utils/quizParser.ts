@@ -18,22 +18,22 @@ export function parseQuizText(raw: string): QuizQuestion[] {
     const lines = block.split(/\r?\n/).map(l => l.trim()).filter(Boolean);
     if (lines.length < 6) continue;
     // Question line (allow Q1. or no prefix)
-  const question = lines[0].replace(/^Q\d+\.\s*/, '');
-    // Options: match a), b), c), d) or A), B), C), D)
-  const options: string[] = [];
+    let question = lines[0].replace(/^Q\d+\.\s*/, '');
+    // Options
+    let options: string[] = [];
     for (let j = 1; j <= 4; j++) {
-      const optMatch = lines[j].match(/^[a-dA-D][).]\s*(.*)$/);
+      const optMatch = lines[j].match(/^[A-D][).]\s*(.*)$/);
       if (optMatch) {
         options.push(optMatch[1]);
       } else {
         options.push(lines[j]); // fallback
       }
     }
-    // Answer line: match Answer: a, Answer: A, etc.
+    // Answer line
     let answerIdx = -1;
-    const ansMatch = lines[5].match(/^Answer:\s*([a-dA-D])/);
+    const ansMatch = lines[5].match(/^Answer:\s*([A-D])/);
     if (ansMatch) {
-      answerIdx = 'abcd'.indexOf(ansMatch[1].toLowerCase());
+      answerIdx = 'ABCD'.indexOf(ansMatch[1]);
     }
     if (question && options.length === 4 && answerIdx !== -1) {
       questions.push({ id, question: question.trim(), options, answer: answerIdx });

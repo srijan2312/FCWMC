@@ -19,20 +19,29 @@ const OptionButton: React.FC<OptionButtonProps> = ({
 	showFeedback,
 	theme,
 }) => {
-					const base = 'w-full py-3 px-6 rounded-full text-base font-semibold transition-all duration-200 cursor-pointer border';
-					const bg = 'bg-white text-gray-800 border-gray-300';
-					const hover = 'hover:bg-gray-100';
+		const base = 'w-full py-3 px-6 rounded-full text-base font-semibold transition-all duration-200 cursor-pointer border';
+		const hover = 'hover:bg-gray-100';
 		let selected = '';
 		let feedback = '';
-					// Highlight correct option in green when locked
-					if (showFeedback && isLocked && isCorrect) {
-						feedback = 'bg-green-100 border-green-400 text-green-700';
-					} else if (showFeedback && isLocked && isSelected && !isCorrect) {
-						feedback = 'bg-red-100 border-red-400 text-red-700';
-					} else if (isSelected) {
-						selected = 'bg-blue-50 border-blue-400 text-blue-700';
-					}
-		const classes = `${base} ${bg} ${hover} ${selected} ${feedback} flex items-center gap-4 w-full`;
+		let textColor = 'text-gray-800';
+		let borderColor = 'border-gray-300';
+		// Always fill correct option with green when locked, fill selected wrong with red
+		if (showFeedback && isLocked) {
+			if (isCorrect) {
+				feedback = 'bg-green-200';
+				textColor = 'text-green-800';
+				borderColor = 'border-green-400';
+			} else if (isSelected && !isCorrect) {
+				feedback = 'bg-red-200';
+				textColor = 'text-red-800';
+				borderColor = 'border-red-400';
+			}
+		} else if (isSelected) {
+			selected = 'bg-blue-50';
+			textColor = 'text-blue-700';
+			borderColor = 'border-blue-400';
+		}
+		const classes = `${base} ${hover} ${selected} ${feedback} ${textColor} ${borderColor} flex items-center gap-4 w-full`;
 
 				// Always show A/B/C/D in the pill based on index
 				const labels = ['A', 'B', 'C', 'D'];
