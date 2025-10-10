@@ -124,13 +124,26 @@ const Quiz: React.FC = () => {
   return (
     <div className="min-h-screen bg-gray-50 flex items-center justify-center relative">
       {/* Top right corner reset button */}
-      <button
-        className="absolute top-6 right-6 py-2 px-5 rounded bg-red-500 text-white font-semibold shadow hover:bg-red-600 transition z-20"
-        onClick={handleRetry}
-        aria-label="Reset Quiz"
-      >
-        Reset Quiz
-      </button>
+      <div className="absolute top-6 right-6 flex gap-3 z-20">
+        <button
+          className="py-2 px-5 rounded bg-yellow-500 text-white font-semibold shadow hover:bg-yellow-600 transition"
+          onClick={() => {
+            // Shuffle questions and reset progress, but do not fetch new questions or clear localStorage
+            const shuffled = [...questions].sort(() => Math.random() - 0.5);
+            setQuestions(shuffled);
+          }}
+          aria-label="Shuffle Questions"
+        >
+          Shuffle
+        </button>
+        <button
+          className="py-2 px-5 rounded bg-red-500 text-white font-semibold shadow hover:bg-red-600 transition"
+          onClick={handleRetry}
+          aria-label="Reset Quiz"
+        >
+          Reset Quiz
+        </button>
+      </div>
       <main className="flex flex-col items-center w-full max-w-3xl mx-auto px-2">
         {/* Progress and question count */}
         <div className="w-full flex flex-col items-center mt-8 mb-4">
