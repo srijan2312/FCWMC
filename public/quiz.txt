@@ -1,4342 +1,2099 @@
-Q1. What is a primary advantage of 4G over 3G:
-A) Lower data rates
-B) Circuit-switched core network
-C) Higher spectral efficiency
-D) Limited mobility support
+Q1. Which of the following is a guided transmission medium?
+A) Radio Waves
+B) Optical Fiber
+C) Infrared
+D) Satellite
+Answer: B
+
+Q2. Which of the following is NOT wireless communication?
+A) Bluetooth
+B) Satellite TV
+C) Ethernet LAN
+D) Wi-Fi
 Answer: C
 
-Q2. LTE-Advanced Pro is associated with which generation:
-A) 2G
-B) 3G
-C) 4G
+Q3. Frequency is measured in:
+A) Seconds
+B) Hertz
+C) Meters
+D) Volts
+Answer: B
+
+Q4. Bandwidth of AM is equal to:
+A) fm
+B) 2fm
+C) 3fm
+D) 4fm
+Answer: B
+
+Q5. Which modulation provides the best noise immunity?
+A) AM
+B) FM
+C) ASK
+D) PAM
+Answer: B
+
+Q6. In Phase Shift Keying (PSK), the parameter varied is:
+A) Amplitude
+B) Frequency
+C) Phase
+D) Bandwidth
+Answer: C
+
+Q7. QAM is a combination of:
+A) AM + FM
+B) ASK + FSK
+C) ASK + PSK
+D) AM + PCM
+Answer: C
+
+Q8. Which modulation technique is used in FM radio?
+A) AM
+B) FM
+C) PSK
+D) QAM
+Answer: B
+
+Q9. GSM mobile systems mainly use:
+A) FDMA
+B) TDMA
+C) CDMA
+D) OFDMA
+Answer: B
+
+Q10. 3G mobile systems mainly use:
+A) FDMA
+B) TDMA
+C) CDMA
+D) OFDMA
+Answer: C
+
+Q11. Which multiple access technique uses orthogonal subcarriers?
+A) FDMA
+B) TDMA
+C) CDMA
+D) OFDMA
+Answer: D
+
+Q12. Soft Handover is used in:
+A) GSM
+B) CDMA
+C) FDMA
+D) LTE
+Answer: B
+
+Q13. Which of the following is NOT a digital modulation scheme?
+A) ASK
+B) FSK
+C) PSK
+D) FM
+Answer: D
+
+Q14. Which of the following is used in Wi-Fi and 4G LTE?
+A) QAM
+B) AM
+C) FM
+D) PCM
+Answer: A
+
+Q15. Pulse Code Modulation (PCM) is:
+A) Analog Modulation
+B) Digital Pulse Modulation
+C) Frequency Modulation
+D) Phase Modulation
+Answer: B
+
+Q16. Which is NOT an advantage of digital signals?
+A) High noise immunity
+B) Easy storage
+C) Costlier than analog
+D) Reliable processing
+Answer: C
+
+Q17. Which frequency band is used for microwave communication?
+A) 3 Hz – 30 Hz
+B) 1 GHz – 300 GHz
+C) 3 MHz – 30 MHz
+D) 30 Hz – 300 Hz
+Answer: B
+
+Q18. Frequency reuse in cellular networks improves:
+A) Antenna size
+B) Noise level
+C) Spectrum efficiency
+D) Modulation index
+Answer: C
+
+Q19. Which of the following is NOT a pulse modulation technique?
+A) PAM
+B) PWM
+C) PPM
+D) FM
+Answer: D
+
+Q20. Which of the following devices is part of a Mobile Station (MS)?
+A) BTS
+B) BSC
+C) SIM Card
+D) MSC
+Answer: C
+
+Q21. Twisted Pair Cable consists of:
+A) One copper wire
+B) Two copper wires twisted together
+C) Coaxial conductor
+D) Optical core
+Answer: B
+
+Q22. UTP cable is mostly used in:
+A) LAN
+B) WAN
+C) Satellite
+D) Wi-Fi
+Answer: A
+
+Q23. Which cable provides highest data transfer speed?
+A) Twisted Pair
+B) Coaxial
+C) Optical Fiber
+D) Radio Wave
+Answer: C
+
+Q24. Optical fiber core is made of:
+A) Copper
+B) Plastic or glass
+C) Aluminum
+D) Steel
+Answer: B
+
+Q25. Which unguided medium requires line-of-sight?
+A) Radio Wave
+B) Microwave
+C) Infrared
+D) Satellite
+Answer: B
+
+Q26. Infrared waves cannot:
+A) Pass through walls
+B) Be used in remotes
+C) Work at short range
+D) Transmit in free space
+Answer: A
+
+Q27. Frequency of FM radio lies in:
+A) 30–300 KHz
+B) 535–1605 KHz
+C) 88–108 MHz
+D) 1–300 GHz
+Answer: C
+
+Q28. Bandwidth of AM =
+A) fm
+B) 2fm
+C) 4fm
+D) fm/2
+Answer: B
+
+Q29. Carson’s Rule is used to calculate bandwidth in:
+A) AM
+B) FM
+C) PM
+D) ASK
+Answer: B
+
+Q30. Digital modulation technique used in Bluetooth:
+A) ASK
+B) FSK
+C) PSK
+D) QAM
+Answer: B
+
+Q31. QAM uses:
+A) One carrier
+B) Two carriers 90° out of phase
+C) Multiple antennas
+D) Optical fiber
+Answer: B
+
+Q32. 16-QAM carries:
+A) 2 bits/symbol
+B) 4 bits/symbol
+C) 6 bits/symbol
+D) 8 bits/symbol
+Answer: B
+
+Q33. Which pulse modulation is the first step in PCM?
+A) PPM
+B) PAM
+C) PWM
+D) PSK
+Answer: B
+
+Q34. PCM consists of steps:
+A) Sampling, Quantization, Encoding
+B) Modulation, Amplification, Decoding
+C) Mixing, Transmission, Reception
+D) None
+Answer: A
+
+Q35. FDMA assigns:
+A) Separate frequency bands
+B) Separate time slots
+C) Separate codes
+D) Separate antennas
+Answer: A
+
+Q36. TDMA is mainly used in:
+A) 1G
+B) 2G GSM
+C) 3G
 D) 5G
-Answer: C
-
-Q3. Which technology is not part of 4G:
-A) OFDMA
-B) MIMO
-C) CDMA2000
-D) Carrier Aggregation
-Answer: C
-
-Q4. What does LTE stand for?
-A) Long Term Evolution
-B) Local Transmission Equipment
-C) Low Transmission Energy
-D) Linear Time Encoding
-Answer: A
-
-Q5. Which of the following is a key feature of 4G networks?
-A) Circuit switching
-B) Packet switching
-C) Analog transmission
-D) Frequency modulation
 Answer: B
 
-Q6. What is the main focus of the transition from 3G to 4G?
-A) Increasing voice call quality
-B) Enhancing data rates and efficiency
-C) Reducing device size
-D) Improving analog signals
-Answer: B
-
-Q7. Which of the following is a multiple antenna technology used in 4G?
-A) MIMO
-B) SISO
-C) TDM
-D) FDM
-Answer: A
-
-Q8. What is the typical peak data rate for 4G LTE networks?
-A) 100 kbps
-B) 1 Mbps
-C) 100 Mbps
-D) 10 Gbps
+Q37. CDMA separates users by:
+A) Frequency
+B) Time
+C) Code
+D) Bandwidth
 Answer: C
 
-Q9. Which of the following is NOT a benefit of 4G over 3G?
-A) Higher data rates
-B) Lower latency
-C) Circuit-switched voice
-D) Improved spectral efficiency
-Answer: C
-
-Q10. What does OFDMA stand for?
-A) Orthogonal Frequency Division Multiple Access
-B) Optical Fiber Data Management Architecture
-C) Open Frequency Data Modulation Algorithm
-D) Overlapping Frequency Division Multiple Access
-Answer: A
-
-Q11. Which core network architecture is used in 4G?
-A) Circuit-switched
-B) Packet-switched
-C) Hybrid-switched
-D) Analog-switched
-Answer: B
-
-Q12. What is carrier aggregation in LTE-Advanced?
-A) Combining multiple frequency bands
-B) Increasing antenna size
-C) Reducing power consumption
-D) Enhancing voice quality
-Answer: A
-
-Q13. Which of the following is a key enhancement in LTE-Advanced Pro?
-A) Lower data rates
-B) Carrier aggregation
-C) Analog transmission
-D) Circuit switching
-Answer: B
-
-Q14. What is the main purpose of MIMO in 4G?
-A) Increase data rates and reliability
-B) Reduce device cost
-C) Improve battery life
-D) Enhance analog signals
-Answer: A
-
-Q15. Which of the following is NOT a 4G technology?
-A) LTE
-B) WiMAX
+Q38. OFDMA is used in:
+A) AM Radio
+B) Wi-Fi 6 & 4G LTE
 C) GSM
-D) LTE-Advanced
-Answer: C
-
-Q16. What is the typical latency in 4G networks?
-A) 100 ms
-B) 10 ms
-C) 1 s
-D) 500 ms
+D) Bluetooth
 Answer: B
 
-Q17. Which of the following is a key difference between 3G and 4G?
-A) 3G uses packet switching only
-B) 4G uses circuit switching only
-C) 4G uses packet switching for all services
-D) 3G has higher data rates than 4G
-Answer: C
-
-Q18. What is the main goal of LTE-Advanced?
-A) Increase voice call duration
-B) Achieve higher data rates and capacity
-C) Reduce device size
-D) Improve analog signal quality
+Q39. Frequency reuse in cellular system helps in:
+A) Increasing bandwidth
+B) Efficient spectrum use
+C) Reducing antenna height
+D) Noise reduction
 Answer: B
 
-Q19. Which of the following is a feature of LTE-Advanced Pro?
-A) Massive MIMO
-B) Analog modulation
-C) Circuit switching
-D) Single carrier transmission
-Answer: A
-
-Q20. What is the maximum theoretical downlink speed of LTE-Advanced?
-A) 100 Mbps
-B) 1 Gbps
-C) 10 Mbps
-D) 10 Gbps
-Answer: B
-
-Q21. Which of the following is NOT a benefit of carrier aggregation?
-A) Increased bandwidth
-B) Higher data rates
-C) Lower latency
-D) Reduced spectral efficiency
-Answer: D
-
-Q22. What is the main function of the Evolved Packet Core (EPC) in 4G?
-A) Circuit switching
-B) Packet switching and mobility management
-C) Analog signal processing
-D) Frequency modulation
-Answer: B
-
-Q23. Which of the following is a key requirement for 4G networks?
-A) Support for only voice services
-B) High mobility and seamless handover
-C) Analog transmission
-D) Low device cost
-Answer: B
-
-Q24. What is the main advantage of OFDMA in 4G?
-A) Efficient spectrum usage
-B) Increased device size
-C) Lower data rates
-D) Circuit switching
-Answer: A
-
-Q25. Which of the following is NOT a characteristic of 4G?
-A) All-IP network
-B) High data rates
-C) Circuit-switched core
-D) Low latency
-Answer: C
-
-Q26. What is the main purpose of the IP Multimedia Subsystem (IMS) in 4G?
-A) Provide multimedia services over IP
-B) Increase device cost
-C) Reduce data rates
-D) Enhance analog signals
-Answer: A
-
-Q27. Which of the following is a key feature of LTE-Advanced?
-A) Carrier aggregation
-B) Circuit switching
-C) Analog transmission
-D) Single antenna system
-Answer: A
-
-Q28. What is the main benefit of using small cells in 4G networks?
-A) Increased coverage and capacity
-B) Higher device cost
-C) Lower data rates
-D) Circuit switching
-Answer: A
-
-Q29. Which of the following is NOT a 4G standard?
-A) LTE
-B) WiMAX
-C) UMTS
-D) LTE-Advanced
-Answer: C
-
-Q30. What is the main goal of spectral efficiency in 4G?
-A) Maximize data transmission per unit bandwidth
-B) Reduce device size
-C) Increase analog signal quality
-D) Lower device cost
-Answer: A
-
-Q31. Which of the following is a key difference between LTE and LTE-Advanced?
-A) LTE-Advanced supports carrier aggregation
-B) LTE uses analog transmission
-C) LTE-Advanced has lower data rates
-D) LTE uses massive MIMO
-Answer: A
-
-Q32. What is the main function of the Mobility Management Entity (MME) in 4G?
-A) Manage mobility and session states
-B) Process analog signals
-C) Increase device cost
-D) Reduce data rates
-Answer: A
-
-Q33. Which of the following is a key benefit of 4G for end users?
-A) Lower data rates
-B) High-speed internet access
-C) Circuit-switched voice
-D) Analog signal quality
-Answer: B
-
-Q34. What is the main purpose of the Serving Gateway (S-GW) in 4G?
-A) Route user data packets
-B) Process analog signals
-C) Increase device cost
-D) Reduce data rates
-Answer: A
-
-Q35. Which of the following is NOT a component of the Evolved Packet Core (EPC)?
-A) Mobility Management Entity (MME)
-B) Serving Gateway (S-GW)
-C) Circuit Switch Center (CSC)
-D) Packet Data Network Gateway (P-GW)
-Answer: C
-
-Q36. What is the main advantage of using IPv6 in 4G networks?
-A) Larger address space
-B) Lower data rates
-C) Circuit switching
-D) Analog transmission
-Answer: A
-
-Q37. Which of the following is a key challenge in 4G deployment?
-A) Spectrum availability
-B) Lower data rates
-C) Circuit switching
-D) Analog signal quality
-Answer: A
-
-Q38. What is the main purpose of the Packet Data Network Gateway (P-GW) in 4G?
-A) Connect to external packet data networks
-B) Process analog signals
-C) Increase device cost
-D) Reduce data rates
-Answer: A
-
-Q39. Which of the following is a key feature of LTE-Advanced Pro?
-A) Enhanced carrier aggregation
-B) Circuit switching
-C) Analog transmission
-D) Single antenna system
-Answer: A
-
-Q40. What is the main benefit of using relay nodes in 4G networks?
-A) Extend coverage and improve capacity
-B) Increase device cost
-C) Lower data rates
-D) Circuit switching
-Answer: A
-
-Q41. Which of the following is NOT a benefit of 4G networks?
-A) High data rates
-B) Low latency
-C) Circuit-switched core
-D) All-IP architecture
-Answer: C
-
-Q42. What is the main purpose of the Home Subscriber Server (HSS) in 4G?
-A) Store user subscription information
-B) Process analog signals
-C) Increase device cost
-D) Reduce data rates
-Answer: A
-
-Q43. Which of the following is a key feature of 4G LTE?
-A) All-IP network
-B) Circuit switching
-C) Analog transmission
-D) Single antenna system
-Answer: A
-
-Q44. What is the main advantage of using femtocells in 4G?
-A) Improve indoor coverage
-B) Increase device cost
-C) Lower data rates
-D) Circuit switching
-Answer: A
-
-Q45. Which of the following is NOT a key requirement for 4G?
-A) High data rates
-B) Low latency
-C) Circuit-switched core
-D) Seamless mobility
-Answer: C
-
-Q46. What is the main purpose of the Evolved NodeB (eNodeB) in 4G?
-A) Provide radio access and control
-B) Process analog signals
-C) Increase device cost
-D) Reduce data rates
-Answer: A
-
-Q47. Which of the following is a key benefit of 4G for operators?
-A) Efficient spectrum usage
-B) Lower data rates
-C) Circuit switching
-D) Analog signal quality
-Answer: A
-
-Q48. What is the main function of the Policy and Charging Rules Function (PCRF) in 4G?
-A) Manage policy and charging rules
-B) Process analog signals
-C) Increase device cost
-D) Reduce data rates
-Answer: A
-
-Q49. Which of the following is a key feature of LTE-Advanced?
-A) Support for heterogeneous networks
-B) Circuit switching
-C) Analog transmission
-D) Single antenna system
-Answer: A
-
-Q50. What is the main goal of 4G evolution?
-A) Provide high-speed, reliable, and efficient wireless communication
-B) Reduce device size
-C) Increase analog signal quality
-D) Lower device cost
-Answer: A
-
-Q51. What does eNodeB stand for:
-A) Enhanced Node B
-B) Electronic Node Base
-C) Evolved Network Base
-D) None of the above
-Answer: A
-
-Q52. Which component is part of the LTE core network:
-A) eNodeB
-B) MME
-C) UE
-D) RLC
-Answer: B
-
-Q53. The LTE architecture is based on which type of network:
-A) Circuit-switched
-B) Packet-switched
-C) Hybrid
-D) None of the above
-Answer: B
-
-Q54. What is the main function of the MME in LTE architecture:
-A) Radio resource management
-B) Mobility management and signaling
-C) User data forwarding
-D) Frequency allocation
-Answer: B
-
-Q55. Which of the following is NOT a component of the Evolved Packet Core (EPC):
-A) MME
-B) S-GW
-C) P-GW
-D) BTS
-Answer: D
-
-Q56. What does S-GW stand for in LTE:
-A) Serving Gateway
-B) Switching Gateway
-C) Subscriber Gateway
-D) Service Gateway
-Answer: A
-
-Q57. The P-GW in LTE is responsible for:
-A) Connecting to external packet data networks
-B) Managing radio resources
-C) Handling handovers
-D) Encrypting user data
-Answer: A
-
-Q58. Which interface connects the eNodeB to the EPC:
-A) S1
-B) X2
-C) Uu
-D) Gn
-Answer: A
-
-Q59. The X2 interface in LTE connects:
-A) Two eNodeBs
-B) eNodeB and MME
-C) S-GW and P-GW
-D) UE and eNodeB
-Answer: A
-
-Q60. What is the main role of the UE in LTE architecture:
-A) User equipment for accessing the network
-B) Managing mobility
-C) Routing data packets
-D) Allocating frequencies
-Answer: A
-
-Q61. Which of the following is a function of the eNodeB:
-A) Radio resource management
-B) Packet data routing
-C) Policy control
-D) Charging rules
-Answer: A
-
-Q62. The S1-MME interface is used for:
-A) Signaling between eNodeB and MME
-B) User data transfer
-C) Charging information
-D) Policy enforcement
-Answer: A
-
-Q63. The S1-U interface is responsible for:
-A) User plane data transfer
-B) Signaling
-C) Frequency allocation
-D) Authentication
-Answer: A
-
-Q64. Which of the following is NOT a function of the MME:
-A) Mobility management
-B) Session management
-C) User data forwarding
-D) Authentication
-Answer: C
-
-Q65. The P-GW provides connectivity to:
-A) External IP networks
-B) eNodeB
-C) MME
-D) UE
-Answer: A
-
-Q66. What is the main function of the S-GW:
-A) Forwarding user data packets
-B) Managing radio resources
-C) Policy control
-D) Authentication
-Answer: A
-
-Q67. Which interface is used for handover between eNodeBs:
-A) X2
-B) S1
-C) Gn
-D) S5
-Answer: A
-
-Q68. The Home Subscriber Server (HSS) stores:
-A) User subscription information
-B) Radio resources
-C) Charging rules
-D) Policy information
-Answer: A
-
-Q69. Which of the following is NOT a user plane protocol in LTE:
-A) GTP-U
-B) PDCP
-C) RRC
-D) S1-AP
-Answer: D
-
-Q70. The main function of the PCRF in LTE is:
-A) Policy and charging control
-B) Radio resource management
-C) User data forwarding
-D) Authentication
-Answer: A
-
-Q71. Which protocol is used for signaling between eNodeB and MME:
-A) S1-AP
-B) GTP-U
-C) PDCP
-D) X2-AP
-Answer: A
-
-Q72. The E-UTRAN consists of:
-A) eNodeBs and UEs
-B) MME and S-GW
-C) P-GW and PCRF
-D) HSS and PCRF
-Answer: A
-
-Q73. What is the main function of the S5/S8 interface:
-A) Connect S-GW and P-GW
-B) Connect eNodeB and MME
-C) Connect UE and eNodeB
-D) Connect HSS and MME
-Answer: A
-
-Q74. Which of the following is responsible for IP address allocation in LTE:
-A) P-GW
-B) S-GW
-C) eNodeB
-D) MME
-Answer: A
-
-Q75. The main function of the NAS protocol is:
-A) Signaling between UE and MME
-B) User data transfer
-C) Radio resource management
-D) Charging control
-Answer: A
-
-Q76. Which of the following is NOT a control plane protocol in LTE:
-A) S1-AP
-B) X2-AP
-C) GTP-U
-D) NAS
-Answer: C
-
-Q77. The Evolved Packet Core (EPC) is responsible for:
-A) Core network functions in LTE
-B) Radio access
-C) Frequency allocation
-D) Device manufacturing
-Answer: A
-
-Q78. Which of the following is a key benefit of the flat architecture in LTE:
-A) Reduced latency
-B) Increased complexity
-C) More network nodes
-D) Circuit switching
-Answer: A
-
-Q79. The S1 interface is divided into:
-A) S1-MME and S1-U
-B) S1-AP and S1-GW
-C) S1-X2 and S1-Y2
-D) S1-CP and S1-UP
-Answer: A
-
-Q80. Which of the following is NOT a function of the P-GW:
-A) IP address allocation
-B) Policy enforcement
-C) Radio resource management
-D) Charging support
-Answer: C
-
-Q81. The main function of the HSS is to:
-A) Store user profiles and authentication data
-B) Forward user data packets
-C) Manage radio resources
-D) Allocate frequencies
-Answer: A
-
-Q82. Which of the following is responsible for handover decisions in LTE:
-A) eNodeB
-B) S-GW
-C) P-GW
-D) HSS
-Answer: A
-
-Q83. The X2 interface supports:
-A) Handover and load balancing between eNodeBs
-B) User data transfer to external networks
-C) Policy control
-D) Charging rules
-Answer: A
-
-Q84. Which of the following is NOT part of the E-UTRAN:
-A) eNodeB
-B) UE
-C) MME
-D) X2 interface
-Answer: C
-
-Q85. The S-GW acts as:
-A) Local mobility anchor for inter-eNodeB handover
-B) Policy controller
-C) Authentication server
-D) Frequency allocator
-Answer: A
-
-Q86. Which protocol is used for user plane data transfer in LTE:
-A) GTP-U
-B) S1-AP
-C) NAS
-D) X2-AP
-Answer: A
-
-Q87. The main function of the MME includes:
-A) Authentication and security
-B) User data forwarding
-C) IP address allocation
-D) Radio resource management
-Answer: A
-
-Q88. Which of the following is responsible for policy and charging control:
-A) PCRF
-B) S-GW
-C) eNodeB
-D) HSS
-Answer: A
-
-Q89. The S1-U interface connects:
-A) eNodeB and S-GW
-B) eNodeB and MME
-C) S-GW and P-GW
-D) UE and eNodeB
-Answer: A
-
-Q90. Which of the following is NOT a function of the S-GW:
-A) Forwarding user data
-B) Local mobility anchor
-C) Policy enforcement
-D) Packet routing
-Answer: C
-
-Q91. The E-UTRAN is responsible for:
-A) Radio access and control
-B) Core network functions
-C) Policy control
-D) Charging rules
-Answer: A
-
-Q92. Which of the following is a user equipment in LTE:
-A) Smartphone
-B) eNodeB
-C) S-GW
-D) PCRF
-Answer: A
-
-Q93. The main function of the X2-AP protocol is:
-A) Signaling between eNodeBs
-B) User data transfer
-C) Policy control
-D) Authentication
-Answer: A
-
-Q94. Which of the following is NOT a function of the MME:
-A) Authentication
-B) Mobility management
-C) User data forwarding
-D) Session management
-Answer: C
-
-Q95. The S5/S8 interface uses which protocol for user plane data:
-A) GTP-U
-B) S1-AP
-C) NAS
-D) X2-AP
-Answer: A
-
-Q96. Which of the following is responsible for charging support in LTE:
-A) P-GW
-B) S-GW
-C) eNodeB
-D) UE
-Answer: A
-
-Q97. The main function of the NAS protocol is:
-A) Signaling between UE and MME
-B) User data transfer
-C) Radio resource management
-D) Charging control
-Answer: A
-
-Q98. Which of the following is NOT a function of the eNodeB:
-A) Radio resource management
-B) Handover decisions
-C) Policy control
-D) Scheduling
-Answer: C
-
-Q99. The Evolved Packet Core (EPC) includes all except:
-A) MME
-B) S-GW
-C) P-GW
-D) BTS
-Answer: D
-
-Q100. Which of the following is a key feature of LTE network architecture:
-A) Flat, all-IP architecture
-B) Circuit-switched core
-C) Analog transmission
-D) High latency
-Answer: A
-
-Q101. Who assigns IP addresses to UEs in LTE:
-A) MME
-B) SGW
-C) PGW
-D) eNodeB
-Answer: C
-
-Q102. Which protocol is commonly used for IP allocation in LTE:
-A) FTP
-B) DHCP
-C) HTTP
-D) SNMP
-Answer: B
-
-Q103. IP address allocation in LTE occurs during:
-A) Handover
-B) Attach procedure
-C) Detach procedure
-D) Paging
-Answer: B
-
-Q104. Which component handles mobility management in EPC:
-A) SGW
-B) PGW
-C) MME
-D) HSS
-Answer: C
-
-Q105. The Serving Gateway (SGW) primarily handles:
-A) User authentication
-B) IP address allocation
-C) Routing user data packets
-D) Policy enforcement
-Answer: C
-
-Q106. Which EPC component interfaces with the internet:
-A) MME
-B) SGW
-C) PGW
-D) HSS
-Answer: C
-
-Q107. eNodeB is responsible for:
-A) Core network routing
-B) Radio resource management
-C) User authentication
-D) IP address allocation
-Answer: B
-
-Q108. Which protocol is used between eNodeBs:
-A) S1
-B) X2
-C) GTP
-D) SCTP
-Answer: B
-
-Q109. eNodeB connects directly to:
-A) PGW
-B) MME
-C) UE
-D) HSS
-Answer: C
-
-Q110. In LTE, which procedure triggers IP address assignment for a UE:
-A) Handover
-B) Attach
-C) Detach
-D) Paging
-Answer: B
-
-Q111. The PGW in LTE is responsible for:
-A) Mobility management
-B) IP address allocation
-C) Radio resource management
-D) User authentication
-Answer: B
-
-Q112. Which protocol facilitates dynamic IP address assignment in LTE:
-A) DHCP
-B) FTP
-C) HTTP
-D) SNMP
-Answer: A
-
-Q113. The attach procedure in LTE involves:
-A) Assigning an IP address to the UE
-B) Detaching the UE from the network
-C) Paging the UE
-D) Handover between cells
-Answer: A
-
-Q114. The MME in EPC is responsible for:
-A) Mobility management
-B) Routing user data packets
-C) IP address allocation
-D) Policy enforcement
-Answer: A
-
-Q115. The SGW in EPC primarily:
-A) Routes user data packets
-B) Authenticates users
-C) Allocates IP addresses
-D) Enforces policies
-Answer: A
-
-Q116. The PGW in EPC provides:
-A) Connectivity to external networks
-B) Mobility management
-C) Radio resource management
-D) User authentication
-Answer: A
-
-Q117. The X2 protocol is used for communication between:
-A) eNodeBs
-B) eNodeB and MME
-C) SGW and PGW
-D) UE and eNodeB
-Answer: A
-
-Q118. The S1 interface connects:
-A) eNodeB to EPC
-B) eNodeB to UE
-C) SGW to PGW
-D) MME to HSS
-Answer: A
-
-Q119. Which EPC component is responsible for policy and charging control:
-A) PCRF
-B) SGW
-C) PGW
-D) MME
-Answer: A
-
-Q120. The HSS in EPC stores:
-A) User subscription information
-B) Routing tables
-C) IP addresses
-D) Charging rules
-Answer: A
-
-Q121. Which protocol is used for signaling between eNodeB and MME:
-A) S1-AP
-B) X2-AP
-C) GTP-U
-D) NAS
-Answer: A
-
-Q122. The S1-U interface is responsible for:
-A) User plane data transfer
-B) Signaling
-C) Authentication
-D) Policy enforcement
-Answer: A
-
-Q123. The S1-MME interface is used for:
-A) Signaling between eNodeB and MME
-B) User data transfer
-C) Charging information
-D) Policy enforcement
-Answer: A
-
-Q124. The E-UTRAN consists of:
-A) eNodeBs and UEs
-B) MME and SGW
-C) PGW and PCRF
-D) HSS and PCRF
-Answer: A
-
-Q125. The S-GW acts as:
-A) Local mobility anchor for inter-eNodeB handover
-B) Policy controller
-C) Authentication server
-D) Frequency allocator
-Answer: A
-
-Q126. The main function of the NAS protocol is:
-A) Signaling between UE and MME
-B) User data transfer
-C) Radio resource management
-D) Charging control
-Answer: A
-
-Q127. Which protocol is used for user plane data transfer in LTE:
-A) GTP-U
-B) S1-AP
-C) NAS
-D) X2-AP
-Answer: A
-
-Q128. The PCRF in LTE is responsible for:
-A) Policy and charging control
-B) Radio resource management
-C) User data forwarding
-D) Authentication
-Answer: A
-
-Q129. The S5/S8 interface connects:
-A) SGW and PGW
-B) eNodeB and MME
-C) UE and eNodeB
-D) HSS and MME
-Answer: A
-
-Q130. The main function of the HSS is to:
-A) Store user profiles and authentication data
-B) Forward user data packets
-C) Manage radio resources
-D) Allocate frequencies
-Answer: A
-
-Q131. The Evolved Packet Core (EPC) is responsible for:
-A) Core network functions in LTE
-B) Radio access
-C) Frequency allocation
-D) Device manufacturing
-Answer: A
-
-Q132. The flat architecture in LTE provides:
-A) Reduced latency
-B) Increased complexity
-C) More network nodes
-D) Circuit switching
-Answer: A
-
-Q133. The S1 interface is divided into:
-A) S1-MME and S1-U
-B) S1-AP and S1-GW
-C) S1-X2 and S1-Y2
-D) S1-CP and S1-UP
-Answer: A
-
-Q134. The main function of the eNodeB includes:
-A) Radio resource management
-B) Policy control
-C) Charging rules
-D) IP address allocation
-Answer: A
-
-Q135. The X2 interface supports:
-A) Handover and load balancing between eNodeBs
-B) User data transfer to external networks
-C) Policy control
-D) Charging rules
-Answer: A
-
-Q136. The S1-U interface connects:
-A) eNodeB and SGW
-B) eNodeB and MME
-C) SGW and PGW
-D) UE and eNodeB
-Answer: A
-
-Q137. The E-UTRAN is responsible for:
-A) Radio access and control
-B) Core network functions
-C) Policy control
-D) Charging rules
-Answer: A
-
-Q138. The main function of the MME includes:
-A) Authentication and security
-B) User data forwarding
-C) IP address allocation
-D) Radio resource management
-Answer: A
-
-Q139. The S-GW in LTE acts as:
-A) Local mobility anchor
-B) Policy controller
-C) Authentication server
-D) Frequency allocator
-Answer: A
-
-Q140. The main function of the P-GW includes:
-A) IP address allocation
-B) Policy enforcement
-C) Radio resource management
-D) Charging support
-Answer: A
-
-Q141. The main function of the X2-AP protocol is:
-A) Signaling between eNodeBs
-B) User data transfer
-C) Policy control
-D) Authentication
-Answer: A
-
-Q142. The S5/S8 interface uses which protocol for user plane data:
-A) GTP-U
-B) S1-AP
-C) NAS
-D) X2-AP
-Answer: A
-
-Q143. The main function of the NAS protocol is:
-A) Signaling between UE and MME
-B) User data transfer
-C) Radio resource management
-D) Charging control
-Answer: A
-
-Q144. The Evolved Packet Core (EPC) includes all except:
-A) MME
-B) SGW
-C) PGW
-D) BTS
-Answer: D
-
-Q145. Which of the following is a key feature of LTE network architecture:
-A) Flat, all-IP architecture
-B) Circuit-switched core
-C) Analog transmission
-D) High latency
-Answer: A
-
-Q146. The eNodeB is responsible for:
-A) Radio resource management
-B) User authentication
-C) IP address allocation
-D) Policy enforcement
-Answer: A
-
-Q147. The X2 interface is used for:
-A) Handover between eNodeBs
-B) User data transfer
-C) Policy control
-D) Charging rules
-Answer: A
-
-Q148. The S1 interface connects:
-A) eNodeB to EPC
-B) eNodeB to UE
-C) SGW to PGW
-D) MME to HSS
-Answer: A
-
-Q149. The PGW provides:
-A) Connectivity to external networks
-B) Mobility management
-C) Radio resource management
-D) User authentication
-Answer: A
-
-Q150. The MME is responsible for:
-A) Mobility management
-B) Routing user data packets
-C) IP address allocation
-D) Policy enforcement
-Answer: A
-
-Q151. The SGW primarily:
-A) Routes user data packets
-B) Authenticates users
-C) Allocates IP addresses
-D) Enforces policies
-Answer: A
-
-Q152. The HSS stores:
-A) User subscription information
-B) Routing tables
-C) IP addresses
-D) Charging rules
-Answer: A
-
-Q153. The PCRF is responsible for:
-A) Policy and charging control
-B) Radio resource management
-C) User data forwarding
-D) Authentication
-Answer: A
-
-Q154. The S1-AP protocol is used for:
-A) Signaling between eNodeB and MME
-B) User data transfer
-C) Charging information
-D) Policy enforcement
-Answer: A
-
-Q155. The S1-U interface is responsible for:
-A) User plane data transfer
-B) Signaling
-C) Authentication
-D) Policy enforcement
-Answer: A
-
-Q156. The S1-MME interface is used for:
-A) Signaling between eNodeB and MME
-B) User data transfer
-C) Charging information
-D) Policy enforcement
-Answer: A
-
-Q157. The E-UTRAN consists of:
-A) eNodeBs and UEs
-B) MME and SGW
-C) PGW and PCRF
-D) HSS and PCRF
-Answer: A
-
-Q158. The S-GW acts as:
-A) Local mobility anchor for inter-eNodeB handover
-B) Policy controller
-C) Authentication server
-D) Frequency allocator
-Answer: A
-
-Q159. The main function of the NAS protocol is:
-A) Signaling between UE and MME
-B) User data transfer
-C) Radio resource management
-D) Charging control
-Answer: A
-
-Q160. Which protocol is used for user plane data transfer in LTE:
-A) GTP-U
-B) S1-AP
-C) NAS
-D) X2-AP
-Answer: A
-
-Q161. The PCRF in LTE is responsible for:
-A) Policy and charging control
-B) Radio resource management
-C) User data forwarding
-D) Authentication
-Answer: A
-
-Q162. The S5/S8 interface connects:
-A) SGW and PGW
-B) eNodeB and MME
-C) UE and eNodeB
-D) HSS and MME
-Answer: A
-
-Q163. The main function of the HSS is to:
-A) Store user profiles and authentication data
-B) Forward user data packets
-C) Manage radio resources
-D) Allocate frequencies
-Answer: A
-
-Q164. The Evolved Packet Core (EPC) is responsible for:
-A) Core network functions in LTE
-B) Radio access
-C) Frequency allocation
-D) Device manufacturing
-Answer: A
-
-Q165. The flat architecture in LTE provides:
-A) Reduced latency
-B) Increased complexity
-C) More network nodes
-D) Circuit switching
-Answer: A
-
-Q166. The S1 interface is divided into:
-A) S1-MME and S1-U
-B) S1-AP and S1-GW
-C) S1-X2 and S1-Y2
-D) S1-CP and S1-UP
-Answer: A
-
-Q167. The main function of the eNodeB includes:
-A) Radio resource management
-B) Policy control
-C) Charging rules
-D) IP address allocation
-Answer: A
-
-Q168. The X2 interface supports:
-A) Handover and load balancing between eNodeBs
-B) User data transfer to external networks
-C) Policy control
-D) Charging rules
-Answer: A
-
-Q169. The S1-U interface connects:
-A) eNodeB and SGW
-B) eNodeB and MME
-C) SGW and PGW
-D) UE and eNodeB
-Answer: A
-
-Q170. The E-UTRAN is responsible for:
-A) Radio access and control
-B) Core network functions
-C) Policy control
-D) Charging rules
-Answer: A
-
-Q171. The main function of the MME includes:
-A) Authentication and security
-B) User data forwarding
-C) IP address allocation
-D) Radio resource management
-Answer: A
-
-Q172. The S-GW in LTE acts as:
-A) Local mobility anchor
-B) Policy controller
-C) Authentication server
-D) Frequency allocator
-Answer: A
-
-Q173. The main function of the P-GW includes:
-A) IP address allocation
-B) Policy enforcement
-C) Radio resource management
-D) Charging support
-Answer: A
-
-Q174. The main function of the X2-AP protocol is:
-A) Signaling between eNodeBs
-B) User data transfer
-C) Policy control
-D) Authentication
-Answer: A
-
-Q175. The S5/S8 interface uses which protocol for user plane data:
-A) GTP-U
-B) S1-AP
-C) NAS
-D) X2-AP
-Answer: A
-
-Q176. The main function of the NAS protocol is:
-A) Signaling between UE and MME
-B) User data transfer
-C) Radio resource management
-D) Charging control
-Answer: A
-
-Q177. The Evolved Packet Core (EPC) includes all except:
-A) MME
-B) SGW
-C) PGW
-D) BTS
-Answer: D
-
-Q178. Which of the following is a key feature of LTE network architecture:
-A) Flat, all-IP architecture
-B) Circuit-switched core
-C) Analog transmission
-D) High latency
-Answer: A
-
-Q179. Which LTE network element is responsible for user authentication?
-A) eNodeB
-B) MME
-C) SGW
-D) PGW
-Answer: B
-
-Q180. What is the main function of the Evolved Packet Core (EPC)?
-A) Radio access management
-B) Core network data and signaling management
-C) Frequency allocation
-D) Device manufacturing
-Answer: B
-
-Q181. Which interface is used for signaling between the eNodeB and the MME?
-A) S1-U
-B) S1-MME
-C) X2
-D) S5
-Answer: B
-
-Q182. The S1-U interface is responsible for transferring:
-A) Control plane data
-B) User plane data
-C) Authentication information
-D) Charging rules
-Answer: B
-
-Q183. Which protocol is used for user plane data transfer between SGW and PGW?
-A) GTP-U
-B) S1-AP
-C) NAS
-D) X2-AP
-Answer: A
-
-Q184. The X2 interface is primarily used for:
-A) Handover and load balancing
-B) IP address allocation
-C) Policy enforcement
-D) Charging support
-Answer: A
-
-Q185. Which LTE component stores user subscription and authentication data?
-A) PCRF
-B) HSS
-C) SGW
-D) eNodeB
-Answer: B
-
-Q186. What is the main role of the Policy and Charging Rules Function (PCRF)?
-A) Policy and charging control
-B) Radio resource management
-C) User authentication
-D) Frequency allocation
-Answer: A
-
-Q187. Which of the following is a user equipment in LTE?
-A) Smartphone
-B) eNodeB
-C) SGW
-D) PCRF
-Answer: A
-
-Q188. The attach procedure in LTE is initiated by:
-A) UE
-B) eNodeB
-C) SGW
-D) PGW
-Answer: A
-
-Q189. Which protocol is used for signaling between UE and MME?
-A) NAS
-B) GTP-U
-C) S1-AP
-D) X2-AP
-Answer: A
-
-Q190. The S5/S8 interface connects which two EPC components?
-A) SGW and PGW
-B) eNodeB and MME
-C) UE and eNodeB
-D) HSS and MME
-Answer: A
-
-Q191. Which LTE network element is responsible for radio resource management?
-A) eNodeB
-B) MME
-C) SGW
-D) PGW
-Answer: A
-
-Q192. The E-UTRAN consists of which elements?
-A) eNodeBs and UEs
-B) MME and SGW
-C) PGW and PCRF
-D) HSS and PCRF
-Answer: A
-
-Q193. Which interface is used for user plane data transfer between eNodeB and SGW?
-A) S1-U
-B) S1-MME
-C) X2
-D) S5
-Answer: A
-
-Q194. The main function of the S-GW is to:
-A) Route user data packets and act as a local mobility anchor
-B) Allocate IP addresses
-C) Authenticate users
-D) Enforce policies
-Answer: A
-
-Q195. Which protocol is used for signaling between eNodeBs?
-A) X2-AP
-B) S1-AP
-C) GTP-U
-D) NAS
-Answer: A
-
-Q196. The P-GW is responsible for providing connectivity to:
-A) External IP networks
-B) eNodeB
-C) MME
-D) HSS
-Answer: A
-
-Q197. Which LTE component is responsible for session management and mobility management?
-A) MME
-B) SGW
-C) PGW
-D) eNodeB
-Answer: A
-
-Q198. The Home Subscriber Server (HSS) communicates with the MME using which interface?
-A) S6a
-B) S1-U
-C) X2
-D) S5
-Answer: A
-
-Q199. Which of the following is NOT a function of the eNodeB?
-A) Radio resource management
-B) Handover decisions
-C) Policy control
-D) Scheduling
-Answer: C
-
-Q200. The Evolved Packet Core (EPC) includes all of the following except:
-A) MME
-B) SGW
-C) PGW
-D) BTS
-Answer: D
-
-Q201. What is the main benefit of the flat, all-IP architecture in LTE?
-A) Reduced latency and simplified network design
-B) Increased complexity
-C) More network nodes
-D) Circuit switching
-Answer: A
-
-Q202. During which procedure does the PGW assign an IP address to the user equipment (UE)?
-A) Detach
-B) Handover
-C) Attach
-D) Paging
-Answer: C
-
-Q203. What does "RAT" stand for in LTE context?
-A) Radio Antenna Transmission
-B) Remote Access Technology
-C) Radio Access Technology
-D) Real-time Application Transport
-Answer: C
-
-Q204. Inter-RAT handover from LTE to GSM requires coordination between:
-A) Only eNodeB
-B) eNodeB and SGSN
-C) UE and PGW
-D) UE and HSS
-Answer: B
-
-Q205. Which message does the network send after a successful UE authentication?
-A) Attach Complete
-B) Authentication Request
-C) Authentication Accept
-D) Attach Accept
-Answer: D
-
-Q206. Which is a direct benefit of mobility management in LTE?
-A) Improved battery life
-B) Policy enforcement
-C) Service continuity for moving users
-D) Higher device costs
-Answer: C
-
-Q207. What triggers a Tracking Area Update (TAU) in LTE?
-A) UE moving into a new tracking area
-B) UE getting switched off
-C) User making a call
-D) PGW timeout
-Answer: A
-
-Q208. In LTE, which entity manages the security context for the UE?
-A) eNodeB
-B) MME
-C) PGW
-D) HSS
-Answer: B
-
-Q209. A seamless handover in LTE is designed to minimize:
-A) Authentication complexity
-B) Billing overhead
-C) Packet loss and latency
-D) Data encryption
-Answer: C
-
-Q210. Which is established first during the attach process?
-A) Data bearer
-B) Security context
-C) Authentication
-D) Handover
-Answer: C
-
-Q211. Why are inter-frequency handovers more complicated than intra-frequency ones?
-A) Require UE to retune to another frequency
-B) Need new IMSI
-C) Only work for stationary UEs
-D) Don’t use MME
-Answer: A
-
-Q212. What security algorithm is used to protect user signaling in LTE?
-A) AES by default
-B) SNOW 3G / AES
-C) DES only
-D) SSL/TLS
-Answer: B
-
-Q213. What does the HSS supply to the MME during the attach procedure?
-A) Frequency allocation
-B) Authentication vectors
-C) Paging messages
-D) IP addresses
-Answer: B
-
-Q214. Which procedure is essential for maintaining active sessions as users move between LTE cells?
-A) Attach
-B) Detach
-C) Handover
-D) De-registration
-Answer: C
-
-Q215. When performing inter-RAT handover, what must the UE do?
-A) Change IMSI
-B) Re-authenticate with new RAT
-C) Discard SIM
-D) Upgrade firmware
-Answer: B
-
-Q216. The X2 interface between eNodeBs is mainly used for:
-A) Authentication only
-B) Signaling for handovers and load balancing
-C) Billing queries
-D) Paging
-Answer: B
-
-Q217. Which factor can cause handover failure in a dense urban environment?
-A) Too much available bandwidth
-B) Interference and fast cell transitions
-C) Limited mobility
-D) High user security
-Answer: B
-
-Q218. Which step follows successful authentication in the LTE attach sequence?
-A) Bearer establishment
-B) IMSI assignment
-C) Frequency scan
-D) PGW handover
-Answer: A
-
-Q219. Which type of handover is initiated when a UE moves from a macro cell to a femtocell in LTE?
-A) Intra-frequency
-B) Inter-macro handover
-C) Intra-RAT handover
-D) Device-to-network handover
-Answer: C
-
-Q220. Authentication replay attacks are mitigated in LTE by:
-A) Using the same keys for every session
-B) Secure random nonces and sequence numbers
-C) Simple username-password pairs
-D) Unencrypted NAS messages
-Answer: B
-
-Q221. What happens if an LTE attach procedure fails authentication?
-A) UE is paged
-B) UE is rejected connection
-C) UE is handed over to another cell
-D) UE is forced to re-attach with a different identity
-Answer: B
-
-Q222. What is the main advantage of seamless inter-RAT handover for mobile users?
-A) Unlimited data
-B) Consistent service even when leaving LTE coverage
-C) Increased billing rates
-D) Lower authentication security
-Answer: B
-
-Q223. Which step ensures the network and UE agree on encryption keys?
-A) Attach Accept
-B) Security Mode Command
-C) X2 Handover Complete
-D) Paging Response
-Answer: B
-
-Q224. What is a direct outcome when TAU is not updated after moving to a new area?
-A) UE receives duplicate IP addresses
-B) UE cannot be reached for incoming services
-C) UE gets higher data rates
-D) UE gets immediate handover
-Answer: B
-
-Q225. The first signaling between UE and eNodeB in the attach procedure is carried over:
-A) X2 interface
-B) Uu air interface
-C) S1-MME interface
-D) GTP-U tunnel
-Answer: B
-
-Q226. Which component communicates directly with both eNodeBs and the SGW for user plane data?
-A) PGW
-B) MME
-C) HSS
-D) SGW
-Answer: D
-
-Q227. Which message signals the end of the LTE attach procedure?
-A) Attach Accept
-B) Attach Complete
-C) Security Mode Command
-D) Authentication Response
-Answer: B
-
-Q228. In LTE, what does the term "handover margin" refer to?
-A) The data cost difference between tariffs
-B) The signal threshold at which handover is initiated
-C) The time UE idles between handovers
-D) The number of eNodeBs involved in handover
-Answer: B
-
-Q229. During inter-RAT handover, which is essential for a smooth transition?
-A) Re-negotiation of QoS parameters
-B) Assignment of new HSS entry
-C) Direct eNodeB-PGW signaling
-D) S1 handover timers
-Answer: A
-
-Q230. For seamless handover, which factor must be minimized?
-A) Security overhead
-B) Service interruption time
-C) Encryption complexity
-D) Paging frequency
-Answer: B
-
-Q231. In the attach procedure, which message provides the UE with session parameters and assigned IP?
-A) Attach Accept
-B) Attach Request
-C) Authentication Response
-D) TAU Complete
-Answer: A
-
-Q232. What does fast handover in densely populated LTE networks reduce?
-A) Data encryption
-B) Service interruption during cell changes
-C) Packet size
-D) UE transmission power
-Answer: B
-
-Q233. What mechanism allows a UE to transition from LTE back to a legacy 2G/3G network?
-A) Tracking Area Update only
-B) Inter-RAT handover procedure
-C) Local breakout
-D) S-GW reselection
-Answer: B
-
-Q234. Which entity generates the Authentication Vector (AV) for the LTE attach process?
-A) eNodeB
-B) UE
-C) HSS
-D) PGW
-Answer: C
-
-Q235. What does the UE use to respond to a network authentication challenge?
-A) Authentication Result
-B) GUTI assignment
-C) Authentication Response
-D) Attach Complete
-Answer: C
-
-Q236. Handover thresholds in LTE are primarily based on which measurement?
-A) Billing status
-B) Received signal strength (RSRP/RSRQ)
-C) IMSI
-D) Data consumption
-Answer: B
-
-Q237. Stateless handover in LTE means that:
-A) Session state is not transferred to target eNodeB
-B) UE discards old session keys
-C) MME resets connection each handover
-D) UE is paged after each cell entry
-Answer: A
-
-Q238. Seamless mobility supports uninterrupted services during:
-A) Only calls
-B) VoLTE calls and data sessions
-C) Roaming only
-D) Paging only
-Answer: B
-
-Q239. In LTE, which entity signals ‘TAU Accept’ after a successful Tracking Area Update?
-A) UE
-B) eNodeB
-C) MME
-D) PGW
-Answer: C
-
-Q240. Which LTE security measure prevents false base stations from masquerading as legitimate network elements?
-A) NAS encryption only
-B) Mutual authentication between UE and network
-C) Unencrypted IMSI transmission
-D) Transparent handovers
-Answer: B
-
-Q241. The 'Detach' procedure in LTE is used when:
-A) UE is powered on
-B) UE leaves the network or turns off
-C) Handover to a neighbor cell
-D) IMSI update
-Answer: B
-
-Q242. What does the “handover preparation” phase include?
-A) E-UTRAN configuration for UE
-B) UE authentication
-C) Reselection of MME pool
-D) IMSI paging
-Answer: A
-
-Q243. What aspect makes LTE handover “make-before-break” instead of “break-before-make”?
-A) UE receives target cell resources before disconnecting source cell
-B) UE disconnects then searches for another cell
-C) IP address is released
-D) Paging is mandatory before handover
-Answer: A
-
-Q244. Why is the Security Mode Command sent after Authentication in attach?
-A) To agree on encryption and integrity algorithms
-B) To update tracking area
-C) To release bearer context
-D) To perform paging
-Answer: A
-
-Q245. Which component's misconfiguration is most likely to cause unsuccessful EPS bearer establishment?
-A) eNodeB
-B) PGW
-C) HSS
-D) UE
-Answer: B
-
-Q246. If a UE moves to a new Tracking Area but does not perform TAU, what're the consequences?
-A) It won’t receive paging or calls
-B) It will automatically attach to the new MME
-C) Gets a new IP address
-D) Registers twice with HSS
-Answer: A
-
-Q247. In the attach sequence, what is sent by MME to the HSS as part of authentication?
-A) Identity Request
-B) Authentication Information Request
-C) Attach Complete
-D) Security Mode Command
-Answer: B
-
-Q248. Which scenario exemplifies inter-cell handover within LTE using X2 interface?
-A) UE moves between cells managed by different eNodeBs directly connected
-B) UE moves from LTE to GSM
-C) UE moves to a cell on different frequency with no X2 support
-D) UE switches operators
-Answer: A
-
-Q249. What would increase handover signaling overhead in urban networks?
-A) Frequent small cell deployments
-B) Lack of handover
-C) Larger tracking areas
-D) Only inter-RAT transitions
-Answer: A
-
-Q250. In which LTE attach scenario is a new GUTI allocated to the UE?
-A) Every attach attempt
-B) Only after successful authentication and security setup
-C) Only during Detach
-D) When IP address is released
-Answer: B
-
-Q251. After a successful handover, what must the UE do in the new cell?
-A) Restart attach procedure
-B) Synchronize and update its context
-C) Release its IP address
-D) Change its IMSI
-Answer: B
-
-Q252. Which entity coordinates policy enforcement for data flows in LTE?
-A) MME
-B) PCRF
-C) PGW
-D) SGW
-Answer: B
-
-Q253. In the Authentication and Security process, what is the major purpose of integrity protection?
-A) Increase data rate
-B) Prevent unauthorized message modification
-C) Assign GUTI
-D) Handover to another RAT
-Answer: B
-
-Q254. What is a temporary identity used by LTE networks to protect subscriber privacy?
-A) IMSI
-B) GUTI
-C) MSISDN
-D) RSRP
-Answer: B
-
-Q255. The “handover execution” phase in LTE primarily involves:
-A) UE confirming resource setup in the target cell
-B) New IP assignment
-C) HSS updating IMSI lists
-D) PGW authentication
-Answer: A
-
-Q256. When does a UE typically perform re-authentication during mobility events?
-A) Only after attach
-B) During inter-RAT handovers to non-LTE networks
-C) Upon each intra-frequency handover
-D) After every data packet
-Answer: B
-
-Q257. Which of these is a core challenge for handover optimization in heterogeneous LTE networks?
-A) Managing diverse radio environments and policies
-B) Using the same handover metrics everywhere
-C) Bypassing all authentication after attach
-D) No neighbor discovery required
-Answer: A
-
-Q258. What does a successful Security Mode Complete message confirm?
-A) Bearer establishment
-B) Security algorithm agreement between UE and network
-C) GUTI assignment
-D) UE battery level
-Answer: B
-
-Q259. Why is fast dormancy management important for UEs in LTE?
-A) Reduces signaling overhead and conserves battery during inactivity
-B) Helps in frequency allocation
-C) Supports inter-RAT handover only
-D) Improves call drop rate
-Answer: A
-
-Q260. In the context of seamless mobility, what is meant by “session continuity”?
-A) The user’s active data/voice session is uninterrupted across network changes
-B) The user must re-register after each handover
-C) The session timer resets on each attach
-D) Only IMSI changes
-Answer: A
-
-Q261. What triggers an Authentication Failure message in attach?
-A) TAU not completed
-B) Incorrect UE response to Authentication Request
-C) Handover completion
-D) Bearer release
-Answer: B
-
-Q262. In LTE, what limits the signaling load on the core network during frequent mobility?
-A) Grouping cells into Tracking Areas
-B) Assigning IP per cell
-C) Setting NAS encryption to “off”
-D) Using static bearers only
-Answer: A
-
-Q263. What is the critical difference between intra-eNodeB and inter-eNodeB handovers?
-A) Whether X2 or S1 interfaces are used to coordinate handover
-B) Only occurs when devices are powered off
-C) Inter-eNodeB always involves IP change
-D) Intra-eNodeB is always inter-frequency
-Answer: A
-
-Q264. What is the main consequence if handover timers are wrongly configured (too short)?
-A) Too many unnecessary handovers/drop in session quality
-B) No handovers at all
-C) Excessive data rates
-D) Permanent IMSI allocation
-Answer: A
-
-Q265. What is usually transmitted as part of the EPS bearer context during attach?
-A) QoS parameters for the UE’s session
-B) UE’s IMSI in plain text
-C) Billing address
-D) Authentication Vectors
-Answer: A
-
-Q266. Which security mechanism is enforced through NAS signaling in LTE?
-A) Integrity and confidentiality protection for signaling messages
-B) Data compression
-C) Bearer activation
-D) Tracking Area updates
-Answer: A
-
-Q267. Which is a direct role of the UE after being assigned a temporary GUTI?
-A) Use GUTI instead of IMSI for identification on future transactions
-B) Perform cell search only
-C) Initiate new attach for each session
-D) Signal HSS directly
-Answer: A
-
-Q268. What must a UE do when it cannot decode the security parameters from the network?
-A) Send Security Mode Reject
-B) Send Attach Complete anyway
-C) Ignore the network
-D) Change its GUTI
-Answer: A
-
-Q269. What indicates successful transition of user data following a handover?
-A) No interruption or loss of packets to/from the UE as it moves cells
-B) Attach is repeated after each handover
-C) Authentication is rerun before every packet
-D) UE’s IMSI is broadcast after each cell change
-Answer: A
-
-Q270. What enables fast re-attachment for UEs moving between trusted LTE networks?
-A) Reuse of security contexts and temporary identities
-B) Allocation of new permanent IMSI
-C) Immediate IP reassignment
-D) Paging between networks
-Answer: A
-
-Q271. What does LTE use to protect the confidentiality of user data during transmission?
-A) SNOW 3G/AES encryption algorithms
-B) RSRP-based authentication
-C) IMSI change upon handover
-D) S1-MME only
-Answer: A
-
-Q272. What role does the MME play during attach in handling UE location?
-A) Maintains and updates the UE’s location for paging and mobility
-B) Discards location information
-C) Only notifies the HSS after handover
-D) No role in tracking area management
-Answer: A
-
-Q273. Which transition would require an inter-RAT handover rather than intra-RAT handover?
-A) LTE to UMTS
-B) LTE cell to LTE cell on same frequency
-C) LTE cell to LTE cell on different frequency
-D) LTE to LTE-A
-Answer: A
-
-Q274. How does Grouper Temporary Identity (GUTI) improve user privacy?
-A) Masks the real IMSI during NAS signaling and transactions
-B) Assigns a new IP each attach
-C) Releases bearer context after every session
-D) Encrypts the PGW’s address
-Answer: A
-
-Q275. In LTE, what is the purpose of the NAS Security Mode Command?
-A) Establishes the algorithms for signaling protection between UE and network
-B) Disables data bearer temporarily
-C) Allocates frequency to the UE
-D) Assigns tracking area
-Answer: A
-
-Q276. Which scenario would directly trigger a Tracking Area Update (TAU)?
-A) UE enters a new tracking area not assigned previously
-B) Paging message is received
-C) Authentication fails
-D) IMSI is updated by HSS
-Answer: A
-
-Q277. What message does a UE send to initiate attach after powering on?
-A) Attach Request
-B) Handover Accept
-C) Security Mode Command
-D) TAU Accept
-Answer: A
-
-Q278. What mechanism in LTE allows for handover with minimal packet loss?
-A) Make-before-break resource allocation
-B) Paging all UEs before handover
-C) Detach after each handover
-D) Permanent security mode
-Answer: A
-
-Q279. What does the EPS bearer provide to the UE after attach success?
-A) Dedicated path for data with specified QoS parameters
-B) IMSI change
-C) Authentication retry cycle
-D) Handshake with PCRF
-Answer: A
-
-Q280. When a UE moves across different LTE tracking areas, what prevents service gaps?
-A) Timely Tracking Area Update (TAU) procedure
-B) Security Mode Command on each cell change
-C) IMSI switch after data session
-D) Frequent attach/detach cycles
-Answer: A
-
-Q281. What step is skipped in LTE handover for UEs already authenticated with the same MME?
-A) Full authentication
-B) Security Mode Command
-C) TAU procedure
-D) IMSI paging
-Answer: A
-
-Q282. Inter-frequency handover is most common in LTE when:
-A) Different frequency bands or carriers are involved between source and target cells
-B) UE switches operators
-C) Cell towers use identical antennas
-D) Data sessions are interrupted
-Answer: A
-
-Q283. When would an EPS bearer be released in LTE?
-A) Data session ends or user detaches from network
-B) IMSI is reassigned
-C) After authentication challenge
-D) Every time UE moves between tracking areas
-Answer: A
-
-Q284. If a UE receives a Security Mode Reject message, what is the implication?
-A) Security setup failed, attach process must be restarted
-B) Attach request immediately accepted
-C) PGW assigns new IP
-D) TAU procedure runs again
-Answer: A
-
-Q285. What communication does the X2 interface facilitate during handover?
-A) Direct signaling between source and target eNodeBs
-B) IMSI negotiation with HSS
-C) Data session detachment
-D) User billing cycle updates
-Answer: A
-
-Q286. When performing an Attach procedure, which identity does the UE use first?
-A) IMSI for initial network authentication
-B) GUTI for all steps
-C) HSS address for paging
-D) PCRF ID for bearer activation
-Answer: A
-
-Q287. Which entity is directly responsible for EPS bearer QoS enforcement?
-A) PGW and PCRF
-B) HSS only
-C) eNodeB only
-D) UE only
-Answer: A
-
-Q288. What handover metric most influences the decision for UE mobility between eNodeBs?
-A) RSRP and RSRQ (signal strength and quality)
-B) IMSI parity
-C) Data billing cycles
-D) Attach accept timers
-Answer: A
-
-Q289. Why is mutual authentication critical in LTE attach procedures?
-A) Ensures both UE and network verify each other before establishing secure session
-B) Only UE needs to be authenticated
-C) Favors low-latency over security
-D) Used for billing updates
-Answer: A
-
-Q290. On which interface does the initial attach signaling take place between the UE and eNodeB?
-A) Uu radio interface
-B) S1-MME only
-C) X2 between eNodeBs
-D) PCRF direct link
-Answer: A
-
-Let me know if you want to continue this MCQ sequence from Q291!Q271. What does LTE use to protect the confidentiality of user data during transmission?
-A) SNOW 3G/AES encryption algorithms
-B) RSRP-based authentication
-C) IMSI change upon handover
-D) S1-MME only
-Answer: A
-
-Q272. What role does the MME play during attach in handling UE location?
-A) Maintains and updates the UE’s location for paging and mobility
-B) Discards location information
-C) Only notifies the HSS after handover
-D) No role in tracking area management
-Answer: A
-
-Q273. Which transition would require an inter-RAT handover rather than intra-RAT handover?
-A) LTE to UMTS
-B) LTE cell to LTE cell on same frequency
-C) LTE cell to LTE cell on different frequency
-D) LTE to LTE-A
-Answer: A
-
-Q274. How does Grouper Temporary Identity (GUTI) improve user privacy?
-A) Masks the real IMSI during NAS signaling and transactions
-B) Assigns a new IP each attach
-C) Releases bearer context after every session
-D) Encrypts the PGW’s address
-Answer: A
-
-Q275. In LTE, what is the purpose of the NAS Security Mode Command?
-A) Establishes the algorithms for signaling protection between UE and network
-B) Disables data bearer temporarily
-C) Allocates frequency to the UE
-D) Assigns tracking area
-Answer: A
-
-Q276. Which scenario would directly trigger a Tracking Area Update (TAU)?
-A) UE enters a new tracking area not assigned previously
-B) Paging message is received
-C) Authentication fails
-D) IMSI is updated by HSS
-Answer: A
-
-Q277. What message does a UE send to initiate attach after powering on?
-A) Attach Request
-B) Handover Accept
-C) Security Mode Command
-D) TAU Accept
-Answer: A
-
-Q278. What mechanism in LTE allows for handover with minimal packet loss?
-A) Make-before-break resource allocation
-B) Paging all UEs before handover
-C) Detach after each handover
-D) Permanent security mode
-Answer: A
-
-Q279. What does the EPS bearer provide to the UE after attach success?
-A) Dedicated path for data with specified QoS parameters
-B) IMSI change
-C) Authentication retry cycle
-D) Handshake with PCRF
-Answer: A
-
-Q280. When a UE moves across different LTE tracking areas, what prevents service gaps?
-A) Timely Tracking Area Update (TAU) procedure
-B) Security Mode Command on each cell change
-C) IMSI switch after data session
-D) Frequent attach/detach cycles
-Answer: A
-
-Q281. What step is skipped in LTE handover for UEs already authenticated with the same MME?
-A) Full authentication
-B) Security Mode Command
-C) TAU procedure
-D) IMSI paging
-Answer: A
-
-Q282. Inter-frequency handover is most common in LTE when:
-A) Different frequency bands or carriers are involved between source and target cells
-B) UE switches operators
-C) Cell towers use identical antennas
-D) Data sessions are interrupted
-Answer: A
-
-Q283. When would an EPS bearer be released in LTE?
-A) Data session ends or user detaches from network
-B) IMSI is reassigned
-C) After authentication challenge
-D) Every time UE moves between tracking areas
-Answer: A
-
-Q284. If a UE receives a Security Mode Reject message, what is the implication?
-A) Security setup failed, attach process must be restarted
-B) Attach request immediately accepted
-C) PGW assigns new IP
-D) TAU procedure runs again
-Answer: A
-
-Q285. What communication does the X2 interface facilitate during handover?
-A) Direct signaling between source and target eNodeBs
-B) IMSI negotiation with HSS
-C) Data session detachment
-D) User billing cycle updates
-Answer: A
-
-Q286. When performing an Attach procedure, which identity does the UE use first?
-A) IMSI for initial network authentication
-B) GUTI for all steps
-C) HSS address for paging
-D) PCRF ID for bearer activation
-Answer: A
-
-Q287. Which entity is directly responsible for EPS bearer QoS enforcement?
-A) PGW and PCRF
-B) HSS only
-C) eNodeB only
-D) UE only
-Answer: A
-
-Q288. What handover metric most influences the decision for UE mobility between eNodeBs?
-A) RSRP and RSRQ (signal strength and quality)
-B) IMSI parity
-C) Data billing cycles
-D) Attach accept timers
-Answer: A
-
-Q289. Why is mutual authentication critical in LTE attach procedures?
-A) Ensures both UE and network verify each other before establishing secure session
-B) Only UE needs to be authenticated
-C) Favors low-latency over security
-D) Used for billing updates
-Answer: A
-
-Q290. On which interface does the initial attach signaling take place between the UE and eNodeB?
-A) Uu radio interface
-B) S1-MME only
-C) X2 between eNodeBs
-D) PCRF direct link
-Answer: A
-
-Q291. In LTE networks, what helps to maintain UE confidentiality during signaling and data exchange?
-A) NAS and AS security mechanisms
-B) Only handover signaling
-C) Paging in cleartext
-D) Unprotected radio interfaces
-Answer: A
-
-Q292. Which entity initiates the Authentication Information Request to the HSS?
-A) MME
-B) eNodeB
-C) PGW
-D) PCRF
-Answer: A
-
-Q293. What happens to active bearers when a UE detaches from the network?
-A) They are all released
-B) They switch to idle mode
-C) They remain indefinitely active
-D) They are assigned to another user
-Answer: A
-
-Q294. A correctly configured Tracking Area ensures which critical LTE service performance outcome?
-A) Efficient paging and reduced signaling load
-B) Lower encryption strength
-C) Fewer available IPs
-D) Increased call setup delay
-Answer: A
-
-Q295. How does the LTE attach procedure ensure replay attack protection?
-A) Uses random nonces and sequence numbers in authentication
-B) Pages the UE multiple times
-C) Relies on the IP address as a secret
-D) Encrypts IMSI on air
-Answer: A
-
-Q296. During which step does the MME typically assign a temporary identity to the UE?
-A) After successful security setup
-B) Before the attach request is processed
-C) During IMSI paging
-D) On bearer release
-Answer: A
-
-Q297. If an inter-eNodeB X2-based handover fails, what is the fallback method?
-A) S1-based handover via core network
-B) TAU is immediately triggered
-C) IMSI re-authentication
-D) Bearer is dropped
-Answer: A
-
-Q298. Which LTE security procedure is responsible for preventing unauthorized message modification between UE and network?
-A) NAS integrity protection
-B) Paging with secret IMSI
-C) Only bearer encryption
-D) S1-U user plane only
-Answer: A
-
-Q299. When does the UE resume using GUTI for network identification after attach?
-A) After first authentication and security setup
-B) On every paging request
-C) After every handover
-D) When it loses coverage
-Answer: A
-
-Q300. What specifically distinguishes inter-frequency handovers from intra-frequency handovers in LTE?
-A) Need to retune the UE to a new frequency band
-B) Change of operator
-C) New IMSI assignment by HSS
-D) Only data bearers are released
-Answer: A
-
-Q301. What is the main function of the PDCP layer in LTE?
-A) Scheduling
-B) Header compression, ciphering, and integrity protection
-C) Frequency allocation
-D) Paging
-Answer: B
-
-Q302. PDCP is located above which layer in the LTE protocol stack?
-A) MAC
-B) RLC
-C) PHY
-D) NAS
-Answer: B
-
-Q303. Which technique is used by PDCP for header compression?
-A) LZW
-B) ROHC
-C) Huffman
-D) GZIP
-Answer: B
-
-Q304. Which of the following is NOT a function of PDCP?
-A) Header compression
-B) Ciphering
-C) Scheduling
-D) Integrity protection
-Answer: C
-
-Q305. What is the primary purpose of header compression in PDCP?
-A) Reduce transmission errors
-B) Minimize overhead for IP packets
-C) Increase encryption strength
-D) Allocate frequencies
-Answer: B
-
-Q306. Which protocol is responsible for ciphering user data in LTE?
-A) MAC
-B) PDCP
-C) RLC
-D) NAS
-Answer: B
-
-Q307. Integrity protection in LTE is mainly applied to which type of data?
-A) User plane data
-B) Control plane data
-C) Both user and control plane
-D) Only paging messages
-Answer: B
-
-Q308. What does ROHC stand for in the context of LTE?
-A) Robust Header Compression
-B) Radio Overhead Control
-C) Reliable Output Handling
-D) Randomized Header Coding
-Answer: A
-
-Q309. Which layer is directly below PDCP in the LTE protocol stack?
-A) MAC
-B) RLC
-C) PHY
-D) NAS
-Answer: B
-
-Q310. What is the main benefit of ciphering in the PDCP layer?
-A) Faster handovers
-B) Data confidentiality
-C) Lower latency
-D) Higher throughput
-Answer: B
-
-Q311. Which of the following is a key function of PDCP for user plane data?
-A) Header compression
-B) Frequency allocation
-C) Paging
-D) Bearer setup
-Answer: A
-
-Q312. What is the main role of PDCP in control plane data?
-A) Scheduling
-B) Integrity protection
-C) Frequency hopping
-D) Data aggregation
-Answer: B
-
-Q313. Which protocol is used for mutual authentication in LTE?
-A) EAP
-B) EPS-AKA
-C) PAP
-D) CHAP
-Answer: B
-
-Q314. What is the role of the HSS in LTE security?
-A) Assigns IP address
-B) Stores subscriber and authentication data
-C) Handles paging
-D) Manages radio resources
-Answer: B
-
-Q315. Which plane does NAS security protect?
-A) User plane
-B) Control plane
+Q40. Hard handover follows:
+A) Make before Break
+B) Break before Make
 C) Both
 D) None
 Answer: B
 
-Q316. What is the main purpose of the EPS bearer in LTE?
-A) A physical device
-B) A logical channel for user data with specific QoS
-C) A type of SIM card
-D) A security protocol
-Answer: B
-
-Q317. Which component allocates the IP address for a new bearer?
-A) eNodeB
-B) SGW
-C) PGW
-D) MME
+Q41. Which of the following is considered the fastest data-transferring guided medium?
+A) UTP
+B) Coaxial Cable
+C) Optical Fiber Cable
+D) STP
 Answer: C
 
-Q318. What is the difference between a session and a bearer in LTE?
-A) No difference
-B) Session is about user traffic, bearer is the transport path
-C) Bearer is about user, session is about QoS
-D) Session is only for voice
+Q42. What is the primary difference between UTP and STP cables?
+A) UTP is used for telephones, while STP is used for Ethernet.
+B) UTP uses copper wires, while STP uses glass fibers.
+C) STP includes an additional shield to reduce noise, while UTP does not.
+D) STP is cheaper than UTP.
+Answer: C
+
+Q43. Coaxial cables are commonly used in:
+A) Telephone lines
+B) TV networks and broadband internet
+C) Backbone networks for ISPs
+D) LANs
 Answer: B
 
-Q319. Which protocol is responsible for header compression in LTE?
-A) MAC
-B) PDCP
-C) RLC
-D) NAS
+Q44. Why is optical fiber immune to electromagnetic interference?
+A) Strong outer jacket
+B) Uses light signals instead of electrical signals
+C) Made of silica
+D) Multiple insulation layers
 Answer: B
 
-Q320. What is the main function of ciphering in LTE security?
-A) Data confidentiality
-B) Paging
-C) Frequency allocation
-D) Bearer setup
-Answer: A
+Q45. Guided media is also known as bounded media because:
+A) Very secure
+B) Uses EM waves
+C) Has a physical path
+D) Short distance only
+Answer: C
 
-Q321. Which protocol layer is responsible for integrity protection of control plane data?
-A) MAC
-B) PDCP
-C) RLC
-D) PHY
+Q46. Which type of unguided media requires LOS?
+A) Radio Waves
+B) Microwaves
+C) Infrared Waves
+D) Satellite Waves
 Answer: B
 
-Q322. What is the main purpose of the EPS-AKA protocol?
-A) Mutual authentication between UE and network
-B) Frequency allocation
-C) Paging
-D) Bearer setup
-Answer: A
+Q47. A key limitation of Infrared waves is:
+A) Expensive
+B) Requires large antenna
+C) Cannot pass through walls
+D) Works long distance
+Answer: C
 
-Q323. Which entity stores the authentication vectors in LTE?
-A) eNodeB
-B) HSS
-C) PGW
-D) MME
+Q48. Radio waves are:
+A) Uni-directional
+B) Omni-directional
+C) Require LOS
+D) Short-range only
 Answer: B
 
-Q324. What is the main function of the NAS protocol in LTE?
-A) Control plane signaling between UE and core network
-B) User data transfer
-C) Frequency hopping
-D) Paging
+Q49. Wi-Fi and Bluetooth use:
+A) Radio Waves
+B) Infrared
+C) Microwaves
+D) X-rays
 Answer: A
 
-Q325. Which layer is responsible for ciphering user plane data in LTE?
-A) MAC
-B) PDCP
-C) RLC
-D) NAS
+Q50. Primary application of satellite communication:
+A) Remotes
+B) Large-area coverage like GPS
+C) Short distance
+D) FM radio
 Answer: B
 
-Q326. What is the main benefit of using ROHC in LTE?
-A) Reduces header size for IP packets
-B) Increases encryption strength
-C) Allocates frequencies
-D) Improves paging
+Q51. What is the definition of bandwidth?
+A) The number of cycles a signal completes per second
+B) The speed of light in a vacuum
+C) The range of frequencies a channel can transmit
+D) The time period of one cycle
+Answer: C
+
+Q52. If a signal completes 50 cycles in one second, what is its frequency?
+A) 100 Hz
+B) 25 Hz
+C) 50 Hz
+D) 0.02 Hz
+Answer: C
+
+Q53. An audio channel can transmit frequencies between 300 Hz and 3300 Hz. What is its bandwidth?
+A) 3600 Hz
+B) 3300 Hz
+C) 3000 Hz
+D) 300 Hz
+Answer: C
+
+Q54. A higher bandwidth generally implies:
+A) Lower data transfer rate
+B) Longer transmission distance
+C) Higher data transfer rate
+D) Lower noise immunity
+Answer: C
+
+Q55. Frequency and time period are related as:
+A) f = T
+B) f = T²
+C) f = 1/T
+D) f = T + 1
+Answer: C
+
+Q56. The two states of a digital signal are:
+A) High and Medium
+B) Positive and Negative
+C) 0 (Low) and 1 (High)
+D) Analog and Continuous
+Answer: C
+
+Q57. Which logic gate outputs 1 only when all inputs are 1?
+A) OR
+B) AND
+C) NOT
+D) XOR
+Answer: B
+
+Q58. NAND and NOR gates are called universal gates because:
+A) Used in all digital devices
+B) Simplest to manufacture
+C) Any logical circuit can be built using them
+D) First gates invented
+Answer: C
+
+Q59. The output of which circuit depends on present inputs AND past history?
+A) Analog Circuit
+B) Combinational Circuit
+C) Sequential Circuit
+D) Logic Gate Circuit
+Answer: C
+
+Q60. A circuit whose output depends only on current inputs is:
+A) Combinational Circuit
+B) Sequential Circuit
+C) Flip-Flop
+D) Register
 Answer: A
 
-Q327. Which protocol is used for bearer setup in LTE?
-A) NAS
-B) RLC
-C) MAC
-D) PHY
-Answer: A
+Q61. What is the primary purpose of modulation?
+A) Decrease bandwidth
+B) Enable long-distance transmission and reduce antenna size
+C) Convert digital to analog
+D) Encrypt data
+Answer: B
 
-Q328. What is the main purpose of integrity protection in LTE?
-A) Ensure data is not tampered with
-B) Increase data rate
-C) Reduce latency
-D) Allocate IP address
-Answer: A
+Q62. In Frequency Modulation (FM), which parameter varies?
+A) Amplitude
+B) Frequency
+C) Phase
+D) Amplitude & Phase
+Answer: B
 
-Q329. Which component is responsible for session management in LTE?
-A) MME
-B) eNodeB
-C) PDCP
-D) RLC
-Answer: A
+Q63. Which digital modulation technique changes frequency for binary data?
+A) ASK
+B) FSK
+C) PSK
+D) QAM
+Answer: B
 
-Q330. What is the main function of the PGW in LTE?
-A) Allocates IP address and connects to external networks
-B) Handles paging
-C) Manages radio resources
-D) Stores authentication data
-Answer: A
+Q64. What remains constant in AM?
+A) Amplitude & Frequency
+B) Frequency & Phase
+C) Amplitude & Phase
+D) Only Amplitude
+Answer: B
 
-Q331. Which protocol is responsible for user plane data transfer in LTE?
-A) PDCP
-B) RLC
-C) MAC
-D) All of the above
+Q65. Which modulation technique is widely used in Wi-Fi and 4G/5G?
+A) AM
+B) FSK
+C) ASK
+D) PSK
 Answer: D
 
-Q332. What is the main role of the RLC layer in LTE?
-A) Error correction and segmentation
-B) Header compression
-C) Ciphering
-D) Paging
+Q66. Which pulse modulation technique is digital?
+A) PAM
+B) PWM
+C) PCM
+D) PPM
+Answer: C
+
+Q67. In PWM, what changes based on the signal?
+A) Amplitude
+B) Position
+C) Width
+D) Frequency
+Answer: C
+
+Q68. Converting analog to binary stream via sampling, quantization, encoding is:
+A) PAM
+B) PWM
+C) PPM
+D) PCM
+Answer: D
+
+Q69. Technique where amplitude of pulses varies but width & position remain constant:
+A) PAM
+B) PWM
+C) PPM
+D) PCM
 Answer: A
 
-Q333. Which layer is directly above the MAC layer in LTE?
-A) PDCP
-B) RLC
-C) NAS
-D) PHY
+Q70. If amplitude & width stay constant but time of occurrence changes:
+A) PAM
+B) PWM
+C) PPM
+D) PCM
+Answer: C
+
+Q71. In which multiple access technique do users get different time slots?
+A) FDMA
+B) TDMA
+C) CDMA
+D) SDMA
 Answer: B
 
-Q334. What is the main function of the MAC layer in LTE?
-A) Scheduling and multiplexing
-B) Header compression
+Q72. In CDMA users are separated by:
+A) Frequencies
+B) Time slots
+C) Unique codes
+D) Spatial location
+Answer: C
+
+Q73. 4G LTE and Wi-Fi 6 use:
+A) TDMA
+B) CDMA
+C) FDMA
+D) OFDMA
+Answer: D
+
+Q74. Which technique assigns separate frequency bands?
+A) FDMA
+B) TDMA
+C) CDMA
+D) OFDMA
+Answer: A
+
+Q75. Technique with multiple antennas creating spatial channels:
+A) FDMA
+B) TDMA
+C) OFDMA
+D) SDMA
+Answer: D
+
+Q76. Two main components of a Mobile Station (MS):
+A) Antenna & Battery
+B) Mobile Equipment & SIM
+C) BTS & BSC
+D) MSC & VLR
+Answer: B
+
+Q77. Reusing frequencies in far cells is called:
+A) Handover
+B) Modulation
+C) Frequency Reuse
+D) Multiplexing
+Answer: C
+
+Q78. Handover in cellular network means:
+A) Call connection setup
+B) Switching off phone
+C) Transferring active call between base stations
+D) Allocating frequency
+Answer: C
+
+Q79. "Break before make" handover is:
+A) Soft Handover
+B) Hard Handover
+C) Fast Handover
+D) Seamless Handover
+Answer: B
+
+Q80. Which component manages multiple BTS and handovers?
+A) MS
+B) MSC
+C) BTS
+D) BSC
+Answer: D
+
+Q81. Which of the following is a guided medium?
+A) Radio waves
+B) Satellite
+C) Coaxial cable
+D) Infrared
+Answer: C
+
+Q82. Main advantage of optical fiber:
+A) Cheapest
+B) Highest data transfer speed
+C) Uses electric signals
+D) Susceptible to noise
+Answer: B
+
+Q83. Wireless medium requiring LOS:
+A) Optical fiber
+B) UTP
+C) Microwave
+D) Coaxial
+Answer: C
+
+Q84. Infrared waves:
+A) Used for long-distance
+B) Cannot pass through walls
+C) Used in TV broadcasting
+D) Used in fiber optics
+Answer: B
+
+Q85. Typical frequency range of communication radio waves:
+A) 1 Hz – 300 Hz
+B) 3 kHz – GHz
+C) 300 GHz – 400 THz
+D) 88 MHz – 108 MHz
+Answer: B
+
+Q86. Logic gate output 1 only if all inputs 1:
+A) OR
+B) NOT
+C) AND
+D) NAND
+Answer: C
+
+Q87. Universal gate:
+A) AND
+B) NAND
+C) OR
+D) XOR
+Answer: B
+
+Q88. Output of NOT gate for input 0:
+A) 0
+B) 1
+C) Undefined
+D) Doesn’t change
+Answer: B
+
+Q89. NOT commonly using digital electronics:
+A) Robots
+B) Typewriters
+C) Mobile phones
+D) Computers
+Answer: B
+
+Q90. Binary 1011 in decimal:
+A) 10
+B) 11
+C) 8
+D) 15
+Answer: B
+
+Q91. Unit of frequency:
+A) Newton
+B) Hertz
+C) Meter
+D) Tesla
+Answer: B
+
+Q92. Bandwidth of channel passing 500–2500 Hz:
+A) 2000 Hz
+B) 2500 Hz
+C) 500 Hz
+D) 3000 Hz
+Answer: A
+
+Q93. Higher bandwidth results in:
+A) Lower data rate
+B) Higher data rate
+C) More noise
+D) None
+Answer: B
+
+Q94. Modulation is needed to:
+A) Increase antenna
+B) Long-distance transmission
+C) Convert analog → digital
+D) Reduce bandwidth
+Answer: B
+
+Q95. In AM which property changes?
+A) Frequency
+B) Amplitude
+C) Phase
+D) Bandwidth
+Answer: B
+
+Q96. FM is widely used for:
+A) TV video
+B) FM Radio
+C) Satellite communication
+D) Wi-Fi
+Answer: B
+
+Q97. Digital modulation changing frequency is:
+A) ASK
+B) FSK
+C) PSK
+D) QAM
+Answer: B
+
+Q98. Pulse Amplitude Modulation (PAM) is:
+A) Analog pulse modulation
+B) Digital pulse modulation
+C) Frequency domain
+D) Space domain
+Answer: A
+
+Q99. Step NOT part of PCM:
+A) Sampling
+B) Quantization
+C) Encoding
+D) Multiplexing
+Answer: D
+
+Q100. PWM used commonly in:
+A) Wi-Fi
+B) Motor control
+C) TV broadcasting
+D) GPS
+Answer: B
+
+Q101. What is the purpose of the Tracking Area Update (TAU)?
+A) Allocate bearer resources
+B) Update UE location to the network when moving between tracking areas
+C) Handover between eNodeBs
+D) Authenticate the user
+Answer: B
+
+Q102. IMSI uniquely identifies:
+A) The mobile device hardware
+B) The subscriber in the mobile network
+C) The eNodeB identity
+D) The APN name
+Answer: B
+
+Q103. TMSI is used to:
+A) Permanently identify the subscriber on air interface
+B) Temporarily identify the subscriber to provide privacy
+C) Identify the cell ID
+D) Authenticate the UE
+Answer: B
+
+Q104. Which of the following is a non-GBR bearer type?
+A) VoLTE dedicated bearer
+B) Video streaming dedicated bearer
+C) Best-effort internet traffic default bearer
+D) Emergency bearer
+Answer: C
+
+Q105. Which metric indicates received power from a cell?
+A) SINR
+B) RSRP
+C) RSRQ
+D) BER
+Answer: B
+
+Q106. SINR is important because it measures:
+A) Cell identity
+B) Signal-to-interference-plus-noise ratio — link quality for throughput
+C) Mobility state
+D) Battery level
+Answer: B
+
+Q107. Which LTE feature reduces retransmissions by combining HARQ and RLC ARQ?
+A) PDCP compression
+B) HARQ at MAC plus ARQ at RLC
 C) Ciphering
-D) Integrity protection
+D) Carrier aggregation
+Answer: B
+
+Q108. Which access mode allows any subscriber to connect to a femtocell?
+A) Closed Subscriber Group (CSG)
+B) Open Access
+C) Hybrid Access
+D) Restricted Access
+Answer: B
+
+Q109. Which LTE duplexing mode uses separate uplink and downlink frequency bands?
+A) TDD
+B) FDD
+C) OFDMA
+D) SC-FDMA
+Answer: B
+
+Q110. Which uplink modulation is primarily used in LTE uplink?
+A) OFDMA
+B) SC-FDMA
+C) QPSK only
+D) BPSK
+Answer: B
+
+Q111. CQI reports are used by the eNodeB to:
+A) Allocate IP addresses
+B) Decide modulation and coding scheme for the UE
+C) Authenticate users
+D) Perform billing
+Answer: B
+
+Q112. DRX (Discontinuous Reception) is used to:
+A) Increase throughput indefinitely
+B) Save UE battery by allowing sleep cycles
+C) Speed up handover
+D) Encrypt data
+Answer: B
+
+Q113. Which of the following is an ultra-reliable low-latency use case targeted by 5G but relevant to LTE evolution?
+A) eMBB
+B) URLLC
+C) mMTC
+D) SMS
+Answer: B
+
+Q114. eMBB stands for:
+A) enhanced Mobile Broadband
+B) embedded Mobile Broadcast
+C) electronic Mobile Bandwidth
+D) enhanced Message Broadcast
 Answer: A
 
-Q335. Which protocol is responsible for scheduling in LTE?
-A) MAC
-B) PDCP
-C) RLC
-D) NAS
-Answer: A
+Q115. Network slicing primarily enables:
+A) Single uniform network for all services
+B) Multiple virtual networks with tailored QoS on shared infrastructure
+C) Physical separation of networks per operator only
+D) Reducing IP addresses
+Answer: B
 
-Q336. What is the main purpose of the bearer setup procedure?
-A) Establish a logical path for user data with specific QoS
-B) Assign IMSI
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q337. Which entity initiates the session creation in LTE?
-A) UE
-B) eNodeB
-C) MME
-D) PGW
-Answer: A
-
-Q338. What is the main function of the SGW in LTE?
-A) Routes user data between eNodeB and PGW
-B) Stores authentication data
-C) Handles paging
-D) Manages radio resources
-Answer: A
-
-Q339. Which protocol is responsible for control plane signaling in LTE?
-A) NAS
-B) PDCP
-C) RLC
-D) MAC
-Answer: A
-
-Q340. What is the main benefit of using bearers in LTE?
-A) Enables differentiated QoS for user data
-B) Increases encryption strength
-C) Allocates frequencies
-D) Improves paging
-Answer: A
-
-Q341. Which layer is responsible for multiplexing user and control data in LTE?
-A) MAC
-B) PDCP
-C) RLC
-D) NAS
-Answer: A
-
-Q342. What is the main function of the PHY layer in LTE?
-A) Physical transmission of data over the air
-B) Header compression
-C) Ciphering
-D) Integrity protection
-Answer: A
-
-Q343. Which protocol is responsible for segmentation and reassembly in LTE?
-A) RLC
-B) PDCP
-C) MAC
-D) NAS
-Answer: A
-
-Q344. What is the main purpose of the session creation procedure in LTE?
-A) Establish a context for user data transfer
-B) Assign IMSI
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q345. Which entity manages the QoS parameters for a bearer in LTE?
-A) PGW
-B) MME
-C) eNodeB
-D) HSS
-Answer: A
-
-Q346. What is the main function of the EPS bearer in LTE?
-A) Provides a logical path for user data with specific QoS
-B) Assigns IMSI
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q347. Which protocol is responsible for error correction in LTE?
-A) RLC
-B) PDCP
-C) MAC
-D) NAS
-Answer: A
-
-Q348. What is the main benefit of using integrity protection in LTE?
-A) Ensures control messages are not tampered with
-B) Increases data rate
-C) Reduces latency
-D) Allocates IP address
-Answer: A
-
-Q349. Which layer is responsible for ciphering user data in LTE?
-A) PDCP
-B) RLC
-C) MAC
-D) NAS
-Answer: A
-
-Q350. What is the main function of the NAS protocol in LTE?
-A) Control plane signaling between UE and core network
-B) User data transfer
-C) Frequency hopping
-D) Paging
-Answer: A
-
-Q351. Which entity is responsible for storing subscriber data in LTE?
+Q116. Which entity enforces policy and charging rules in LTE?
 A) HSS
-B) PGW
+B) PCRF
 C) MME
 D) eNodeB
-Answer: A
-
-Q352. What is the main purpose of the authentication procedure in LTE?
-A) Verify the identity of the UE and network
-B) Assign IMSI
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q353. Which protocol is responsible for mutual authentication in LTE?
-A) EPS-AKA
-B) EAP
-C) PAP
-D) CHAP
-Answer: A
-
-Q354. What is the main function of the PDCP layer for control plane data?
-A) Integrity protection
-B) Header compression
-C) Ciphering
-D) Scheduling
-Answer: A
-
-Q355. Which layer is responsible for header compression in LTE?
-A) PDCP
-B) RLC
-C) MAC
-D) NAS
-Answer: A
-
-Q356. What is the main benefit of using ciphering in LTE?
-A) Data confidentiality
-B) Paging
-C) Frequency allocation
-D) Bearer setup
-Answer: A
-
-Q357. Which protocol is responsible for bearer setup in LTE?
-A) NAS
-B) RLC
-C) MAC
-D) PHY
-Answer: A
-
-Q358. What is the main function of the PGW in LTE?
-A) Allocates IP address and connects to external networks
-B) Handles paging
-C) Manages radio resources
-D) Stores authentication data
-Answer: A
-
-Q359. Which protocol is responsible for user plane data transfer in LTE?
-A) PDCP
-B) RLC
-C) MAC
-D) All of the above
-Answer: D
-
-Q360. What is the main role of the RLC layer in LTE?
-A) Error correction and segmentation
-B) Header compression
-C) Ciphering
-D) Paging
-Answer: A
-
-Q361. Which layer is directly above the MAC layer in LTE?
-A) PDCP
-B) RLC
-C) NAS
-D) PHY
 Answer: B
 
-Q362. What is the main function of the MAC layer in LTE?
-A) Scheduling and multiplexing
-B) Header compression
-C) Ciphering
-D) Integrity protection
-Answer: A
-
-Q363. Which protocol is responsible for scheduling in LTE?
-A) MAC
-B) PDCP
-C) RLC
-D) NAS
-Answer: A
-
-Q364. What is the main purpose of the bearer setup procedure?
-A) Establish a logical path for user data with specific QoS
-B) Assign IMSI
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q365. Which entity initiates the session creation in LTE?
-A) UE
-B) eNodeB
-C) MME
-D) PGW
-Answer: A
-
-Q366. What is the main function of the SGW in LTE?
-A) Routes user data between eNodeB and PGW
-B) Stores authentication data
-C) Handles paging
-D) Manages radio resources
-Answer: A
-
-Q367. Which protocol is responsible for control plane signaling in LTE?
-A) NAS
-B) PDCP
-C) RLC
-D) MAC
-Answer: A
-
-Q368. What is the main benefit of using bearers in LTE?
-A) Enables differentiated QoS for user data
-B) Increases encryption strength
-C) Allocates frequencies
-D) Improves paging
-Answer: A
-
-Q369. Which layer is responsible for multiplexing user and control data in LTE?
-A) MAC
-B) PDCP
-C) RLC
-D) NAS
-Answer: A
-
-Q370. What is the main function of the PHY layer in LTE?
-A) Physical transmission of data over the air
-B) Header compression
-C) Ciphering
-D) Integrity protection
-Answer: A
-
-Q371. Which protocol is responsible for segmentation and reassembly in LTE?
-A) RLC
-B) PDCP
-C) MAC
-D) NAS
-Answer: A
-
-Q372. What is the main purpose of the session creation procedure in LTE?
-A) Establish a context for user data transfer
-B) Assign IMSI
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q373. Which entity manages the QoS parameters for a bearer in LTE?
-A) PGW
-B) MME
-C) eNodeB
-D) HSS
-Answer: A
-
-Q374. What is the main function of the EPS bearer in LTE?
-A) Provides a logical path for user data with specific QoS
-B) Assigns IMSI
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q375. Which protocol is responsible for error correction in LTE?
-A) RLC
-B) PDCP
-C) MAC
-D) NAS
-Answer: A
-
-Q376. What is the main benefit of using integrity protection in LTE?
-A) Ensures control messages are not tampered with
-B) Increases data rate
-C) Reduces latency
-D) Allocates IP address
-Answer: A
-
-Q377. Which layer is responsible for ciphering user data in LTE?
-A) PDCP
-B) RLC
-C) MAC
-D) NAS
-Answer: A
-
-Q378. What is the main function of the NAS protocol in LTE?
-A) Control plane signaling between UE and core network
-B) User data transfer
-C) Frequency hopping
-D) Paging
-Answer: A
-
-Q379. Which entity is responsible for storing subscriber data in LTE?
-A) HSS
-B) PGW
-C) MME
-D) eNodeB
-Answer: A
-
-Q380. What is the main purpose of the authentication procedure in LTE?
-A) Verify the identity of the UE and network
-B) Assign IMSI
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q381. Which protocol is responsible for mutual authentication in LTE?
-A) EPS-AKA
-B) EAP
-C) PAP
-D) CHAP
-Answer: A
-
-Q382. What is the main function of the PDCP layer for control plane data?
-A) Integrity protection
-B) Header compression
-C) Ciphering
-D) Scheduling
-Answer: A
-
-Q383. Which layer is responsible for header compression in LTE?
-A) PDCP
-B) RLC
-C) MAC
-D) NAS
-Answer: A
-
-Q384. What is the main benefit of using ciphering in LTE?
-A) Data confidentiality
-B) Paging
-C) Frequency allocation
-D) Bearer setup
-Answer: A
-
-Q385. Which protocol is responsible for bearer setup in LTE?
-A) NAS
-B) RLC
-C) MAC
-D) PHY
-Answer: A
-
-Q386. What is the main function of the PGW in LTE?
-A) Allocates IP address and connects to external networks
-B) Handles paging
-C) Manages radio resources
-D) Stores authentication data
-Answer: A
-
-Q387. Which protocol is responsible for user plane data transfer in LTE?
-A) PDCP
-B) RLC
-C) MAC
-D) All of the above
-Answer: D
-
-Q388. What is the main role of the RLC layer in LTE?
-A) Error correction and segmentation
-B) Header compression
-C) Ciphering
-D) Paging
-Answer: A
-
-Q389. Which layer is directly above the MAC layer in LTE?
-A) PDCP
-B) RLC
-C) NAS
-D) PHY
-Answer: B
-
-Q390. What is the main function of the MAC layer in LTE?
-A) Scheduling and multiplexing
-B) Header compression
-C) Ciphering
-D) Integrity protection
-Answer: A
-
-Q391. Which protocol is responsible for scheduling in LTE?
-A) MAC
-B) PDCP
-C) RLC
-D) NAS
-Answer: A
-
-Q392. What is the main purpose of the bearer setup procedure?
-A) Establish a logical path for user data with specific QoS
-B) Assign IMSI
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q393. Which entity initiates the session creation in LTE?
-A) UE
-B) eNodeB
-C) MME
-D) PGW
-Answer: A
-
-Q394. What is the main function of the SGW in LTE?
-A) Routes user data between eNodeB and PGW
-B) Stores authentication data
-C) Handles paging
-D) Manages radio resources
-Answer: A
-
-Q395. Which protocol is responsible for control plane signaling in LTE?
-A) NAS
-B) PDCP
-C) RLC
-D) MAC
-Answer: A
-
-Q396. What is the main benefit of using bearers in LTE?
-A) Enables differentiated QoS for user data
-B) Increases encryption strength
-C) Allocates frequencies
-D) Improves paging
-Answer: A
-
-Q397. Which layer is responsible for multiplexing user and control data in LTE?
-A) MAC
-B) PDCP
-C) RLC
-D) NAS
-Answer: A
-
-Q398. What is the main function of the PHY layer in LTE?
-A) Physical transmission of data over the air
-B) Header compression
-C) Ciphering
-D) Integrity protection
-Answer: A
-
-Q399. Which protocol is responsible for segmentation and reassembly in LTE?
-A) RLC
-B) PDCP
-C) MAC
-D) NAS
-Answer: A
-
-Q400. What is the main purpose of the session creation procedure in LTE?
-A) Establish a context for user data transfer
-B) Assign IMSI
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q401. What is the primary responsibility of the MAC layer in LTE?
-A) IP routing
-B) Scheduling and multiplexing
-C) Header compression
-D) Encryption
-Answer: B
-
-Q402. Which mechanism does the MAC layer use for error correction?
-A) FEC
-B) HARQ
-C) ARQ
-D) CRC
-Answer: B
-
-Q403. The MAC layer is part of which OSI layer?
-A) Physical
-B) Data Link
-C) Network
-D) Transport
-Answer: B
-
-Q404. What is the function of multiplexing in the MAC layer?
-A) Combining data from multiple logical channels
-B) Encrypting data
-C) Assigning IP addresses
-D) Modulating signals
-Answer: A
-
-Q405. Which channel does the MAC layer use to send control information?
-A) Logical channel
-B) Transport channel
-C) Control channel
-D) Paging channel
+Q117. Which bearer type can guarantee bandwidth (GBR)?
+A) Default bearer
+B) Non-GBR bearer
+C) Dedicated GBR bearer
+D) Control bearer
 Answer: C
 
-Q406. What is the role of the MAC scheduler?
-A) Allocates radio resources to UEs
-B) Encrypts user data
-C) Handles handover
-D) Assigns IMSI
+Q118. The term “TTI” in LTE stands for:
+A) Transmit Time Interval — scheduling time unit used by MAC/PHY
+B) Transmission Trigger Identifier
+C) Transport Tunnel Identifier
+D) Temporary Token Index
 Answer: A
 
-Q407. Which of the following is a logical channel type in LTE MAC?
-A) BCCH
-B) PCCH
-C) DCCH
-D) All of the above
-Answer: D
-
-Q408. What is the main purpose of HARQ in the MAC layer?
-A) Error correction through retransmissions
-B) Frequency allocation
-C) Paging
-D) Encryption
-Answer: A
-
-Q409. Which MAC PDU field indicates the type of logical channel?
-A) LCID
-B) RNTI
-C) CRC
-D) TBS
-Answer: A
-
-Q410. What is the function of the Random Access procedure in MAC?
-A) Initial access to the network
-B) Assigning IP address
-C) Ciphering
-D) Paging
-Answer: A
-
-Q411. Which timer is used in the MAC layer for HARQ retransmissions?
-A) TTI
-B) HARQ RTT
-C) RLC Timer
-D) Paging Timer
-Answer: B
-
-Q412. What is the maximum number of HARQ processes in LTE downlink?
-A) 4
-B) 8
-C) 16
-D) 32
-Answer: B
-
-Q413. Which MAC control element is used for buffer status reporting?
-A) BSR
-B) CRNTI
-C) TBS
-D) LCID
-Answer: A
-
-Q414. What is the function of the MAC header?
-A) Identifies logical channels and control elements
-B) Encrypts data
-C) Assigns IMSI
-D) Handles handover
-Answer: A
-
-Q415. Which channel does the MAC layer use for uplink data transfer?
-A) PUSCH
-B) PDSCH
-C) PDCCH
-D) PCCH
-Answer: A
-
-Q416. What is the main function of the MAC multiplexing process?
-A) Combines data from multiple logical channels into a single transport block
-B) Encrypts user data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q417. Which MAC control element is used for power headroom reporting?
-A) PHR
-B) BSR
-C) CRNTI
-D) LCID
-Answer: A
-
-Q418. What is the purpose of the MAC padding field?
-A) Aligns the MAC PDU to the required size
-B) Encrypts data
-C) Assigns IMSI
-D) Handles handover
-Answer: A
-
-Q419. Which MAC control element is used for contention resolution?
-A) CR
-B) BSR
-C) PHR
-D) LCID
-Answer: A
-
-Q420. What is the function of the MAC subheader?
-A) Indicates the length and type of each MAC SDU or control element
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q421. Which channel does the MAC layer use for downlink data transfer?
-A) PDSCH
-B) PUSCH
-C) PDCCH
-D) PCCH
-Answer: A
-
-Q422. What is the main function of the MAC scheduler in uplink?
-A) Allocates uplink resources to UEs
-B) Encrypts user data
-C) Handles handover
-D) Assigns IMSI
-Answer: A
-
-Q423. Which MAC control element is used for timing advance command?
-A) TAC
-B) BSR
-C) PHR
-D) LCID
-Answer: A
-
-Q424. What is the function of the MAC RAR (Random Access Response)?
-A) Grants uplink resources to the UE
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q425. Which MAC control element is used for DRX command?
-A) DRX
-B) BSR
-C) PHR
-D) LCID
-Answer: A
-
-Q426. What is the main purpose of the MAC layer in LTE?
-A) Scheduling and multiplexing
-B) IP routing
-C) Header compression
-D) Encryption
-Answer: A
-
-Q427. Which MAC control element is used for TPC command?
-A) TPC
-B) BSR
-C) PHR
-D) LCID
-Answer: A
-
-Q428. What is the function of the MAC PDU?
-A) Carries user and control data between UE and eNodeB
-B) Encrypts data
-C) Assigns IMSI
-D) Handles handover
-Answer: A
-
-Q429. Which MAC control element is used for C-RNTI assignment?
-A) C-RNTI
-B) BSR
-C) PHR
-D) LCID
-Answer: A
-
-Q430. What is the main function of the MAC layer in downlink?
-A) Schedules and multiplexes data for transmission to UEs
-B) Encrypts user data
-C) Handles handover
-D) Assigns IMSI
-Answer: A
-
-Q431. Which MAC control element is used for uplink grant?
-A) Uplink Grant
-B) BSR
-C) PHR
-D) LCID
-Answer: A
-
-Q432. What is the function of the MAC layer in random access?
-A) Handles initial access and contention resolution
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q433. Which MAC control element is used for buffer status reporting in uplink?
-A) BSR
-B) CRNTI
-C) TBS
-D) LCID
-Answer: A
-
-Q434. What is the main purpose of the MAC layer in LTE?
-A) Scheduling and multiplexing
-B) IP routing
-C) Header compression
-D) Encryption
-Answer: A
-
-Q435. Which MAC control element is used for power headroom reporting in uplink?
-A) PHR
-B) BSR
-C) CRNTI
-D) LCID
-Answer: A
-
-Q436. What is the function of the MAC layer in downlink scheduling?
-A) Allocates resources to UEs for data reception
-B) Encrypts user data
-C) Handles handover
-D) Assigns IMSI
-Answer: A
-
-Q437. Which MAC control element is used for timing advance command in uplink?
-A) TAC
-B) BSR
-C) PHR
-D) LCID
-Answer: A
-
-Q438. What is the main function of the MAC layer in uplink scheduling?
-A) Allocates resources to UEs for data transmission
-B) Encrypts user data
-C) Handles handover
-D) Assigns IMSI
-Answer: A
-
-Q439. Which MAC control element is used for DRX command in downlink?
-A) DRX
-B) BSR
-C) PHR
-D) LCID
-Answer: A
-
-Q440. What is the function of the MAC layer in multiplexing?
-A) Combines data from multiple logical channels into a single transport block
-B) Encrypts user data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q441. Which MAC control element is used for TPC command in downlink?
-A) TPC
-B) BSR
-C) PHR
-D) LCID
-Answer: A
-
-Q442. What is the main purpose of the MAC layer in LTE?
-A) Scheduling and multiplexing
-B) IP routing
-C) Header compression
-D) Encryption
-Answer: A
-
-Q443. Which MAC control element is used for C-RNTI assignment in downlink?
-A) C-RNTI
-B) BSR
-C) PHR
-D) LCID
-Answer: A
-
-Q444. What is the function of the MAC layer in random access procedure?
-A) Handles initial access and contention resolution
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q445. Which MAC control element is used for buffer status reporting in downlink?
-A) BSR
-B) CRNTI
-C) TBS
-D) LCID
-Answer: A
-
-Q446. What is the main function of the MAC layer in uplink grant?
-A) Allocates resources to UEs for data transmission
-B) Encrypts user data
-C) Handles handover
-D) Assigns IMSI
-Answer: A
-
-Q447. Which MAC control element is used for power headroom reporting in downlink?
-A) PHR
-B) BSR
-C) CRNTI
-D) LCID
-Answer: A
-
-Q448. What is the function of the MAC layer in downlink grant?
-A) Allocates resources to UEs for data reception
-B) Encrypts user data
-C) Handles handover
-D) Assigns IMSI
-Answer: A
-
-Q449. Which MAC control element is used for timing advance command in downlink?
-A) TAC
-B) BSR
-C) PHR
-D) LCID
-Answer: A
-
-Q450. What is the main function of the MAC layer in DRX command?
-A) Controls UE sleep and wake cycles
-B) Encrypts user data
-C) Handles handover
-D) Assigns IMSI
-Answer: A
-
-RLC Layer (Q451–Q500)
-Q451. The RLC layer operates in which LTE protocol layer?
-A) Layer 1
-B) Layer 2
-C) Layer 3
-D) Layer 4
-Answer: B
-
-Q452. Which RLC mode supports retransmissions for error correction?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: C
-
-Q453. What is the main function of the RLC layer?
-A) Routing
-B) Segmentation and reassembly
-C) Encryption
-D) Scheduling
-Answer: B
-
-Q454. Which RLC mode is used for real-time services without retransmissions?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: B
-
-Q455. What is the purpose of segmentation in RLC?
-A) Divides large SDUs into smaller PDUs
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q456. Which RLC mode is used for control signaling?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: A
-
-Q457. What is the function of reassembly in RLC?
-A) Combines PDUs into original SDUs
-B) Encrypts data
-C) Assigns IMSI
-D) Handles handover
-Answer: A
-
-Q458. Which RLC mode is used for data with strict error correction?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: C
-
-Q459. What is the main benefit of using AM mode in RLC?
-A) Reliable data transfer with retransmissions
-B) Lower latency
-C) Higher throughput
-D) Simpler implementation
-Answer: A
-
-Q460. Which RLC mode is used for broadcast and paging messages?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: A
-
-Q461. What is the function of the RLC header?
-A) Contains sequence numbers and control information
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q462. Which RLC mode is used for user data with no retransmissions?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: B
-
-Q463. What is the main function of the RLC retransmission buffer?
-A) Stores PDUs for possible retransmission
-B) Encrypts data
-C) Assigns IMSI
-D) Handles handover
-Answer: A
-
-Q464. Which RLC mode is used for signaling radio bearers?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: A
-
-Q465. What is the function of the RLC status report?
-A) Informs sender about missing or received PDUs
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q466. Which RLC mode is used for data with no error correction?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: B
-
-Q467. What is the main benefit of using UM mode in RLC?
-A) Lower latency for real-time services
-B) Reliable data transfer
-C) Higher throughput
-D) Simpler implementation
-Answer: A
-
-Q468. Which RLC mode is used for data with error correction and retransmissions?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: C
-
-Q469. What is the function of the RLC sequence number?
-A) Identifies the order of PDUs
-B) Encrypts data
-C) Assigns IMSI
-D) Handles handover
-Answer: A
-
-Q470. Which RLC mode is used for broadcast channels?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: A
-
-Q471. What is the main function of the RLC reordering buffer?
-A) Reorders out-of-sequence PDUs
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q472. Which RLC mode is used for user data with no retransmissions?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: B
-
-Q473. What is the function of the RLC polling mechanism?
-A) Requests status reports from the receiver
-B) Encrypts data
-C) Assigns IMSI
-D) Handles handover
-Answer: A
-
-Q474. Which RLC mode is used for data with strict error correction?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: C
-
-Q475. What is the main benefit of using AM mode in RLC?
-A) Reliable data transfer with retransmissions
-B) Lower latency
-C) Higher throughput
-D) Simpler implementation
-Answer: A
-
-Q476. Which RLC mode is used for control signaling?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: A
-
-Q477. What is the function of the RLC header?
-A) Contains sequence numbers and control information
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q478. Which RLC mode is used for user data with no retransmissions?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: B
-
-Q479. What is the main function of the RLC retransmission buffer?
-A) Stores PDUs for possible retransmission
-B) Encrypts data
-C) Assigns IMSI
-D) Handles handover
-Answer: A
-
-Q480. Which RLC mode is used for signaling radio bearers?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: A
-
-Q481. What is the function of the RLC status report?
-A) Informs sender about missing or received PDUs
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q482. Which RLC mode is used for data with no error correction?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: B
-
-Q483. What is the main benefit of using UM mode in RLC?
-A) Lower latency for real-time services
-B) Reliable data transfer
-C) Higher throughput
-D) Simpler implementation
-Answer: A
-
-Q484. Which RLC mode is used for data with error correction and retransmissions?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: C
-
-Q485. What is the function of the RLC sequence number?
-A) Identifies the order of PDUs
-B) Encrypts data
-C) Assigns IMSI
-D) Handles handover
-Answer: A
-
-Q486. Which RLC mode is used for broadcast channels?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: A
-
-Q487. What is the main function of the RLC reordering buffer?
-A) Reorders out-of-sequence PDUs
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q488. Which RLC mode is used for user data with no retransmissions?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: B
-
-Q489. What is the function of the RLC polling mechanism?
-A) Requests status reports from the receiver
-B) Encrypts data
-C) Assigns IMSI
-D) Handles handover
-Answer: A
-
-Q490. Which RLC mode is used for data with strict error correction?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: C
-
-Q491. What is the main benefit of using AM mode in RLC?
-A) Reliable data transfer with retransmissions
-B) Lower latency
-C) Higher throughput
-D) Simpler implementation
-Answer: A
-
-Q492. Which RLC mode is used for control signaling?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: A
-
-Q493. What is the function of the RLC header?
-A) Contains sequence numbers and control information
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q494. Which RLC mode is used for user data with no retransmissions?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: B
-
-Q495. What is the main function of the RLC retransmission buffer?
-A) Stores PDUs for possible retransmission
-B) Encrypts data
-C) Assigns IMSI
-D) Handles handover
-Answer: A
-
-Q496. Which RLC mode is used for signaling radio bearers?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: A
-
-Q497. What is the function of the RLC status report?
-A) Informs sender about missing or received PDUs
-B) Encrypts data
-C) Assigns IP address
-D) Handles paging
-Answer: A
-
-Q498. Which RLC mode is used for data with no error correction?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: B
-
-Q499. What is the main benefit of using UM mode in RLC?
-A) Lower latency for real-time services
-B) Reliable data transfer
-C) Higher throughput
-D) Simpler implementation
-Answer: A
-
-Q500. Which RLC mode is used for data with error correction and retransmissions?
-A) TM
-B) UM
-C) AM
-D) SM
-Answer: C
-
-PHY Layer (Q501–Q550)
-Q501. Which modulation scheme is NOT used in LTE PHY layer?
-A) QPSK
-B) 16QAM
-C) 64QAM
-D) FSK
-Answer: D
-
-Q502. Which multiple access scheme is used for LTE uplink?
+Q119. Which is used for uplink multiple access in LTE?
 A) OFDMA
 B) SC-FDMA
 C) CDMA
-D) TDMA
+D) FDMA
 Answer: B
 
-Q503. The PHY layer corresponds to which layer of the OSI model?
-A) Layer 2
-B) Layer 3
-C) Layer 1
-D) Layer 4
+Q120. Cell reselection happens when UE is in:
+A) Connected mode only
+B) Idle mode only
+C) Both idle and connected always
+D) Power-off state
+Answer: B
+
+Q121. Which parameter helps decide cell selection and reselection along with RSRP?
+A) IMSI
+B) RSRQ
+C) TMSI
+D) APN
+Answer: B
+
+Q122. C-RAN stands for:
+A) Centralized Radio Access Network — centralized baseband processing
+B) Cellular Radio Area Network
+C) Core Radio Access Node
+D) Controlled Radio Access Node
+Answer: A
+
+Q123. Fronthaul typically connects:
+A) UE to eNodeB
+B) eNodeB to core network
+C) Remote radio heads (RRHs) to centralized baseband units (BBUs)
+D) PGW to internet
 Answer: C
 
-Q504. What is the main function of the PHY layer in LTE?
-A) Physical transmission of data over the air
-B) Header compression
-C) Ciphering
-D) Scheduling
+Q124. Backhaul typically connects:
+A) eNodeB to EPC (SGW/PGW) or aggregation network
+B) UE to eNodeB
+C) Antenna elements together
+D) SIM card to HSS
 Answer: A
 
-Q505. Which modulation scheme is used for high data rates in LTE?
-A) QPSK
-B) 16QAM
-C) 64QAM
-D) BPSK
+Q125. Which codec is commonly used for VoLTE voice coding?
+A) G.711 only
+B) AMR-WB (Adaptive Multi-Rate Wideband)
+C) AAC-LC
+D) MP3
+Answer: B
+
+Q126. Which of these is a control-plane protocol used in LTE for mobility and session management?
+A) RTP
+B) Diameter
+C) SIP
+D) FTP
+Answer: B
+
+Q127. Which protocol is used for charging and policy interactions between PCRF and PGW?
+A) HTTP
+B) Diameter
+C) SIP
+D) SNMP
+Answer: B
+
+Q128. Which identifier denotes a PLMN (Public Land Mobile Network)?
+A) IMSI
+B) MCC+MNC (Mobile Country Code + Mobile Network Code)
+C) IMEI
+D) APN
+Answer: B
+
+Q129. eMBMS is used for:
+A) Unicast video only
+B) Broadcast/multicast multimedia services in LTE
+C) Small-cell management
+D) Voice fallback
+Answer: B
+
+Q130. Which mechanism allows combining multiple component carriers for higher throughput?
+A) Carrier Aggregation
+B) MIMO
+C) HARQ
+D) PDCP Duplication
+Answer: A
+
+Q131. Which interference mitigation technique uses spatial separation with multiple antennas?
+A) TTI shortening
+B) Beamforming / MIMO spatial processing
+C) HARQ combining
+D) PDCP compression
+Answer: B
+
+Q132. Which timer controls periodic TAU or paging in some contexts?
+A) T3412 (PDN timer)
+B) T300
+C) T3410/T3412 family (depends on network config)
+D) T2000 only
 Answer: C
 
-Q506. What is the main benefit of using OFDMA in LTE downlink?
-A) High spectral efficiency
-B) Low latency
-C) Simple implementation
-D) High power consumption
-Answer: A
-
-Q507. Which channel is used for downlink data transmission in LTE PHY?
-A) PDSCH
-B) PUSCH
-C) PDCCH
-D) PCCH
-Answer: A
-
-Q508. What is the main function of the SC-FDMA in LTE uplink?
-A) Reduces Peak-to-Average Power Ratio (PAPR)
-B) Increases latency
-C) Decreases spectral efficiency
-D) Increases power consumption
-Answer: A
-
-Q509. Which channel is used for uplink data transmission in LTE PHY?
-A) PUSCH
-B) PDSCH
-C) PDCCH
-D) PCCH
-Answer: A
-
-Q510. What is the main purpose of the reference signals in LTE PHY?
-A) Channel estimation and synchronization
-B) Data encryption
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q511. Which channel is used for downlink control information in LTE PHY?
-A) PDCCH
-B) PUSCH
-C) PDSCH
-D) PCCH
-Answer: A
-
-Q512. What is the main function of the Physical Random Access Channel (PRACH)?
-A) Initial access and synchronization
-B) Data transmission
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q513. Which modulation scheme is used for robust transmission in poor channel conditions?
-A) QPSK
-B) 16QAM
-C) 64QAM
-D) BPSK
-Answer: A
-
-Q514. What is the main benefit of using 16QAM in LTE?
-A) Higher data rates than QPSK
-B) Lower power consumption
-C) Lower latency
-D) Simpler implementation
-Answer: A
-
-Q515. Which channel is used for broadcast information in LTE PHY?
-A) PBCH
-B) PDSCH
-C) PUSCH
-D) PDCCH
-Answer: A
-
-Q516. What is the main function of the Physical Control Format Indicator Channel (PCFICH)?
-A) Indicates the number of OFDM symbols used for control channels
-B) Data transmission
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q517. Which channel is used for system information in LTE PHY?
-A) PDSCH
-B) PBCH
-C) PUSCH
-D) PDCCH
+Q133. What does “hard handover” imply at the radio link level?
+A) Make-before-break (both connected simultaneously)
+B) Break-before-make (old link released before new is established)
+C) Simultaneous dual connectivity always
+D) No change in link state
 Answer: B
 
-Q518. What is the main purpose of the Physical Hybrid ARQ Indicator Channel (PHICH)?
-A) Carries HARQ ACK/NACK feedback
-B) Data transmission
-C) Paging
-D) Frequency allocation
+Q134. Dual Connectivity (DC) enables:
+A) UE connects to two eNodeBs (or gNB + eNodeB) to increase throughput and reliability
+B) Only single carrier use
+C) Faster attach only
+D) Eliminates core network
 Answer: A
 
-Q519. Which channel is used for uplink control information in LTE PHY?
-A) PUCCH
-B) PDSCH
-C) PUSCH
-D) PDCCH
-Answer: A
-
-Q520. What is the main function of the Physical Uplink Control Channel (PUCCH)?
-A) Carries uplink control information
-B) Data transmission
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q521. Which channel is used for uplink data and control information in LTE PHY?
-A) PUSCH
-B) PDSCH
-C) PUCCH
-D) PDCCH
-Answer: A
-
-Q522. What is the main benefit of using 64QAM in LTE?
-A) Highest data rates
-B) Lowest power consumption
-C) Lowest latency
-D) Simpler implementation
-Answer: A
-
-Q523. Which channel is used for downlink synchronization in LTE PHY?
-A) PSS/SSS
-B) PDSCH
-C) PUSCH
-D) PDCCH
-Answer: A
-
-Q524. What is the main function of the Physical Broadcast Channel (PBCH)?
-A) Carries system information
-B) Data transmission
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q525. Which channel is used for uplink random access in LTE PHY?
-A) PRACH
-B) PUSCH
-C) PUCCH
-D) PDCCH
-Answer: A
-
-Q526. What is the main purpose of the Physical Downlink Control Channel (PDCCH)?
-A) Carries downlink control information
-B) Data transmission
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q527. Which channel is used for downlink data and control information in LTE PHY?
-A) PDSCH
-B) PUSCH
-C) PUCCH
-D) PDCCH
-Answer: A
-
-Q528. What is the main function of the Physical Uplink Shared Channel (PUSCH)?
-A) Carries uplink data and control information
-B) Data transmission
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q529. Which channel is used for downlink control information in LTE PHY?
-A) PDCCH
-B) PUSCH
-C) PDSCH
-D) PCCH
-Answer: A
-
-Q530. What is the main benefit of using OFDMA in LTE downlink?
-A) High spectral efficiency
-B) Low latency
-C) Simple implementation
-D) High power consumption
-Answer: A
-
-Q531. Which channel is used for uplink data transmission in LTE PHY?
-A) PUSCH
-B) PDSCH
-C) PDCCH
-D) PCCH
-Answer: A
-
-Q532. What is the main function of the Physical Random Access Channel (PRACH)?
-A) Initial access and synchronization
-B) Data transmission
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q533. Which modulation scheme is used for robust transmission in poor channel conditions?
-A) QPSK
-B) 16QAM
-C) 64QAM
-D) BPSK
-Answer: A
-
-Q534. What is the main benefit of using 16QAM in LTE?
-A) Higher data rates than QPSK
-B) Lower power consumption
-C) Lower latency
-D) Simpler implementation
-Answer: A
-
-Q535. Which channel is used for broadcast information in LTE PHY?
-A) PBCH
-B) PDSCH
-C) PUSCH
-D) PDCCH
-Answer: A
-
-Q536. What is the main function of the Physical Control Format Indicator Channel (PCFICH)?
-A) Indicates the number of OFDM symbols used for control channels
-B) Data transmission
-C) Paging
-D) Frequency allocation
-Answer: A
-
-Q537. Which channel is used for system information in LTE PHY?
-A) PDSCH
-B) PBCH
-C) PUSCH
-D) PDCCH
+Q135. Which LTE release introduced Carrier Aggregation and higher-order MIMO broadly?
+A) Release 8
+B) Release 10 (LTE-Advanced)
+C) Release 5
+D) Release 99
 Answer: B
 
-Q538. What is the main purpose of the Physical Hybrid ARQ Indicator Channel (PHICH)?
-A) Carries HARQ ACK/NACK feedback
-B) Data transmission
+Q136. What is the primary role of HSS in LTE/EPC?
+A) Manage radio resources
+B) Subscriber database for authentication and subscription info
+C) Forward user packets
+D) Schedule MAC PDUs
+Answer: B
+
+Q137. Which identifier uniquely identifies the device hardware?
+A) IMSI
+B) IMEI
+C) TMSI
+D) GUTI
+Answer: B
+
+Q138. Which mechanism is primarily used to reduce packet losses due to mobility at handover?
+A) PDCP reordering only
+B) Forwarding buffered packets from source eNodeB to target eNodeB via X2/S1
+C) Increase transmit power only
+D) Disable HARQ
+Answer: B
+
+Q139. Which LTE feature allows small cells and macro cells to coexist for capacity and coverage?
+A) HetNet (Heterogeneous Network)
+B) Single-layer network only
+C) Circuit switching
+D) PDCP only
+Answer: A
+
+Q140. Which QoS parameter defines priority and packet forwarding treatment?
+A) IMSI
+B) QCI (QoS Class Identifier)
+C) APN
+D) TTI
+Answer: B
+
+Q141. Which LTE entity is primarily responsible for mobility decisions and paging in the control plane?
+A) SGW
+B) MME
+C) PGW
+D) eNodeB only
+Answer: B
+
+Q142. Which protocol carries user-plane media (voice/video) packets in VoIP/VoLTE?
+A) SIP
+B) RTP (over UDP)
+C) Diameter
+D) HTTP
+Answer: B
+
+Q143. What is the main advantage of uplink SC-FDMA over OFDMA?
+A) Lower PAPR (Peak-to-Average Power Ratio), improving UE transmit efficiency
+B) Higher PAPR only
+C) Easier for downlink only
+D) No difference
+Answer: A
+
+Q144. Which parameter measures signal quality including interference and noise?
+A) RSRP
+B) RSRQ
+C) SINR
+D) IMEI
+Answer: C
+
+Q145. Which mechanism can improve cell-edge throughput by coordinating transmissions between cells?
+A) Inter-cell interference coordination (ICIC) / eICIC / CoMP
+B) Increasing UE power only
+C) Reducing bandwidth only
+D) Removing HARQ
+Answer: A
+
+Q146. Which entity provides the default gateway for UE to connect to external PDNs?
+A) MME
+B) SGW
+C) PGW
+D) eNodeB
+Answer: C
+
+Q147. Which of the following is used to identify an APN selected by a UE?
+A) QCI
+B) APN string (e.g., internet.operator)
+C) IMSI
+D) TTI
+Answer: B
+
+Q148. Which mechanism ensures in-order delivery and duplicate detection at PDCP?
+A) Sequence numbers and reordering at PDCP layer
+B) HARQ only
+C) MAC scheduling only
+D) Ciphering only
+Answer: A
+
+Q149. Which is a primary metric for throughput scheduling in MAC?
+A) User’s battery level
+B) Channel quality (e.g., CQI) and resource availability
+C) IMEI value
+D) APN name
+Answer: B
+
+Q150. Which LTE enhancement targets massive IoT with low data rates and extended coverage?
+A) eMBB
+B) NB-IoT / LTE-M (mMTC)
+C) URLLC
+D) VoLTE
+Answer: B
+
+Q151. Which LTE feature reduces interference between macro and small cells using Almost Blank Subframes?
+A) CA
+B) eICIC
+C) MIMO
+D) IMS
+Answer: B
+
+Q152. In LTE, what does the SGW primarily act as during handover?
+A) IP allocator
+B) Mobility anchor
+C) Scheduler
+D) Ciphering engine
+Answer: B
+
+Q153. The PGW is responsible for:
+A) Allocating radio resources
+B) Serving as the gateway to external packet networks
+C) Scheduling uplink transmissions
+D) Providing IMSI mapping
+Answer: B
+
+Q154. What type of handover occurs when UE moves between LTE and Wi-Fi (using ANDSF)?
+A) Inter-eNodeB HO
+B) Inter-RAT HO
+C) Intra-RAT HO
+D) IMS HO
+Answer: B
+
+Q155. Which LTE Release introduced LTE-M (Cat-M1)?
+A) Release 8
+B) Release 10
+C) Release 12
+D) Release 5
+Answer: C
+
+Q156. QAM stands for:
+A) Quadrature Amplitude Modulation
+B) Quality Audio Modulation
+C) Quick Access Management
+D) Quadratic Analog Modulation
+Answer: A
+
+Q157. Which of the following reduces latency during handover?
+A) RLC buffer deletion
+B) X2-based handover
+C) Removing PDCP
+D) Increasing TTI
+Answer: B
+
+Q158. VoLTE uses which codec for HD voice?
+A) G.729
+B) AMR-WB
+C) SBC
+D) G.721
+Answer: B
+
+Q159. Which LTE technique uses multiple antennas for both transmission and reception?
+A) HARQ
+B) MIMO
+C) SC-FDMA
+D) ICIC
+Answer: B
+
+Q160. Carrier Aggregation increases:
+A) Number of cells
+B) Overall bandwidth and throughput
+C) Number of IMSIs
+D) Ciphering keys
+Answer: B
+
+Q161. A Tracking Area in LTE is similar to what in GSM/3G?
+A) PLMN
+B) LA (Location Area)
+C) IMSI
+D) APN
+Answer: B
+
+Q162. What identifies a specific LTE cell globally?
+A) ECGI
+B) IMEI
+C) MCC-MNC
+D) TMSI
+Answer: A (E-UTRAN Cell Global Identifier)
+
+Q163. The DRB (Data Radio Bearer) carries:
+A) Control messages only
+B) User-plane data
+C) IMSI information
+D) Authentication vectors
+Answer: B
+
+Q164. The SRB (Signaling Radio Bearer) carries:
+A) User data
+B) Signaling messages (RRC/NAS)
+C) Multimedia packets
+D) IP routing info
+Answer: B
+
+Q165. RRC stands for:
+A) Radio Resource Control
+B) Remote Radio Cell
+C) Routing Relay Core
+D) Radio Rate Channel
+Answer: A
+
+Q166. Which layer handles RRC messages?
+A) PDCP
+B) MAC
+C) RLC
+D) RRC
+Answer: D
+
+Q167. RRC_IDLE mode allows UE to:
+A) Exchange data continuously
+B) Listen for paging and perform cell selection
+C) Bypass authentication
+D) Send VoLTE directly
+Answer: B
+
+Q168. RRC_CONNECTED mode allows:
+A) Paging only
+B) Dedicated resources and data transfer
+C) Power-off state
+D) IMSI detach
+Answer: B
+
+Q169. When does UE typically perform TAU?
+A) When moving to new tracking area
+B) After every packet
+C) Only when battery is low
+D) When receiving SMS
+Answer: A
+
+Q170. The main role of S-GW during mobility is to:
+A) Store subscriber data
+B) Anchor user-plane tunnels during handover
+C) Allocate new IMSI
+D) Authenticate device
+Answer: B
+
+Q171. What is the purpose of GTP-U protocol?
+A) Encryption
+B) Carry user-plane packets in tunnels
 C) Paging
-D) Frequency allocation
+D) Cell selection
+Answer: B
+
+Q172. GTP-C protocol is used for:
+A) Ciphering
+B) Control signaling between MME-SGW-PGW
+C) Carrying user data
+D) Generating keys
+Answer: B
+
+Q173. Which LTE category supports highest devices per cell in IoT?
+A) Cat-1
+B) Cat-4
+C) Cat-M1
+D) NB-IoT
+Answer: D
+
+Q174. S1-MME interface uses which signaling protocol?
+A) SIP
+B) SCTP
+C) RTP
+D) TCP
+Answer: B
+
+Q175. The uplink resource allocation is performed by:
+A) UE
+B) MME
+C) eNodeB scheduler
+D) PGW
+Answer: C
+
+Q176. A UE performs random access when:
+A) Powering off
+B) Initial access or re-establishing uplink sync
+C) During VoLTE call
+D) While listening to paging
+Answer: B
+
+Q177. The Random Access Procedure includes:
+A) RACH preamble
+B) IMS registration
+C) Data ciphering
+D) IP allocation
 Answer: A
 
-Q539. Which channel is used for uplink control information in LTE PHY?
-A) PUCCH
-B) PDSCH
-C) PUSCH
-D) PDCCH
+Q178. A contention-based RACH is used for:
+A) Only VoLTE
+B) Regular UEs accessing the network
+C) Emergency bearers
+D) eNodeB-to-eNodeB signaling
+Answer: B
+
+Q179. The RACH response includes:
+A) IP address
+B) Timing advance and uplink grant
+C) IMSI
+D) Authentication key
+Answer: B
+
+Q180. Timing Advance helps UE to:
+A) Increase power
+B) Reduce frequency error
+C) Align uplink transmission timing with the eNodeB
+D) Encrypt data
+Answer: C
+
+Q181. SC-FDMA is preferred for uplink because:
+A) Low PAPR reduces UE battery drain
+B) It uses more bandwidth
+C) It simplifies eNodeB architecture
+D) It avoids modulation
 Answer: A
 
-Q540. What is the main function of the Physical Uplink Control Channel (PUCCH)?
-A) Carries uplink control information
-B) Data transmission
-C) Paging
-D) Frequency allocation
+Q182. Which interface connects MME and HSS?
+A) S6a
+B) S1
+C) X2
+D) S5
 Answer: A
 
-Q541. Which channel is used for uplink data and control information in LTE PHY?
-A) PUSCH
-B) PDSCH
-C) PUCCH
-D) PDCCH
+Q183. Which interface connects SGW and PGW?
+A) S5/S8
+B) S1-U
+C) X2-U
+D) S11
 Answer: A
 
-Q542. What is the main benefit of using 64QAM in LTE?
-A) Highest data rates
-B) Lowest power consumption
-C) Lowest latency
-D) Simpler implementation
+Q184. The S1-U interface carries:
+A) Control signaling
+B) User-plane packets
+C) Authentication vectors
+D) IMS messages
+Answer: B
+
+Q185. EPS bearer QoS is identified by:
+A) APN
+B) QCI value
+C) IMEI
+D) TAC
+Answer: B
+
+Q186. TAC stands for:
+A) Tracking Area Code
+B) Temporary Authentication Code
+C) Transmit Access Channel
+D) Time Alignment Control
 Answer: A
 
-Q543. Which channel is used for downlink synchronization in LTE PHY?
-A) PSS/SSS
-B) PDSCH
-C) PUSCH
-D) PDCCH
+Q187. The NAS security is established between:
+A) UE and eNodeB
+B) UE and MME
+C) MME and SGW
+D) PGW and PCRF
+Answer: B
+
+Q188. The AS (Access Stratum) security is established between:
+A) UE and MME
+B) UE and eNodeB
+C) SGW and PGW
+D) PGW and internet
+Answer: B
+
+Q189. Voice fallback to 3G during LTE operation is called:
+A) ICIC
+B) SR-VCC
+C) CSFB (Circuit-Switched Fallback)
+D) MIMO
+Answer: C
+
+Q190. CSFB is triggered when:
+A) IMS is unavailable for VoLTE
+B) Data session starts
+C) X2 is down
+D) Carrier aggregation enabled
 Answer: A
 
-Q544. What is the main function of the Physical Broadcast Channel (PBCH)?
-A) Carries system information
-B) Data transmission
-C) Paging
-D) Frequency allocation
+Q191. What identifies a UE’s session in EPC?
+A) IMEI
+B) IMSI
+C) EPS Bearer ID
+D) Tracking Area Code
+Answer: C
+
+Q192. Which set of keys is used on the radio interface between UE and eNodeB?
+A) K_RRCint / K_RRCenc / K_UPenc
+B) K_ASME only
+C) K_IPsec
+D) K_PGW
 Answer: A
 
-Q545. Which channel is used for uplink random access in LTE PHY?
-A) PRACH
-B) PUSCH
-C) PUCCH
-D) PDCCH
+Q193. In LTE, the paging message is sent by:
+A) MME
+B) SGW
+C) PGW
+D) PCRF
 Answer: A
 
-Q546. What is the main purpose of the Physical Downlink Control Channel (PDCCH)?
-A) Carries downlink control information
-B) Data transmission
-C) Paging
-D) Frequency allocation
+Q194. Paging is received by UE when in:
+A) RRC_CONNECTED
+B) Power-off
+C) RRC_IDLE
+D) Dedicated bearer release
+Answer: C
+
+Q195. VoLTE uses which transport layer protocol for RTP?
+A) TCP
+B) UDP
+C) SCTP
+D) ICMP
+Answer: B
+
+Q196. Which small-cell type is operator-deployed for indoor coverage?
+A) Pico cell
+B) Macro cell
+C) Umbrella cell
+D) None
 Answer: A
 
-Q547. Which channel is used for downlink data and control information in LTE PHY?
-A) PDSCH
-B) PUSCH
-C) PUCCH
-D) PDCCH
+Q197. Which KPI measures call drop ratio?
+A) CSSR
+B) CDR
+C) HOF
+D) SNR
+Answer: B
+
+Q198. Which KPI indicates how often handovers fail?
+A) CDR
+B) RSRP
+C) HOF (Handover Failure rate)
+D) BLER
+Answer: C
+
+Q199. BLER stands for:
+A) Bit Loss Error Ratio
+B) Block Error Rate
+C) Base Layer Encoding Rate
+D) Binary Layer Ratio
+Answer: B
+
+Q200. A cell outage leads to:
+A) Lower paging
+B) Coverage holes and increased drops
+C) More IMS registrations
+D) Lower bandwidth only
+Answer: B
+
+Q201. What is the peak data rate target of eMBB?
+A) 1 Gbps
+B) 20 Gbps
+C) 10 Gbps
+D) 100 Mbps
 Answer: A
 
-Q548. What is the main function of the Physical Uplink Shared Channel (PUSCH)?
-A) Carries uplink data and control information
-B) Data transmission
-C) Paging
-D) Frequency allocation
+Q202. mMTC supports up to how many devices per km²?
+A) 10,000
+B) 100,000
+C) 1 million
+D) 1 billion
+Answer: C
+
+Q203. URLLC aims for latency of:
+A) 1 second
+B) 10 ms
+C) ≤1 ms
+D) 5 ms
+Answer: C
+
+Q204. What is the reliability target of URLLC?
+A) 90%
+B) 95%
+C) 99%
+D) 99.999%
+Answer: D
+
+Q205. Which is not a 5G use case?
+A) eMBB
+B) URLLC
+C) mMTC
+D) VPN
+Answer: D
+
+Q206. Which technology enables low-power device connectivity?
+A) Massive MIMO
+B) mMTC
+C) Beamforming
+D) Edge Computing
+Answer: B
+
+Q207. Which one uses dozens or hundreds of antennas?
+A) Massive MIMO
+B) CUPS
+C) MEC
+D) mmWave
 Answer: A
 
-Q549. Which channel is used for downlink control information in LTE PHY?
-A) PDCCH
-B) PUSCH
-C) PDSCH
-D) PCCH
-Answer: A
+Q208. What directs signals toward users?
+A) Modulation
+B) Coding
+C) Beamforming
+D) Multiplexing
+Answer: C
 
-Q550. What is the main benefit of using OFDMA in LTE downlink?
-A) High spectral efficiency
-B) Low latency
-C) Simple implementation
-D) High power consumption
-Answer: A
-
-Control/User Plane (Q551–Q600)
-Q551. The control plane in LTE is primarily responsible for:
-A) User data transfer
-B) Signaling and session management
-C) IP routing
+Q209. What does SMF handle?
+A) Antenna control
+B) Session management
+C) Data transport
 D) Encryption
 Answer: B
 
-Q552. Which protocol is used for user plane data transfer in LTE?
-A) GTP-U
-B) SCTP
-C) ROHC
-D) RRC
+Q210. UPF handles which task?
+A) UE registration
+B) MM handover
+C) User data flow
+D) Roaming authentication
+Answer: C
+
+Q211. AMF is responsible for:
+A) PDU management
+B) UE registration & mobility
+C) Data forwarding
+D) Error correction
+Answer: B
+
+Q212. Which architecture relies on LTE EPC?
+A) SA
+B) NSA
+C) Hybrid
+D) Centralized
+Answer: B
+
+Q213. The antenna technique improving spectrum efficiency is:
+A) OFDM
+B) Beamforming
+C) Massive MIMO
+D) MCS
+Answer: C
+
+Q214. Which is used for mission-critical low latency apps?
+A) eMBB
+B) URLLC
+C) mMTC
+D) SDN
+Answer: B
+
+Q215. What does CUPS separate?
+A) Hardware and software
+B) Signal and encryption
+C) Control plane and user plane
+D) Antennas and processors
+Answer: C
+
+Q216. What does SBA stand for?
+A) Software Band Allocation
+B) Service-Based Architecture
+C) Spectrum-Based Access
+D) Secure Bandwidth Analysis
+Answer: B
+
+Q217. SBA uses which protocol?
+A) FTP
+B) SSH
+C) HTTP/2
+D) ARP
+Answer: C
+
+Q218. Which communication type does not require low latency?
+A) mMTC
+B) URLLC
+C) VR streaming
+D) Autonomous driving
 Answer: A
 
-Q553. Which plane handles bearer establishment and QoS management?
-A) Control plane
-B) User plane
-C) Both
-D) None
+Q219. Which uses dual connectivity (LTE+NR)?
+A) SA
+B) NSA
+C) mMTC
+D) NFV
+Answer: B
+
+Q220. Which technology reduces latency by processing locally?
+A) Beamforming
+B) Cloud Computing
+C) Edge Computing
+D) Data Compression
+Answer: C
+
+Q221. What does MEC stand for?
+A) Modular Edge Control
+B) Multi-access Edge Computing
+C) Mobile Equipment Communication
+D) Mission Edge Connection
+Answer: B
+
+Q222. mmWave operates above:
+A) 3 GHz
+B) 6 GHz
+C) 24 GHz
+D) 1 THz
+Answer: C
+
+Q223. Typical mmWave wavelength is:
+A) 10–100 cm
+B) 1–10 mm
+C) 1–10 m
+D) 100–1000 nm
+Answer: B
+
+Q224. Role of gNodeB is:
+A) UE authentication
+B) Cloud management
+C) Radio resource handling
+D) Packet encryption
+Answer: C
+
+Q225. Non-critical delay is okay in:
+A) URLLC
+B) mMTC
+C) AR/VR
+D) Remote surgery
+Answer: B
+
+Q226. What is the function of a slice in 5G?
+A) User Authentication
+B) Frequency allocation
+C) Logical network partitioning
+D) Encryption
+Answer: C
+
+Q227. What is a feature of eMBB?
+A) Massive number of IoT connections
+B) High-reliability
+C) Enhanced broadband data rates
+D) Ultra-low latency
+Answer: C
+
+Q228. Which is not part of 5G core network?
+A) AMF
+B) SMF
+C) MME
+D) UPF
+Answer: C
+
+Q229. If a network supports only eMBB and mMTC, which is missing?
+A) Low latency
+B) mMTC
+C) URLLC
+D) High reliability
+Answer: C
+
+Q230. 5G context, which is true for URLLC applications?
+A) Must support millions of devices/km²
+B) Must provide gigabit speeds
+C) Must deliver very high reliability
+D) Must use mmWave only
+Answer: C
+
+Q231. 5G can provide:
+A) Only higher speeds
+B) Only lower latency
+C) Only IoT support
+D) All of these
+Answer: D
+
+Q232. What makes 5G different from previous generations?
+A) Single use-case focus
+B) Dedicated to voice
+C) Versatile architecture and multiple use-cases
+D) Limited mobility
+Answer: C
+
+Q233. What is a function of Network Slicing?
+A) Improve signal strength
+B) Support diverse services
+C) Encrypt user data
+D) Reduce battery usage
+Answer: B
+
+Q234. URLLC use case:
+A) Social media browsing
+B) Remote surgery
+C) Video streaming
+D) Home automation
+Answer: B
+
+Q235. Which is a 5G NR interface?
+A) X2
+B) Uu
+C) S1-MME
+D) Gn
+Answer: B
+
+Q236. mMTC is best described as:
+A) Enhanced mobile broadband
+B) Massive device communication
+C) Ultra-reliable latency
+D) High frequency beamforming
+Answer: B
+
+Q237. Required bandwidth for eMBB applications generally:
+A) Less than 100 KHz
+B) More than 100 MHz
+C) Between 1 MHz and 10 MHz
+D) None of these
+Answer: B
+
+Q238. In 5G, user plane and control plane separation is realized using:
+A) CUPS
+B) OFDM
+C) SDN
+D) C-RAN
 Answer: A
 
-Q554. What is the main function of the user plane in LTE?
-A) Transfers user data packets
-B) Handles signaling
-C) Assigns IP address
-D) Paging
+Q239. The logical function handling IP address allocation & session continuity:
+A) UPF
+B) SMF
+C) AMF
+D) PCF
+Answer: B
+
+Q240. Which network entity supports mobility management in 5G core?
+A) DN
+B) UPF
+C) SMF
+D) AMF
+Answer: D
+
+Q241. What is the main benefit of Massive MIMO?
+A) Better battery life
+B) Higher spectral efficiency
+C) Lower frequency usage
+D) Only uplink support
+Answer: B
+
+Q242. What enables directional transmission and reception in 5G?
+A) Multiplexing
+B) Beamforming
+C) Time division
+D) SDN
+Answer: B
+
+Q243. Which service does not typically need URLLC?
+A) Smart grid automation
+B) Remote-controlled drones
+C) Video streaming
+D) Self-driving cars
+Answer: C
+
+Q244. In 5G, what function does SMF perform?
+A) Slicing management
+B) Session management
+C) Mobility management
+D) Billing
+Answer: B
+
+Q245. Which layer is responsible for determining user location in 5G?
+A) Transport
+B) Network
+C) Service
+D) Application
+Answer: B
+
+Q246. What can mMTC help with most?
+A) Streaming movies
+B) Connecting sensors
+C) Ultra-low latency gaming
+D) Cloud database encryption
+Answer: B
+
+Q247. Which 5G feature is key for supporting AR/VR applications?
+A) Massive IoT
+B) Ultra-reliable latency
+C) Enhanced broadband
+D) Network slicing
+Answer: C
+
+Q248. What is Network Function Virtualization (NFV) used for?
+A) Hardware partition
+B) Making network functions flexible
+C) Enhancing encryption only
+D) Enabling radio wave transmission
+Answer: B
+
+Q249. Which radio technology does 5G use for high data rates?
+A) FDMA
+B) TDMA
+C) OFDMA
+D) CDMA
+Answer: C
+
+Q250. What is the most common use case for low latency 5G?
+A) Social media
+B) Critical industrial control
+C) Downloading movies
+D) Password reset
+Answer: B
+
+Q251. In 5G, AMF stands for:
+A) Access Management Function
+B) Authentication Management Function
+C) Application Management Function
+D) Authentication and Mobility Function
+Answer: D
+
+Q252. For mMTC, primary challenge is:
+A) Connecting few devices
+B) Supporting millions of devices
+C) Providing gigabit speed
+D) Reducing spectrum use
+Answer: B
+
+Q253. Which 5G use case needs ultra-high reliability?
+A) Streaming music
+B) Autonomous vehicles
+C) Chat apps
+D) Shopping online
+Answer: B
+
+Q254. For low power consumption and long battery life, which applies?
+A) mMTC
+B) eMBB
+C) URLLC
+D) Massive MIMO
 Answer: A
 
-Q555. Which protocol is used for control plane signaling in LTE?
-A) RRC
-B) GTP-U
-C) SCTP
-D) ROHC
+Q255. Which technology is critical for high spectrum efficiency?
+A) Beamforming
+B) Massive MIMO
+C) SDN
+D) Edge computing
+Answer: B
+
+Q256. In 5G, UPF does NOT handle:
+A) Packet routing
+B) Forwarding user data
+C) Session management
+D) Data forwarding
+Answer: C
+
+Q257. What is a 5G slice used for?
+A) Frequency allocation
+B) User security only
+C) Customizing network resources for applications
+D) Physical antenna distribution
+Answer: C
+
+Q258. 5G uses what to achieve diverse service needs?
+A) Fixed network
+B) Network slicing
+C) Centralized control
+D) Frequency hopping
+Answer: B
+
+Q259. Control and User Plane Separation (CUPS) in 5G helps:
+A) Improving signal strength
+B) Separating management/control from data usage
+C) Reducing device battery usage
+D) Enabling AI at the edge
+Answer: B
+
+Q260. A common 5G service supporting mobile broadband is:
+A) URLLC
+B) eMBB
+C) mMTC
+D) CUPS
+Answer: B
+
+Q261. Which of the following BEST describes URLLC?
+A) Applications with high bandwidth
+B) Applications with low latency and high reliability requirements
+C) Applications with high device density
+D) Applications with low power
+Answer: B
+
+Q262. In 5G, which component provides connectivity to external Data Networks?
+A) DN
+B) SMF
+C) UPF
+D) AMF
+Answer: C
+
+Q263. 5G NR stands for:
+A) New Router
+B) Network Routing
+C) New Radio
+D) None of these
+Answer: C
+
+Q264. What's unique about 5G compared to 4G?
+A) Only faster data
+B) Only lower cost
+C) Slicing and varied use cases
+D) Only more antennas
+Answer: C
+
+Q265. 5G's eMBB is most similar to:
+A) LTE-Advanced
+B) Wi-Fi
+C) ZigBee
+D) Ethernet
 Answer: A
 
-Q556. What is the main purpose of the control plane in LTE?
-A) Manages signaling and session setup
-B) Transfers user data
-C) Encrypts data
-D) Paging
+Q266. High device density is primary challenge for:
+A) eMBB
+B) URLLC
+C) mMTC
+D) AMF
+Answer: C
+
+Q267. What technology is crucial to optimizing 5G spectrum?
+A) Cloud computing
+B) SDN
+C) Massive MIMO
+D) LTE-M
+Answer: C
+
+Q268. SDN in 5G stands for:
+A) Service Delivery Network
+B) Software Defined Networking
+C) System Data Network
+D) Secure Data Node
+Answer: B
+
+Q269. 5G infrastructure that supports user equipment:
+A) Core Network
+B) Access Network
+C) Transport Network
+D) Database Server
+Answer: B
+
+Q270. Which technique improves 5G signal penetration?
+A) Using low-band frequencies
+B) Beamforming
+C) Both a and b
+D) Spreading codes
+Answer: C
+
+Q271. For remote industrial robot control, which feature is critical?
+A) High device density
+B) High peak rate
+C) Ultra-low latency
+D) Massive MIMO
+Answer: C
+
+Q272. What is meant by Control Plane in 5G?
+A) Security hardware
+B) Data forwarding
+C) Signaling, management functions
+D) Antenna orientation
+Answer: C
+
+Q273. Slicing is implemented at which network level?
+A) Only physical
+B) Logical and service
+C) Only hardware
+D) Only antenna
+Answer: B
+
+Q274. For smart metering, which 5G feature is most relevant?
+A) eMBB
+B) mMTC
+C) URLLC
+D) AMF
+Answer: B
+
+Q275. Which layer in 5G OSI handles data encryption?
+A) Application
+B) Network
+C) Data link
+D) Physical
 Answer: A
 
-Q557. Which entity manages the control plane in LTE?
-A) MME
-B) PGW
-C) SGW
-D) eNodeB
+Q276. 5G core network is also termed:
+A) Evolved Packet Core
+B) Next Generation Core
+C) Service Gateway
+D) Evolved NodeB
+Answer: B
+
+Q277. In 5G, dual connectivity uses:
+A) LTE only
+B) 5G only
+C) LTE and 5G together
+D) Wi-Fi only
+Answer: C
+
+Q278. For telemedicine, which use case is essential?
+A) eMBB
+B) mMTC
+C) URLLC
+D) Beamforming
+Answer: C
+
+Q279. SBA's main advantage is:
+A) Tightly coupled services
+B) Decoupled, flexible services
+C) Higher frequencies
+D) Lower costs
+Answer: B
+
+Q280. 5G AMF is responsible for:
+A) User plane functions
+B) Radio resources
+C) Mobility and registration management
+D) Data encryption
+Answer: C
+
+Q281. Function of SDN in 5G is:
+A) Hardware-based switching
+B) Network virtualization and programmability
+C) Increasing antenna count
+D) Reducing bandwidth
+Answer: B
+
+Q282. What is a key difference for 5G NR compared to LTE?
+A) Only wider bandwidth
+B) Flexible numerology and subcarrier spacing
+C) Fewer antennas
+D) Legacy signaling
+Answer: B
+
+Q283. The radio access network in 5G is:
+A) gNodeB
+B) EPC
+C) NGC
+D) S-GW
 Answer: A
 
-Q558. What is the main function of the user plane protocol GTP-U?
-A) Transfers user data between eNodeB and core network
-B) Handles signaling
-C) Assigns IP address
-D) Paging
+Q284. In 5G, what does DN stand for?
+A) Data Node
+B) Device Network
+C) Data Network
+D) Distributed Node
+Answer: C
+
+Q285. Key mMTC benefit:
+A) Ultra-fast broadband
+B) Power savings for many devices
+C) Lower latency
+D) Edge application execution
+Answer: B
+
+Q286. 5G supports which frequency range(s)?
+A) Sub-6 GHz only
+B) mmWave only
+C) Both sub-6 GHz and mmWave
+D) Only licensed bands
+Answer: C
+
+Q287. Function of Network Slice Selection Function (NSSF):
+A) User authentication
+B) Selecting appropriate network slice
+C) Managing encryption
+D) Session creation
+Answer: B
+
+Q288. Which element enables end-to-end network slicing?
+A) Antenna array
+B) Edge computing
+C) Core network
+D) Handover function
+Answer: C
+
+Q289. 5G’s Service-Based Interface (SBI) is based on:
+A) HTTP/1
+B) HTTP/2
+C) TCP
+D) SCTP
+Answer: B
+
+Q290. What is the main function of PCF?
+A) Policy control
+B) Packet forwarding
+C) Packet scheduling
+D) Priority coding
 Answer: A
 
-Q559. Which plane is responsible for QoS enforcement in LTE?
-A) Control plane
-B) User plane
-C) Both
-D) None
+Q291. Which feature allows connection with legacy networks?
+A) Dual connectivity
+B) SDN
+C) mMTC
+D) eMBB
 Answer: A
 
-Q560. What is the main benefit of separating control and user planes in LTE?
-A) Improved network efficiency and flexibility
-B) Lower data rates
-C) Higher latency
-D) Simpler implementation
+Q292. Which 5G RAN node communicates with UE?
+A) SMF
+B) gNodeB
+C) AMF
+D) UPF
+Answer: B
+
+Q293. Typical URLLC reliability requirement is:
+A) 99%
+B) 95%
+C) 99.999%
+D) 90%
+Answer: C
+
+Q294. For 5G, which technology enables small form-factor base stations?
+A) Macro cells
+B) Small cells
+C) Satellites
+D) Fiber backhaul
+Answer: B
+
+Q295. In 5G core, PCF provides:
+A) User authentication
+B) Policy control and charging
+C) Session management
+D) Device registration
+Answer: B
+
+Q296. What enables dynamic resource allocation in 5G?
+A) Fixed slicing
+B) Software-defined networking
+C) Static channel allocation
+D) Mechanical relays
+Answer: B
+
+Q297. To support flexibility, 5G core is:
+A) Monolithic
+B) Highly modular and service-based
+C) Static
+D) Point-to-point only
+Answer: B
+
+Q298. What is radio interface for 5G devices?
+A) X2
+B) Uu
+C) N1
+D) S10
+Answer: B
+
+Q299. Which function manages access and mobility?
+A) AMF
+B) UPF
+C) SMF
+D) PCF
 Answer: A
 
-Q561. Which protocol is used for bearer management in LTE?
-A) S1-AP
-B) GTP-U
-C) SCTP
-D) ROHC
-Answer: A
-
-Q562. What is the main function of the control plane protocol RRC?
-A) Manages radio resources and signaling
-B) Transfers user data
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q563. Which entity manages the user plane in LTE?
-A) SGW
-B) MME
-C) HSS
-D) PCRF
-Answer: A
-
-Q564. What is the main purpose of the user plane in LTE?
-A) Transfers user data packets
-B) Handles signaling
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q565. Which protocol is used for user plane data transfer between eNodeB and SGW?
-A) GTP-U
-B) SCTP
-C) ROHC
-D) RRC
-Answer: A
-
-Q566. What is the main function of the control plane protocol S1-AP?
-A) Manages signaling between eNodeB and MME
-B) Transfers user data
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q567. Which plane is responsible for session management in LTE?
-A) Control plane
-B) User plane
-C) Both
-D) None
-Answer: A
-
-Q568. What is the main benefit of using GTP-U in the user plane?
-A) Efficient user data transfer
-B) Lower data rates
-C) Higher latency
-D) Simpler implementation
-Answer: A
-
-Q569. Which protocol is used for control plane signaling between eNodeB and MME?
-A) S1-AP
-B) GTP-U
-C) SCTP
-D) ROHC
-Answer: A
-
-Q570. What is the main function of the user plane protocol GTP-U?
-A) Transfers user data between eNodeB and core network
-B) Handles signaling
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q571. Which plane is responsible for QoS enforcement in LTE?
-A) Control plane
-B) User plane
-C) Both
-D) None
-Answer: A
-
-Q572. What is the main benefit of separating control and user planes in LTE?
-A) Improved network efficiency and flexibility
-B) Lower data rates
-C) Higher latency
-D) Simpler implementation
-Answer: A
-
-Q573. Which protocol is used for bearer management in LTE?
-A) S1-AP
-B) GTP-U
-C) SCTP
-D) ROHC
-Answer: A
-
-Q574. What is the main function of the control plane protocol RRC?
-A) Manages radio resources and signaling
-B) Transfers user data
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q575. Which entity manages the user plane in LTE?
-A) SGW
-B) MME
-C) HSS
-D) PCRF
-Answer: A
-
-Q576. What is the main purpose of the user plane in LTE?
-A) Transfers user data packets
-B) Handles signaling
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q577. Which protocol is used for user plane data transfer between eNodeB and SGW?
-A) GTP-U
-B) SCTP
-C) ROHC
-D) RRC
-Answer: A
-
-Q578. What is the main function of the control plane protocol S1-AP?
-A) Manages signaling between eNodeB and MME
-B) Transfers user data
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q579. Which plane is responsible for session management in LTE?
-A) Control plane
-B) User plane
-C) Both
-D) None
-Answer: A
-
-Q580. What is the main benefit of using GTP-U in the user plane?
-A) Efficient user data transfer
-B) Lower data rates
-C) Higher latency
-D) Simpler implementation
-Answer: A
-
-Q581. Which protocol is used for control plane signaling between eNodeB and MME?
-A) S1-AP
-B) GTP-U
-C) SCTP
-D) ROHC
-Answer: A
-
-Q582. What is the main function of the user plane protocol GTP-U?
-A) Transfers user data between eNodeB and core network
-B) Handles signaling
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q583. Which plane is responsible for QoS enforcement in LTE?
-A) Control plane
-B) User plane
-C) Both
-D) None
-Answer: A
-
-Q584. What is the main benefit of separating control and user planes in LTE?
-A) Improved network efficiency and flexibility
-B) Lower data rates
-C) Higher latency
-D) Simpler implementation
-Answer: A
-
-Q585. Which protocol is used for bearer management in LTE?
-A) S1-AP
-B) GTP-U
-C) SCTP
-D) ROHC
-Answer: A
-
-Q586. What is the main function of the control plane protocol RRC?
-A) Manages radio resources and signaling
-B) Transfers user data
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q587. Which entity manages the user plane in LTE?
-A) SGW
-B) MME
-C) HSS
-D) PCRF
-Answer: A
-
-Q588. What is the main purpose of the user plane in LTE?
-A) Transfers user data packets
-B) Handles signaling
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q589. Which protocol is used for user plane data transfer between eNodeB and SGW?
-A) GTP-U
-B) SCTP
-C) ROHC
-D) RRC
-Answer: A
-
-Q590. What is the main function of the control plane protocol S1-AP?
-A) Manages signaling between eNodeB and MME
-B) Transfers user data
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q591. Which plane is responsible for session management in LTE?
-A) Control plane
-B) User plane
-C) Both
-D) None
-Answer: A
-
-Q592. What is the main benefit of using GTP-U in the user plane?
-A) Efficient user data transfer
-B) Lower data rates
-C) Higher latency
-D) Simpler implementation
-Answer: A
-
-Q593. Which protocol is used for control plane signaling between eNodeB and MME?
-A) S1-AP
-B) GTP-U
-C) SCTP
-D) ROHC
-Answer: A
-
-Q594. What is the main function of the user plane protocol GTP-U?
-A) Transfers user data between eNodeB and core network
-B) Handles signaling
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q595. Which plane is responsible for QoS enforcement in LTE?
-A) Control plane
-B) User plane
-C) Both
-D) None
-Answer: A
-
-Q596. What is the main benefit of separating control and user planes in LTE?
-A) Improved network efficiency and flexibility
-B) Lower data rates
-C) Higher latency
-D) Simpler implementation
-Answer: A
-
-Q597. Which protocol is used for bearer management in LTE?
-A) S1-AP
-B) GTP-U
-C) SCTP
-D) ROHC
-Answer: A
-
-Q598. What is the main function of the control plane protocol RRC?
-A) Manages radio resources and signaling
-B) Transfers user data
-C) Assigns IP address
-D) Paging
-Answer: A
-
-Q599. Which entity manages the user plane in LTE?
-A) SGW
-B) MME
-C) HSS
-D) PCRF
-Answer: A
-
-Q600. What is the main purpose of the user plane in LTE?
-A) Transfers user data packets
-B) Handles signaling
-C) Assigns IP address
-D) Paging
-Answer: A
+Q300. A typical battery life target for many mMTC devices is:
+A) A few hours
+B) A few days
+C) 5–10 years
+D) 50 years
+Answer: C
