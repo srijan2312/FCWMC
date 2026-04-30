@@ -1,8 +1,8 @@
-Q1. Which of the following is a guided transmission medium?
-A) Radio Waves
-B) Optical Fiber
-C) Infrared
-D) Satellite
+Q1. The process of producing energy by utilizing heat trapped inside the earth surface is called _________
+A) Hydrothermal energy
+B) geothermal energy
+C) Solar energy
+D) Wave energy
 Answer: B
 
 Q2. Which of the following is NOT wireless communication?
